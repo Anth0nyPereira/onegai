@@ -998,3 +998,914 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.11-16.28.58:880][325]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.76% of total time (compiled  164 times, average 1.48 sec, max 7.60 sec, min 0.80 sec)
 [2023.03.11-16.28.58:880][325]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.72% of total time (compiled  157 times, average 1.53 sec, max 4.00 sec, min 0.50 sec)
 [2023.03.11-16.28.58:880][325]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Tracking 3989 distinct input hashes that result in 1658 distinct outputs (41.56%)
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: RAM used: 7.32 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.02%
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Jobs assigned 4069, completed 3989 (98.03%)
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Time job spent in pending queue: average 428.99 s, longest 863.30 s
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Job execution time: average 15.92 s, max 72.03 s
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Job life time (pending + execution): average 436.83 s, max 863.30
+[2023.03.11-16.31.59:471][326]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 864.74 s
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: Jobs were issued in 437 batches (only local compilation was used), average 9.31 jobs/batch
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: Average processing rate: 4.61 jobs/sec
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: Effective parallelization: 7.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.42% of total time (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.96% of total time (compiled  192 times, average 1.64 sec, max 4.07 sec, min 0.51 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.88% of total time (compiled   90 times, average 3.44 sec, max 4.46 sec, min 1.57 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.63% of total time (compiled  198 times, average 1.49 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.55% of total time (compiled  192 times, average 1.51 sec, max 3.35 sec, min 0.43 sec)
+[2023.03.11-16.31.59:472][326]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Tracking 4949 distinct input hashes that result in 1852 distinct outputs (37.42%)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: RAM used: 8.47 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.18%
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Jobs assigned 5029, completed 4949 (98.41%)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Time job spent in pending queue: average 526.03 s, longest 1043.55 s
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Job execution time: average 15.80 s, max 72.03 s
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Job life time (pending + execution): average 533.90 s, max 1043.55
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1045.28 s
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Jobs were issued in 533 batches (only local compilation was used), average 9.44 jobs/batch
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Average processing rate: 4.73 jobs/sec
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Effective parallelization: 7.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.35.00:042][291]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.13% of total time (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.73% of total time (compiled  106 times, average 3.43 sec, max 4.46 sec, min 1.57 sec)
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.58% of total time (compiled  216 times, average 1.63 sec, max 4.07 sec, min 0.51 sec)
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.36% of total time (compiled  212 times, average 1.58 sec, max 4.03 sec, min 0.50 sec)
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.28% of total time (compiled  224 times, average 1.47 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.35.00:043][291]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.35.26:780][579]LogViewport: Scene viewport resized to 1526x632, mode Windowed.
+[2023.03.11-16.35.26:843][581]LogViewport: Scene viewport resized to 1526x531, mode Windowed.
+[2023.03.11-16.35.26:907][583]LogViewport: Scene viewport resized to 1526x427, mode Windowed.
+[2023.03.11-16.35.26:974][585]LogViewport: Scene viewport resized to 1526x360, mode Windowed.
+[2023.03.11-16.35.27:045][587]LogViewport: Scene viewport resized to 1526x297, mode Windowed.
+[2023.03.11-16.35.27:114][589]LogViewport: Scene viewport resized to 1526x243, mode Windowed.
+[2023.03.11-16.35.27:178][591]LogViewport: Scene viewport resized to 1526x216, mode Windowed.
+[2023.03.11-16.35.27:244][593]LogViewport: Scene viewport resized to 1526x207, mode Windowed.
+[2023.03.11-16.35.31:024][790]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.11-16.35.32:450][790]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.11-16.35.32:479][790]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.11-16.35.32:493][790]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.11-16.35.32:538][791]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.03.11-16.35.39:616][203]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameMode
+[2023.03.11-16.35.39:654][203]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.11-16.36.16:631][  3]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\anth0\Desktop\Fonts/ComicJensFreePro-Regular.ttf)
+[2023.03.11-16.36.31:740][  3]LogSlate: Window 'Font Face Import Options' being destroyed
+[2023.03.11-16.36.31:750][  3]Message dialog closed, result: YesAll, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2023.03.11-16.36.31:753][  3]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.03.11-16.36.31:757][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-16.36.31:764][  3]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\anth0\Desktop\Fonts/ComicNeue-Angular-Regular.ttf)
+[2023.03.11-16.36.31:766][  3]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2023.03.11-16.36.31:794][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\Music/SW_Music.WAV)
+[2023.03.11-16.36.31:866][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Music...
+[2023.03.11-16.36.31:874][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Music/SW_Music.SW_Music will be modified from 40 to 40.
+[2023.03.11-16.36.32:464][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11538176 while cooking SoundWave /Game/Music/SW_Music.SW_Music.
+[2023.03.11-16.36.32:469][  3]LogSlate: Took 0.001685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.11-16.36.32:474][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-16.36.32:479][  3]LogAudio: Display: Chunk size for SoundWave /Game/Music/SW_Music.SW_Music: 262144
+[2023.03.11-16.36.32:519][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/afro_diffuse.png)
+[2023.03.11-16.36.32:681][  3]LogTexture: Display: Building textures: /Game/textures/afro_diffuse.afro_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.32:681][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/BG/T_BG_Exterior01.png)
+[2023.03.11-16.36.32:777][  3]LogTexture: Display: Building textures: /Game/textures/BG/T_BG_Exterior01.T_BG_Exterior01 (TFO_AutoDXT, 1792X1024 X1X1) (Required Memory Estimate: 35.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.32:777][  3]LogSlate: Took 0.000782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.11-16.36.32:804][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/BG/T_BG_Exterior02.png)
+[2023.03.11-16.36.32:933][  3]LogTexture: Display: Building textures: /Game/textures/BG/T_BG_Exterior02.T_BG_Exterior02 (TFO_AutoDXT, 1792X1024 X1X1) (Required Memory Estimate: 35.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.32:933][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/BG/T_BG_Interior.png)
+[2023.03.11-16.36.33:016][  3]LogTexture: Display: Building textures: /Game/textures/BG/T_BG_Interior.T_BG_Interior (TFO_AutoDXT, 1792X1024 X1X1) (Required Memory Estimate: 35.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.33:037][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/brown_eye.png)
+[2023.03.11-16.36.33:091][  3]LogTexture: Display: Building textures: /Game/textures/brown_eye.brown_eye (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.33:091][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/eyebrow012.png)
+[2023.03.11-16.36.33:122][  3]LogTexture: Display: Building textures: /Game/textures/eyebrow012.eyebrow012 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.33:122][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/male_casualsuit03_diffuse.png)
+[2023.03.11-16.36.33:302][  3]LogTexture: Display: Building textures: /Game/textures/male_casualsuit03_diffuse.male_casualsuit03_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.33:302][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/male_casualsuit03_normal.png)
+[2023.03.11-16.36.33:879][  3]LogSlate: Took 0.004596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.11-16.36.33:905][  3]LogTexture: Display: Building textures: /Game/textures/male_casualsuit03_normal.male_casualsuit03_normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.33:951][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/shoes01_diffuse.png)
+[2023.03.11-16.36.34:037][  3]LogTexture: Display: Building textures: /Game/textures/shoes01_diffuse.shoes01_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:037][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/shoes01_normal.png)
+[2023.03.11-16.36.34:144][  3]LogTexture: Display: Building textures: /Game/textures/shoes01_normal.shoes01_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:180][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Angry.png)
+[2023.03.11-16.36.34:233][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Laugh.png)
+[2023.03.11-16.36.34:300][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Laugh.T_Girl01_Laugh (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:300][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Angry.T_Girl01_Angry (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:300][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Normal.png)
+[2023.03.11-16.36.34:373][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Normal.T_Girl01_Normal (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:419][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Sad.png)
+[2023.03.11-16.36.34:483][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Sad.T_Girl01_Sad (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:483][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Shocked.png)
+[2023.03.11-16.36.34:560][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Shocked.T_Girl01_Shocked (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:561][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl01_Smile.png)
+[2023.03.11-16.36.34:596][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl01_Smile.T_Girl01_Smile (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:658][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Angry.png)
+[2023.03.11-16.36.34:719][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Angry.T_Girl02_Angry (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:719][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Laugh.png)
+[2023.03.11-16.36.34:765][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Laugh.T_Girl02_Laugh (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:766][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Normal.png)
+[2023.03.11-16.36.34:810][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Normal.T_Girl02_Normal (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:810][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Sad.png)
+[2023.03.11-16.36.34:838][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Sad.T_Girl02_Sad (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:866][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Shocked.png)
+[2023.03.11-16.36.34:908][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Shocked.T_Girl02_Shocked (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:908][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\anth0\Desktop\textures/Sprites/T_Girl02_Smile.png)
+[2023.03.11-16.36.34:949][  3]LogTexture: Display: Building textures: /Game/textures/Sprites/T_Girl02_Smile.T_Girl02_Smile (BGRA8, 1011X1145 X1X1) (Required Memory Estimate: 22.079372 MB), EncodeSpeed: Fast
+[2023.03.11-16.36.34:950][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_BG.WAV)
+[2023.03.11-16.36.34:989][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_BG...
+[2023.03.11-16.36.34:994][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_BG.SW_BG will be modified from 40 to 40.
+[2023.03.11-16.36.35:222][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4016816 while cooking SoundWave /Game/SFX/SW_BG.SW_BG.
+[2023.03.11-16.36.35:230][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_BG.SW_BG: 262144
+[2023.03.11-16.36.35:238][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Choices.WAV)
+[2023.03.11-16.36.35:241][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Choices...
+[2023.03.11-16.36.35:242][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Choices.SW_Choices will be modified from 40 to 40.
+[2023.03.11-16.36.35:250][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 142428 while cooking SoundWave /Game/SFX/SW_Choices.SW_Choices.
+[2023.03.11-16.36.35:250][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Choices.SW_Choices: 262144
+[2023.03.11-16.36.35:254][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Continue.WAV)
+[2023.03.11-16.36.35:257][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Continue...
+[2023.03.11-16.36.35:257][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Continue.SW_Continue will be modified from 40 to 40.
+[2023.03.11-16.36.35:269][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 197020 while cooking SoundWave /Game/SFX/SW_Continue.SW_Continue.
+[2023.03.11-16.36.35:269][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Continue.SW_Continue: 262144
+[2023.03.11-16.36.35:273][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_HighPitch.WAV)
+[2023.03.11-16.36.35:279][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_HighPitch...
+[2023.03.11-16.36.35:280][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_HighPitch.SW_HighPitch will be modified from 40 to 40.
+[2023.03.11-16.36.35:306][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 460312 while cooking SoundWave /Game/SFX/SW_HighPitch.SW_HighPitch.
+[2023.03.11-16.36.35:307][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_HighPitch.SW_HighPitch: 262144
+[2023.03.11-16.36.35:310][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Key1.WAV)
+[2023.03.11-16.36.35:311][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Key1...
+[2023.03.11-16.36.35:311][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Key1.SW_Key1 will be modified from 40 to 40.
+[2023.03.11-16.36.35:314][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46080 while cooking SoundWave /Game/SFX/SW_Key1.SW_Key1.
+[2023.03.11-16.36.35:316][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Key1.SW_Key1: 262144
+[2023.03.11-16.36.35:318][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Key2.WAV)
+[2023.03.11-16.36.35:320][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Key2...
+[2023.03.11-16.36.35:320][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Key2.SW_Key2 will be modified from 40 to 40.
+[2023.03.11-16.36.35:325][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 76800 while cooking SoundWave /Game/SFX/SW_Key2.SW_Key2.
+[2023.03.11-16.36.35:325][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Key2.SW_Key2: 262144
+[2023.03.11-16.36.35:328][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Key3.WAV)
+[2023.03.11-16.36.35:331][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Key3...
+[2023.03.11-16.36.35:331][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Key3.SW_Key3 will be modified from 40 to 40.
+[2023.03.11-16.36.35:337][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 92160 while cooking SoundWave /Game/SFX/SW_Key3.SW_Key3.
+[2023.03.11-16.36.35:337][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Key3.SW_Key3: 262144
+[2023.03.11-16.36.35:340][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Key4.WAV)
+[2023.03.11-16.36.35:341][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Key4...
+[2023.03.11-16.36.35:342][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Key4.SW_Key4 will be modified from 40 to 40.
+[2023.03.11-16.36.35:344][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38400 while cooking SoundWave /Game/SFX/SW_Key4.SW_Key4.
+[2023.03.11-16.36.35:344][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Key4.SW_Key4: 262144
+[2023.03.11-16.36.35:347][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Key5.WAV)
+[2023.03.11-16.36.35:349][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Key5...
+[2023.03.11-16.36.35:349][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Key5.SW_Key5 will be modified from 40 to 40.
+[2023.03.11-16.36.35:352][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38400 while cooking SoundWave /Game/SFX/SW_Key5.SW_Key5.
+[2023.03.11-16.36.35:352][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Key5.SW_Key5: 262144
+[2023.03.11-16.36.35:354][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_LowPitch.WAV)
+[2023.03.11-16.36.35:359][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_LowPitch...
+[2023.03.11-16.36.35:359][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_LowPitch.SW_LowPitch will be modified from 40 to 40.
+[2023.03.11-16.36.35:373][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 239348 while cooking SoundWave /Game/SFX/SW_LowPitch.SW_LowPitch.
+[2023.03.11-16.36.35:373][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_LowPitch.SW_LowPitch: 262144
+[2023.03.11-16.36.35:377][  3]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\anth0\Desktop\SFX/SW_Skip.WAV)
+[2023.03.11-16.36.35:379][  3]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SW_Skip...
+[2023.03.11-16.36.35:379][  3]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/SW_Skip.SW_Skip will be modified from 40 to 40.
+[2023.03.11-16.36.35:390][  3]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 201668 while cooking SoundWave /Game/SFX/SW_Skip.SW_Skip.
+[2023.03.11-16.36.35:390][  3]LogAudio: Display: Chunk size for SoundWave /Game/SFX/SW_Skip.SW_Skip: 262144
+[2023.03.11-16.36.35:786][  3]LogSlate: Took 0.000643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.11-16.36.35:788][  3]LogSlate: Took 0.000972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.11-16.36.35:809][  3]LogSlate: Took 0.000841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.11-16.36.35:929][  3]LogSlate: Took 0.001324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.11-16.37.20:040][166]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.11-16.37.20:061][166]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.11-16.37.20:083][167]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.11-16.37.22:899][333]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2023.03.11-16.37.22:901][333]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.11-16.37.25:177][462]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.03.11-16.37.25:179][462]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.03.11-16.37.27:116][561]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/ComicNeue-Angular-Regular_Font
+[2023.03.11-16.37.27:116][561]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/ComicNeue-Angular-Regular_FontBD9670D64076EA7601D1969EEF800111.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Fonts/ComicNeue-Angular-Regular_Font.uasset'
+[2023.03.11-16.37.27:120][561]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/ComicNeue-Angular-Regular
+[2023.03.11-16.37.27:120][561]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/ComicNeue-Angular-Regular33CAF7B947ADF4188EFA7484A208B72F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Fonts/ComicNeue-Angular-Regular.uasset'
+[2023.03.11-16.37.27:132][561]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/ComicJensFreePro-Regular_Font
+[2023.03.11-16.37.27:132][561]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/ComicJensFreePro-Regular_FontDCFADAFB403686672EA32DB08A9A65B6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Fonts/ComicJensFreePro-Regular_Font.uasset'
+[2023.03.11-16.37.27:135][561]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/ComicJensFreePro-Regular
+[2023.03.11-16.37.27:135][561]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/ComicJensFreePro-RegularBF9DA4AF46D113C46AC221B71F9C7AB0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Fonts/ComicJensFreePro-Regular.uasset'
+[2023.03.11-16.37.27:174][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.03.11-16.37.27:209][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.03.11-16.37.27:220][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.11-16.37.27:260][561]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.11-16.37.27:260][561]LogContentValidation: Display: Validating Font /Game/Assets/Fonts/ComicNeue-Angular-Regular_Font.ComicNeue-Angular-Regular_Font
+[2023.03.11-16.37.27:260][561]LogContentValidation: Display: Validating FontFace /Game/Assets/Fonts/ComicNeue-Angular-Regular.ComicNeue-Angular-Regular
+[2023.03.11-16.37.27:260][561]LogContentValidation: Display: Validating Font /Game/Assets/Fonts/ComicJensFreePro-Regular_Font.ComicJensFreePro-Regular_Font
+[2023.03.11-16.37.27:260][561]LogContentValidation: Display: Validating FontFace /Game/Assets/Fonts/ComicJensFreePro-Regular.ComicJensFreePro-Regular
+[2023.03.11-16.37.37:165][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Smile
+[2023.03.11-16.37.37:166][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_SmileD4CEA0DB4797CBA827312283841B2344.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Smile.uasset'
+[2023.03.11-16.37.37:228][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Shocked
+[2023.03.11-16.37.37:229][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_Shocked5068086A402CF9227FE0D181AD6F0884.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Shocked.uasset'
+[2023.03.11-16.37.37:301][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Sad
+[2023.03.11-16.37.37:301][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_Sad98B8CF8E4D1CE9C96F31DCBAE6E2FD92.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Sad.uasset'
+[2023.03.11-16.37.37:388][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Normal
+[2023.03.11-16.37.37:388][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_Normal9A75968445E1099262E2259818F47B75.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Normal.uasset'
+[2023.03.11-16.37.37:488][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Laugh
+[2023.03.11-16.37.37:490][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_LaughD28A29A347C2835CFEEE1F877E346663.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Laugh.uasset'
+[2023.03.11-16.37.37:583][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl02_Angry
+[2023.03.11-16.37.37:584][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl02_Angry4A9AEA9841A3BEC65240B5A333C535E6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Angry.uasset'
+[2023.03.11-16.37.37:681][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Smile
+[2023.03.11-16.37.37:682][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_Smile7AAA56B945D664D01BD158B44965CD18.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Smile.uasset'
+[2023.03.11-16.37.37:799][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Shocked
+[2023.03.11-16.37.37:801][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_ShockedBE7CAE434DD77581A4EAC388A66DD1BB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Shocked.uasset'
+[2023.03.11-16.37.37:931][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Sad
+[2023.03.11-16.37.37:932][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_Sad3A14168A4BB7C2A8F8B508B58DAE29EE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Sad.uasset'
+[2023.03.11-16.37.38:050][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Normal
+[2023.03.11-16.37.38:051][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_NormalA2455FFE418663F6638CE48404B5D6B9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Normal.uasset'
+[2023.03.11-16.37.38:151][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Laugh
+[2023.03.11-16.37.38:151][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_Laugh90E3D0E3494BF398B52726A7A63F71EF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Laugh.uasset'
+[2023.03.11-16.37.38:248][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/Sprites/T_Girl01_Angry
+[2023.03.11-16.37.38:250][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_Girl01_Angry861F477B472B737E8FB2ADBB20BA0BD8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Angry.uasset'
+[2023.03.11-16.37.38:435][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/shoes01_normal
+[2023.03.11-16.37.38:435][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/shoes01_normal16ED951F4B207C6A6F2F03A4BC116076.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/shoes01_normal.uasset'
+[2023.03.11-16.37.38:610][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/shoes01_diffuse
+[2023.03.11-16.37.38:611][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/shoes01_diffuseAA03FE6D437C26A928A7DA99591C3588.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/shoes01_diffuse.uasset'
+[2023.03.11-16.37.40:098][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/male_casualsuit03_normal
+[2023.03.11-16.37.40:098][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/male_casualsuit03_normalCC025F0340E7E106535637AE6B943326.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/male_casualsuit03_normal.uasset'
+[2023.03.11-16.37.40:561][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/male_casualsuit03_diffuse
+[2023.03.11-16.37.40:561][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/male_casualsuit03_diffuse91201F34483646992B3DE686F63842F0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/male_casualsuit03_diffuse.uasset'
+[2023.03.11-16.37.40:569][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/eyebrow012" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/eyebrow012.uasset" SILENT=true
+[2023.03.11-16.37.40:586][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/eyebrow012
+[2023.03.11-16.37.40:586][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/eyebrow0128A8327B947685A9FBA22A59EFEF17687.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/eyebrow012.uasset'
+[2023.03.11-16.37.40:592][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/textures/brown_eye" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/brown_eye.uasset" SILENT=true
+[2023.03.11-16.37.40:692][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/brown_eye
+[2023.03.11-16.37.40:692][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/brown_eyeB3E1B01D42981774AC1B4B81BCF7BE0D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/brown_eye.uasset'
+[2023.03.11-16.37.40:955][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/BG/T_BG_Interior
+[2023.03.11-16.37.40:957][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_BG_InteriorDC63B918470DDC9DE13DA9904A1752B4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/BG/T_BG_Interior.uasset'
+[2023.03.11-16.37.41:378][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/BG/T_BG_Exterior02
+[2023.03.11-16.37.41:379][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_BG_Exterior0244856DA042A48B4A14E9EBA97BBB194F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/BG/T_BG_Exterior02.uasset'
+[2023.03.11-16.37.41:782][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/BG/T_BG_Exterior01
+[2023.03.11-16.37.41:782][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/T_BG_Exterior0125938190443914D14B0CA2AAA06E9C23.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/BG/T_BG_Exterior01.uasset'
+[2023.03.11-16.37.42:290][101]LogSavePackage: Moving output files for package: /Game/Assets/textures/afro_diffuse
+[2023.03.11-16.37.42:290][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/afro_diffuse912D691F43875E7393F77ABA352E0EFD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/textures/afro_diffuse.uasset'
+[2023.03.11-16.37.42:399][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.11-16.37.42:418][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.11-16.37.42:432][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.11-16.37.42:563][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Skip" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Skip.uasset" SILENT=true
+[2023.03.11-16.37.42:567][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Skip
+[2023.03.11-16.37.42:567][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Skip30B3D5A741DB121485CCDCBDDFA223A2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Skip.uasset'
+[2023.03.11-16.37.42:574][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_LowPitch" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_LowPitch.uasset" SILENT=true
+[2023.03.11-16.37.42:578][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_LowPitch
+[2023.03.11-16.37.42:578][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_LowPitchC92435DD4F351EB475F6D9987A153B73.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_LowPitch.uasset'
+[2023.03.11-16.37.42:586][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Key5" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key5.uasset" SILENT=true
+[2023.03.11-16.37.42:589][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Key5
+[2023.03.11-16.37.42:590][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Key52B20CE2940908720CAF99CAB7CBE67CE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key5.uasset'
+[2023.03.11-16.37.42:596][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Key4" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key4.uasset" SILENT=true
+[2023.03.11-16.37.42:600][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Key4
+[2023.03.11-16.37.42:600][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Key46A007E9745E1F3D6BFA9C6B659B39D28.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key4.uasset'
+[2023.03.11-16.37.42:607][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Key3" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key3.uasset" SILENT=true
+[2023.03.11-16.37.42:610][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Key3
+[2023.03.11-16.37.42:610][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Key3693EC4E8475DC896A11F789C97C19927.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key3.uasset'
+[2023.03.11-16.37.42:621][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Key2" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key2.uasset" SILENT=true
+[2023.03.11-16.37.42:625][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Key2
+[2023.03.11-16.37.42:625][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Key205E2972446A102B2C3E1AF82B4D1514B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key2.uasset'
+[2023.03.11-16.37.42:633][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Key1" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key1.uasset" SILENT=true
+[2023.03.11-16.37.42:636][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Key1
+[2023.03.11-16.37.42:636][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Key19DFBB1C44F3A9185636E97B5953251E2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Key1.uasset'
+[2023.03.11-16.37.42:643][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_HighPitch" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_HighPitch.uasset" SILENT=true
+[2023.03.11-16.37.42:646][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_HighPitch
+[2023.03.11-16.37.42:646][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_HighPitchFD3AB02F41AE9684F4F15DB47EDBD5C7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_HighPitch.uasset'
+[2023.03.11-16.37.42:654][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Continue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Continue.uasset" SILENT=true
+[2023.03.11-16.37.42:657][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Continue
+[2023.03.11-16.37.42:657][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_ContinueF8AFD30C41EB799001D613A116BD3565.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Continue.uasset'
+[2023.03.11-16.37.42:664][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_Choices" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Choices.uasset" SILENT=true
+[2023.03.11-16.37.42:668][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_Choices
+[2023.03.11-16.37.42:668][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_ChoicesF813E83B4C2B43416BB7D8A4E70AA3DB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_Choices.uasset'
+[2023.03.11-16.37.42:678][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SFX/SW_BG" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_BG.uasset" SILENT=true
+[2023.03.11-16.37.42:684][101]LogSavePackage: Moving output files for package: /Game/Assets/SFX/SW_BG
+[2023.03.11-16.37.42:685][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_BGA74A3AEA41468A314B279E92A77E2E4D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/SFX/SW_BG.uasset'
+[2023.03.11-16.37.42:758][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.03.11-16.37.42:773][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.03.11-16.37.42:786][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.11-16.37.42:901][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Music/SW_Music" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Music/SW_Music.uasset" SILENT=true
+[2023.03.11-16.37.42:911][101]LogSavePackage: Moving output files for package: /Game/Assets/Music/SW_Music
+[2023.03.11-16.37.42:911][101]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/SW_Music527880EB45BD7CDCEE8FD989DED88E0A.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Assets/Music/SW_Music.uasset'
+[2023.03.11-16.37.42:944][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.11-16.37.42:959][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.11-16.37.42:973][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.11-16.37.43:024][101]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Skip.SW_Skip
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_LowPitch.SW_LowPitch
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Key5.SW_Key5
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Key4.SW_Key4
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Key3.SW_Key3
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Key2.SW_Key2
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Key1.SW_Key1
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_HighPitch.SW_HighPitch
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Continue.SW_Continue
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_Choices.SW_Choices
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/SFX/SW_BG.SW_BG
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Smile.T_Girl02_Smile
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Shocked.T_Girl02_Shocked
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Sad.T_Girl02_Sad
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Normal.T_Girl02_Normal
+[2023.03.11-16.37.43:024][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Laugh.T_Girl02_Laugh
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl02_Angry.T_Girl02_Angry
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Smile.T_Girl01_Smile
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Shocked.T_Girl01_Shocked
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Sad.T_Girl01_Sad
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Normal.T_Girl01_Normal
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Laugh.T_Girl01_Laugh
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/Sprites/T_Girl01_Angry.T_Girl01_Angry
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/shoes01_normal.shoes01_normal
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/shoes01_diffuse.shoes01_diffuse
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/male_casualsuit03_normal.male_casualsuit03_normal
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/male_casualsuit03_diffuse.male_casualsuit03_diffuse
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/eyebrow012.eyebrow012
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/brown_eye.brown_eye
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/BG/T_BG_Interior.T_BG_Interior
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/BG/T_BG_Exterior02.T_BG_Exterior02
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/BG/T_BG_Exterior01.T_BG_Exterior01
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating Texture2D /Game/Assets/textures/afro_diffuse.afro_diffuse
+[2023.03.11-16.37.43:026][101]LogContentValidation: Display: Validating SoundWave /Game/Assets/Music/SW_Music.SW_Music
+[2023.03.11-16.38.00:875][971]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Tracking 5879 distinct input hashes that result in 2045 distinct outputs (34.78%)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: RAM used: 9.68 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.35%
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Jobs assigned 5959, completed 5879 (98.66%)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Time job spent in pending queue: average 618.89 s, longest 1223.92 s
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Job execution time: average 15.76 s, max 72.03 s
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Job life time (pending + execution): average 626.75 s, max 1223.92
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1226.13 s
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Jobs were issued in 626 batches (only local compilation was used), average 9.52 jobs/batch
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Average processing rate: 4.79 jobs/sec
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Effective parallelization: 7.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 5.23% of total time (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.53% of total time (compiled  120 times, average 3.41 sec, max 4.51 sec, min 1.57 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.29% of total time (compiled  238 times, average 1.63 sec, max 4.07 sec, min 0.51 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.28% of total time (compiled  243 times, average 1.59 sec, max 4.03 sec, min 0.47 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.18% of total time (compiled  253 times, average 1.49 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.38.00:876][971]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.38.19:843][883]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.11-16.38.19:862][883]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.11-16.38.19:879][884]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.11-16.38.22:799][ 57]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2023.03.11-16.38.22:800][ 57]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.BP_GameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.SKEL_BP_GameMode_C:UserConstructionScript' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.SKEL_BP_GameMode_C' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.BP_GameMode_C' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:924][279]LogMetaData: Removing '/Game/Game/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.26:992][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Game/BP_GameMode.uasset" SILENT=true
+[2023.03.11-16.38.27:008][279]LogSavePackage: Moving output files for package: /Game/Game/BP_GameMode
+[2023.03.11-16.38.27:009][279]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/BP_GameModeA2C7A79F484790BD2F68148CFE66083C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/Game/BP_GameMode.uasset'
+[2023.03.11-16.38.27:041][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.03.11-16.38.27:064][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.11-16.38.27:076][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.11-16.38.27:115][279]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.03.11-16.38.27:115][279]LogContentValidation: Display: Validating Blueprint /Game/Game/BP_GameMode.BP_GameMode
+[2023.03.11-16.38.42:825][ 46]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.11-16.38.42:876][ 46]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.11-16.38.42:919][ 47]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.11-16.38.44:957][167]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2023.03.11-16.38.44:958][167]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.BP_GameMode_C' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.SKEL_BP_GameMode_C' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.SKEL_BP_GameMode_C:UserConstructionScript' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.BP_GameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:563][573]LogMetaData: Removing '/Game/BP/Game/BP_GameMode.BP_GameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Game/BP_GameMode.PackageMetaData'
+[2023.03.11-16.38.53:633][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.03.11-16.38.53:643][573]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.03.11-16.38.53:644][573]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/BP_GameMode84440CE0440372B0FD9499BAE7C89DC9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.03.11-16.38.53:693][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.11-16.38.53:720][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.11-16.38.53:735][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.03.11-16.38.53:789][573]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.03.11-16.38.53:789][573]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.03.11-16.41.01:183][911]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.41.01:183][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Tracking 6869 distinct input hashes that result in 2202 distinct outputs (32.06%)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: RAM used: 10.47 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.46%
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Jobs assigned 6949, completed 6869 (98.85%)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Time job spent in pending queue: average 716.12 s, longest 1404.03 s
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Job execution time: average 15.60 s, max 72.03 s
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Job life time (pending + execution): average 723.93 s, max 1404.03
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1406.45 s
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Jobs were issued in 725 batches (only local compilation was used), average 9.58 jobs/batch
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Effective parallelization: 7.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.58% of total time (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.55% of total time (compiled  138 times, average 3.39 sec, max 4.51 sec, min 1.57 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.39% of total time (compiled  276 times, average 1.64 sec, max 4.19 sec, min 0.51 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.24% of total time (compiled  276 times, average 1.58 sec, max 4.03 sec, min 0.47 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.22% of total time (compiled  289 times, average 1.50 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.41.01:184][911]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.41.21:075][925]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/textures/BG/T_BG_Exterior02.T_BG_Exterior02
+[2023.03.11-16.41.21:147][925]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2023.03.11-16.41.22:610][925]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.03.11-16.44.01:720][495]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.44.01:721][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.44.01:721][495]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.44.01:721][495]LogShaderCompilers: Display: Tracking 7819 distinct input hashes that result in 2365 distinct outputs (30.25%)
+[2023.03.11-16.44.01:721][495]LogShaderCompilers: Display: RAM used: 11.31 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.58%
+[2023.03.11-16.44.01:721][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Jobs assigned 7899, completed 7819 (98.99%)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Time job spent in pending queue: average 808.76 s, longest 1584.24 s
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Job execution time: average 15.57 s, max 72.03 s
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Job life time (pending + execution): average 816.56 s, max 1584.24
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1586.95 s
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Jobs were issued in 820 batches (only local compilation was used), average 9.63 jobs/batch
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Average processing rate: 4.93 jobs/sec
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Effective parallelization: 7.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.40% of total time (compiled  151 times, average 3.39 sec, max 4.51 sec, min 1.57 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.26% of total time (compiled  304 times, average 1.63 sec, max 4.19 sec, min 0.51 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.17% of total time (compiled  301 times, average 1.61 sec, max 4.17 sec, min 0.47 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.11% of total time (compiled  321 times, average 1.49 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 4.06% of total time (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.44.01:722][495]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Total job queries 9025, among them cache hits 0 (0.00%)
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Tracking 8809 distinct input hashes that result in 2670 distinct outputs (30.31%)
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: RAM used: 12.67 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.77%
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Shaders Compiled: 9025
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Jobs assigned 8889, completed 8809 (99.10%)
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Time job spent in pending queue: average 904.17 s, longest 1763.91 s
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Job execution time: average 15.48 s, max 72.03 s
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Job life time (pending + execution): average 911.89 s, max 1763.91
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1767.74 s
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Jobs were issued in 919 batches (only local compilation was used), average 9.67 jobs/batch
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Average processing rate: 4.98 jobs/sec
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Effective parallelization: 7.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-16.47.02:486][486]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.65% of total time (compiled  178 times, average 3.36 sec, max 4.51 sec, min 1.57 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.38% of total time (compiled  346 times, average 1.63 sec, max 4.19 sec, min 0.51 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.28% of total time (compiled  345 times, average 1.60 sec, max 4.17 sec, min 0.47 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.07% of total time (compiled  357 times, average 1.47 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.05% of total time (compiled  344 times, average 1.52 sec, max 3.87 sec, min 0.41 sec)
+[2023.03.11-16.47.02:487][486]LogShaderCompilers: Display: ================================================
+[2023.03.11-16.47.30:424][869]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.03.11-16.47.30:424][869]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17560
+[2023.03.11-16.47.31:088][870]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d6557c6d-ea73-46e6-96ee-1a62d1a5963c}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=503.56
+[2023.03.11-16.47.31:088][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.11-16.47.31:095][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.11-16.55.26:996][526]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.11-16.55.27:007][526]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.11-16.55.27:013][527]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.11-16.55.29:226][660]LogContentBrowser: Attempting asset rename: NewFolder -> HUD
+[2023.03.11-16.55.29:227][660]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.11-16.55.57:820][978]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.03.11-16.55.57:836][978]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.11-16.55.57:842][978]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.11-16.55.57:872][980]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.03.11-16.56.09:928][700]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD_Dialogue
+[2023.03.11-16.56.09:940][700]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.11-16.56.23:591][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-16.56.23:592][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-16.56.23:606][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-16.56.23:624][813]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.03.11-16.56.24:601][813]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.11-16.56.24:601][813]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.11-16.56.25:560][813]LogSlate: Took 0.001331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.11-16.56.25:569][813]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.03.11-16.59.07:760][234]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.11-17.19.32:231][766]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.104 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.11-18.19.32:619][521]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.217 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.11-19.09.45:598][968]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.03.11-19.09.45:703][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.03.11-19.09.49:352][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.09.49:360][179]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.09.49:360][179]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue68ED8AAF429BF8E4CF36398DFE41EF0C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.09.49:375][179]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.09.49:375][179]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.09.49:501][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.09.49:505][185]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.09.49:506][185]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueA37E9E344B9C8DE267B9A68AAB42B044.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.09.49:522][185]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.09.49:522][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.09.49:627][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.09.49:630][190]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.09.49:631][190]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueA556DF764EF1BDD3305F998130CFCDA3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.09.49:643][190]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.09.49:643][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.09.50:567][246]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.03.11-19.09.50:626][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.03.11-19.09.51:459][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.09.51:461][289]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.09.51:462][289]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue29846FAA4AD29F041803C0992155303D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.09.51:476][289]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.09.51:476][289]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.11.20:324][541]LogEditorTransaction: Undo Changed Anchors
+[2023.03.11-19.13.45:013][806]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.13.45:981][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.03.11-19.13.45:984][860]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.036
+[2023.03.11-19.13.45:986][860]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.03.11-19.13.45:989][860]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.03.11-19.13.45:989][860]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.03.11-19.13.45:992][860]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto1
+[2023.03.11-19.13.45:993][860]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue_Auto1977BC1DB43DBD62E5D3971AAF45B76B2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto1.uasset'
+[2023.03.11-19.13.45:994][860]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.03.11-19.14.43:105][748]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.15.21:831][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.15.21:835][538]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.15.21:836][538]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue8DDFE3404438EBEA807DDF89B232B888.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.15.21:849][538]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.15.21:850][538]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.15.22:017][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.15.22:020][547]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.15.22:021][547]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueF77830924835E91EE482628BDD404D2E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.15.22:035][547]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.15.22:035][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.18.57:009][ 17]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.19.06:832][602]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.19.32:245][764]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.078 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.11-19.20.39:159][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.20.39:163][879]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.20.39:165][879]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueAE89D8764943430B2DD05AAE13811D94.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.20.39:180][879]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.20.39:180][879]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.20.40:435][955]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.03.11-19.20.40:479][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.11-19.20.41:310][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.20.41:315][  1]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.20.41:316][  1]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueD11F9A88459757A1D76556A322B100FD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.20.41:330][  1]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.20.41:330][  1]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.23.58:934][319]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.24.46:657][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.03.11-19.24.46:660][602]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.037
+[2023.03.11-19.24.46:660][602]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.03.11-19.24.46:664][602]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.03.11-19.24.46:664][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.03.11-19.24.46:669][602]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto2
+[2023.03.11-19.24.46:669][602]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue_Auto2D132E0C746C08D37452602917856B7A5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto2.uasset'
+[2023.03.11-19.24.46:669][602]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.03.11-19.27.00:135][187]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.11-19.27.40:115][419]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.03.11-19.27.40:155][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.11-19.27.41:192][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.11-19.27.41:198][478]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.11-19.27.41:199][478]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueC042DCD5450AB3E2477251A3E5877660.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.11-19.27.41:212][478]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.11-19.27.41:212][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.03.11-19.28.00:002][779]LogViewport: Scene viewport resized to 1526x213, mode Windowed.
+[2023.03.11-19.28.00:038][781]LogViewport: Scene viewport resized to 1526x236, mode Windowed.
+[2023.03.11-19.28.00:073][783]LogViewport: Scene viewport resized to 1526x259, mode Windowed.
+[2023.03.11-19.28.00:109][785]LogViewport: Scene viewport resized to 1526x286, mode Windowed.
+[2023.03.11-19.28.00:142][787]LogViewport: Scene viewport resized to 1526x324, mode Windowed.
+[2023.03.11-19.28.00:177][789]LogViewport: Scene viewport resized to 1526x362, mode Windowed.
+[2023.03.11-19.28.00:213][791]LogViewport: Scene viewport resized to 1526x407, mode Windowed.
+[2023.03.11-19.28.00:246][793]LogViewport: Scene viewport resized to 1526x438, mode Windowed.
+[2023.03.11-19.28.00:279][795]LogViewport: Scene viewport resized to 1526x483, mode Windowed.
+[2023.03.11-19.28.00:314][797]LogViewport: Scene viewport resized to 1526x523, mode Windowed.
+[2023.03.11-19.28.00:348][799]LogViewport: Scene viewport resized to 1526x555, mode Windowed.
+[2023.03.11-19.28.00:383][801]LogViewport: Scene viewport resized to 1526x572, mode Windowed.
+[2023.03.11-19.28.00:417][803]LogViewport: Scene viewport resized to 1526x581, mode Windowed.
+[2023.03.11-19.28.00:451][805]LogViewport: Scene viewport resized to 1526x587, mode Windowed.
+[2023.03.11-19.28.00:484][807]LogViewport: Scene viewport resized to 1526x592, mode Windowed.
+[2023.03.11-19.28.00:519][809]LogViewport: Scene viewport resized to 1526x594, mode Windowed.
+[2023.03.11-19.28.02:947][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.11-19.28.02:962][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-19.28.02:963][953]PIE: New page: PIE session: L_VisualNovel (Mar 11, 2023, 7:28:02 PM)
+[2023.03.11-19.28.02:984][953]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.03.11-19.28.02:985][953]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.11-19.28.02:986][953]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.28.02:992][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004310s)
+[2023.03.11-19.28.02:992][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.004934s)
+[2023.03.11-19.28.02:992][953]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.11-19.28.02:994][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-19.28.02:998][953]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.03.11-19.28.03:001][953]LogPlayLevel: PIE: World Init took: (0.009020s)
+[2023.03.11-19.28.03:032][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.11-19.28.03:037][953]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.11-19.28.03:037][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.11-19.28.03:038][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-19.28.03:038][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-19.28.03:040][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-19.28.03:040][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-19.28.03:040][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-19.28.03:043][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.11-19.28.03:094][953]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.11-19.28.03:097][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-19.28.03:097][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-19.28.03:097][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-19.28.03:099][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.03.11-19.28.03:099][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.03.11-19.28.03:101][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.03.11-19.28.03:101][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.03.11-19.28.03:101][953]LogInit: FAudioDevice initialized.
+[2023.03.11-19.28.03:102][953]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_VisualNovel'.
+[2023.03.11-19.28.03:130][953]LogLoad: Game class is 'GameModeBase'
+[2023.03.11-19.28.03:131][953]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.03.11-19.28.03
+[2023.03.11-19.28.03:133][953]LogWorld: Bringing up level for play took: 0.001878
+[2023.03.11-19.28.03:139][953]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.03.11-19.28.03:199][953]PIE: Server logged in
+[2023.03.11-19.28.03:201][953]PIE: Play in editor total start time 0.245 seconds.
+[2023.03.11-19.28.08:849][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.28.08:849][260]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.28.08:852][260]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-19.28.08:855][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.28.08:873][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-19.28.08:880][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.28.08:913][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.28.08:915][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.11-19.28.08:917][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.03.11-19.28.08:976][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.03.11-19.28.08:996][261]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.03.11-19.28.28:450][442]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.03.11-19.28.40:131][695]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.11-19.29.01:466][ 28]LogViewport: Scene viewport resized to 1526x584, mode Windowed.
+[2023.03.11-19.29.01:507][ 30]LogViewport: Scene viewport resized to 1526x551, mode Windowed.
+[2023.03.11-19.29.01:548][ 32]LogViewport: Scene viewport resized to 1526x505, mode Windowed.
+[2023.03.11-19.29.01:583][ 34]LogViewport: Scene viewport resized to 1526x480, mode Windowed.
+[2023.03.11-19.29.01:623][ 36]LogViewport: Scene viewport resized to 1526x461, mode Windowed.
+[2023.03.11-19.29.01:659][ 38]LogViewport: Scene viewport resized to 1526x451, mode Windowed.
+[2023.03.11-19.29.01:700][ 40]LogViewport: Scene viewport resized to 1526x435, mode Windowed.
+[2023.03.11-19.29.01:740][ 42]LogViewport: Scene viewport resized to 1526x415, mode Windowed.
+[2023.03.11-19.29.01:780][ 44]LogViewport: Scene viewport resized to 1526x403, mode Windowed.
+[2023.03.11-19.29.01:820][ 46]LogViewport: Scene viewport resized to 1526x395, mode Windowed.
+[2023.03.11-19.29.01:860][ 48]LogViewport: Scene viewport resized to 1526x391, mode Windowed.
+[2023.03.11-19.29.03:965][174]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.03.11-19.29.03:972][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-19.29.04:501][174]LogMaterial: Display: Missing cached shadermap for GridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 56E57D7BDFA68F34F6E73E67FF69874F53A0A6EF), compiling. 
+[2023.03.11-19.29.04:608][174]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in PCD3D_SM5, Default, SM5 (DDC key hash: FEA171C8CD4296EE250429295FE95A60FA90841D), compiling. 
+[2023.03.11-19.29.07:060][174]LogViewport: Scene viewport resized to 1141x686, mode Windowed.
+[2023.03.11-19.29.14:077][419]LogShaderCompilers: Display: ================================================
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Total job queries 9079, among them cache hits 0 (0.00%)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Tracking 8997 distinct input hashes that result in 2714 distinct outputs (30.17%)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: RAM used: 12.86 MB (0.01 GB) of 716.80 MB (0.70 GB) budget. Usage: 1.79%
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Shaders Compiled: 9079
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Jobs assigned 9046, completed 8997 (99.46%)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Average time worker was idle: 82.27 s
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Time job spent in pending queue: average 908.69 s, longest 1787.64 s
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Job execution time: average 15.38 s, max 72.03 s
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Job life time (pending + execution): average 929.02 s, max 1789.53
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1802.86 s
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Jobs were issued in 951 batches (only local compilation was used), average 9.51 jobs/batch
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Average processing rate: 4.99 jobs/sec
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Effective parallelization: 7.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 27.75 sec, max 47.61 sec, min 9.84 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 22.97 sec, max 22.97 sec, min 22.97 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 22.27 sec, max 22.27 sec, min 22.27 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                   FCloudRenderViewPS101false (compiled    1 times, average 17.91 sec, max 17.91 sec, min 17.91 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 17.06 sec, max 17.06 sec, min 17.06 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 4.78% of total time (compiled  187 times, average 3.35 sec, max 4.51 sec, min 1.57 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.45% of total time (compiled  359 times, average 1.62 sec, max 4.19 sec, min 0.51 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.35% of total time (compiled  358 times, average 1.59 sec, max 4.17 sec, min 0.47 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.13% of total time (compiled  359 times, average 1.51 sec, max 3.87 sec, min 0.41 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.11% of total time (compiled  369 times, average 1.46 sec, max 7.60 sec, min 0.80 sec)
+[2023.03.11-19.29.14:078][419]LogShaderCompilers: Display: ================================================
+[2023.03.11-19.31.06:750][240]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.11-19.32.44:840][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.03.11-19.32.44:853][680]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.03.11-19.32.44:854][680]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/BP_GameModeD1D07782497EA5E936716D8050F53F43.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.03.11-19.32.44:869][680]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.03.11-19.32.44:869][680]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.03.11-19.32.45:011][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.03.11-19.32.45:015][687]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.03.11-19.32.45:016][687]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/BP_GameMode913FD9834B1B2B167E3D498E9960E4D8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.03.11-19.32.45:031][687]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.03.11-19.32.45:031][687]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.03.11-19.32.46:402][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.11-19.32.46:408][770]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.11-19.32.46:408][770]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2023.03.11-19.32.46:515][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.11-19.32.46:519][770]LogPlayLevel: PlayLevel: Blueprint regeneration took 112 ms (1 blueprints)
+[2023.03.11-19.32.46:520][770]PIE: New page: PIE session: L_VisualNovel (Mar 11, 2023, 7:32:46 PM)
+[2023.03.11-19.32.46:521][770]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.32.46:522][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000874s)
+[2023.03.11-19.32.46:522][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.001002s)
+[2023.03.11-19.32.46:522][770]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.11-19.32.46:522][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-19.32.46:522][770]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.03.11-19.32.46:522][770]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.03.11-19.32.46:558][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.11-19.32.46:559][770]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.11-19.32.46:559][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-19.32.46:559][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-19.32.46:560][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-19.32.46:560][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-19.32.46:560][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-19.32.46:562][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.11-19.32.46:610][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.11-19.32.46:610][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-19.32.46:610][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-19.32.46:610][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-19.32.46:611][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.03.11-19.32.46:611][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.03.11-19.32.46:613][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.03.11-19.32.46:613][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.03.11-19.32.46:613][770]LogInit: FAudioDevice initialized.
+[2023.03.11-19.32.46:613][770]LogAudio: Display: Audio Device (ID: 3) registered with world 'L_VisualNovel'.
+[2023.03.11-19.32.46:665][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.32.46:666][770]LogLoad: Game class is 'BP_GameMode_C'
+[2023.03.11-19.32.46:666][770]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.03.11-19.32.46
+[2023.03.11-19.32.46:666][770]LogWorld: Bringing up level for play took: 0.000318
+[2023.03.11-19.32.46:669][770]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.03.11-19.32.46:670][770]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.11-19.32.46:675][770]PIE: Server logged in
+[2023.03.11-19.32.46:675][770]PIE: Play in editor total start time 0.267 seconds.
+[2023.03.11-19.32.46:691][770]LogViewport: Scene viewport resized to 1281x720, mode Windowed.
+[2023.03.11-19.32.52:177][ 61]LogViewport: Scene viewport resized to 1024x576, mode Windowed.
+[2023.03.11-19.33.04:992][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.33.04:992][627]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.33.04:994][627]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.11-19.33.05:000][627]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-19.33.05:000][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.33.05:015][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-19.33.05:021][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.33.05:058][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.11-19.33.05:060][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.03.11-19.33.05:070][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.03.11-19.33.05:090][628]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.03.11-19.33.07:903][796]LogTurnkeySupport: Display: Adding device menu item for ANTH0NYPEREIRA
+[2023.03.11-19.33.07:903][796]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/yameroUnreal.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Intermediate/TurnkeyReport_1.log" -log="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Intermediate/TurnkeyLog_1.log" -project="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/yameroUnreal.uproject"  -Device=Win64@ANTH0NYPEREIRA'
+[2023.03.11-19.33.07:905][796]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/yameroUnreal.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Intermediate/TurnkeyReport_1.log" -log="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Intermediate/TurnkeyLog_1.log" -project="C:/Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/yameroUnreal.uproject"  -Device=Win64@ANTH0NYPEREIRA" -nocompile ]
+[2023.03.11-19.33.10:967][979]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.03.11-19.33.10:967][979]LogTurnkeySupport: Turnkey Device: Win64@ANTH0NYPEREIRA: (Name=ANTH0NYPEREIRA, Status=Valid, Installed=10.0.22621.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2023.03.11-19.33.18:255][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-19.33.18:255][415]PIE: New page: PIE session: L_VisualNovel (Mar 11, 2023, 7:33:18 PM)
+[2023.03.11-19.33.18:255][415]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.33.18:256][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000680s)
+[2023.03.11-19.33.18:256][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000749s)
+[2023.03.11-19.33.18:256][415]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.11-19.33.18:256][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-19.33.18:256][415]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.03.11-19.33.18:256][415]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2023.03.11-19.33.18:291][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.03.11-19.33.18:293][415]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.11-19.33.18:293][415]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-19.33.18:293][415]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-19.33.18:294][415]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-19.33.18:294][415]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-19.33.18:294][415]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-19.33.18:297][415]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.11-19.33.18:349][415]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.11-19.33.18:351][415]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-19.33.18:351][415]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-19.33.18:351][415]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-19.33.18:351][415]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.03.11-19.33.18:351][415]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.03.11-19.33.18:353][415]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.03.11-19.33.18:353][415]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.03.11-19.33.18:353][415]LogInit: FAudioDevice initialized.
+[2023.03.11-19.33.18:353][415]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_VisualNovel'.
+[2023.03.11-19.33.18:379][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.33.18:379][415]LogLoad: Game class is 'BP_GameMode_C'
+[2023.03.11-19.33.18:379][415]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.03.11-19.33.18
+[2023.03.11-19.33.18:379][415]LogWorld: Bringing up level for play took: 0.000317
+[2023.03.11-19.33.18:382][415]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.03.11-19.33.18:382][415]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.11-19.33.18:384][415]PIE: Server logged in
+[2023.03.11-19.33.18:385][415]PIE: Play in editor total start time 0.13 seconds.
+[2023.03.11-19.33.18:395][415]LogViewport: Scene viewport resized to 1024x576, mode Windowed.
+[2023.03.11-19.33.22:560][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.33.22:560][573]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.33.22:561][573]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.11-19.33.22:564][573]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-19.33.22:564][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.33.22:578][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-19.33.22:585][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.33.22:620][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-19.33.22:620][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.11-19.33.22:621][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.03.11-19.33.22:632][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.03.11-19.33.22:649][574]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.11-19.33.23:532][627]LogTurnkeySupport: Display: Adding device menu item for ANTH0NYPEREIRA
+[2023.03.11-19.33.24:921][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.03.11-19.34.09:017][135]LogDebuggerCommands: Repeating last play command: Mobile Preview ES3.1 (PIE)
+[2023.03.11-19.34.09:125][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.11-19.34.10:708][220]LogTurnkeySupport: Display: Adding device menu item for ANTH0NYPEREIRA
+[2023.03.11-19.34.26:316][893]LogTurnkeySupport: Display: Adding device menu item for ANTH0NYPEREIRA
+[2023.03.11-19.34.30:519][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.11-19.34.30:519][138]PIE: New page: PIE session: L_VisualNovel (Mar 11, 2023, 7:34:30 PM)
+[2023.03.11-19.34.30:519][138]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.34.30:523][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001918s)
+[2023.03.11-19.34.30:523][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.003617s)
+[2023.03.11-19.34.30:523][138]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.03.11-19.34.30:523][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.11-19.34.30:524][138]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.03.11-19.34.30:525][138]LogPlayLevel: PIE: World Init took: (0.002132s)
+[2023.03.11-19.34.30:611][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.03.11-19.34.30:617][138]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.11-19.34.30:617][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.11-19.34.30:617][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.11-19.34.30:617][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.11-19.34.30:617][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.11-19.34.30:618][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.11-19.34.30:618][138]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.11-19.34.30:618][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.11-19.34.30:618][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.11-19.34.30:620][138]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.11-19.34.30:620][138]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.11-19.34.30:620][138]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.11-19.34.30:626][138]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.11-19.34.30:739][138]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.11-19.34.30:739][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.11-19.34.30:739][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.11-19.34.30:740][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.11-19.34.30:744][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.03.11-19.34.30:744][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.03.11-19.34.30:750][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.03.11-19.34.30:750][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.03.11-19.34.30:750][138]LogInit: FAudioDevice initialized.
+[2023.03.11-19.34.30:750][138]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_VisualNovel'.
+[2023.03.11-19.34.30:796][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.34.30:796][138]LogLoad: Game class is 'BP_GameMode_C'
+[2023.03.11-19.34.30:797][138]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.03.11-19.34.30
+[2023.03.11-19.34.30:797][138]LogWorld: Bringing up level for play took: 0.000978
+[2023.03.11-19.34.30:802][138]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.03.11-19.34.30:803][138]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.11-19.34.30:808][138]PIE: Server logged in
+[2023.03.11-19.34.30:809][138]PIE: Play in editor total start time 0.29 seconds.
+[2023.03.11-19.34.30:826][138]LogViewport: Scene viewport resized to 1024x576, mode Windowed.
+[2023.03.11-19.34.34:675][278]LogViewport: Scene viewport resized to 1281x720, mode Windowed.
+[2023.03.11-19.34.36:591][330]LogViewport: Scene viewport resized to 1920x978, mode Windowed.
+[2023.03.11-19.34.38:288][425]LogViewport: Scene viewport resized to 1281x720, mode Windowed.
+[2023.03.11-19.34.38:481][425]LogViewport: Scene viewport resized to 1024x576, mode Windowed.
+[2023.03.11-19.34.41:094][534]LogViewport: Scene viewport resized to 1920x998, mode Windowed.
+[2023.03.11-19.37.50:077][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.11-19.37.50:077][316]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.03.11-19.37.50:079][316]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.03.11-19.37.50:111][316]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.03.11-19.37.50:111][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.37.50:136][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.11-19.37.50:143][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.11-19.37.50:182][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.11-19.37.50:182][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.11-19.37.50:183][316]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.03.11-19.37.50:196][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.11-19.37.50:380][317]LogPlayLevel: Display: Destroying online subsystem :Context_8
