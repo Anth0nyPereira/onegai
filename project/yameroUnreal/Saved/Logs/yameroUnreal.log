@@ -3222,3 +3222,76 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.13-20.23.16:041][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2023.03.13-20.23.16:047][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
 [2023.03.13-20.23.16:069][981]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.03.13-20.27.40:458][286]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.123 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.13-21.22.46:784][163]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.03.13-21.22.46:784][163]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17560
+[2023.03.13-21.22.47:457][164]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d6557c6d-ea73-46e6-96ee-1a62d1a5963c}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=448.41
+[2023.03.13-21.22.47:457][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.13-21.22.47:466][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.13-21.22.50:471][174]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (USB Audio Device), InstanceID=1
+[2023.03.13-21.22.50:471][174]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17560
+[2023.03.13-21.22.50:801][174]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8dd55bd9-a614-4b4c-b073-c41c3a1c735f}, Name=Speakers (USB Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=67.17
+[2023.03.13-21.22.50:801][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.13-21.22.50:807][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.13-21.27.40:589][ 40]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.205 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.13-22.27.40:411][794]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.13-23.23.12:839][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.13-23.23.12:840][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.03.13-23.25.12:615][712]LogUObjectHash: Compacting FUObjectHashTables data took  25.35ms
+[2023.03.13-23.25.12:635][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.635
+[2023.03.13-23.25.12:642][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.03.13-23.25.12:663][712]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.03.13-23.25.12:663][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.03.13-23.25.12:769][712]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto8
+[2023.03.13-23.25.12:772][712]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue_Auto89A9E0758478F35DBACD0FC9D1145EC67.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto8.uasset'
+[2023.03.13-23.25.12:776][712]LogFileHelpers: Auto-saving content packages took 0.139
+[2023.03.13-23.26.05:642][542]Cmd: TRANSACTION UNDO
+[2023.03.13-23.26.05:643][542]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.27.40:676][952]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.128 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.13-23.29.47:786][650]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.47:786][650]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.29.48:278][665]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.48:279][665]LogEditorTransaction: Undo Delete Keys
+[2023.03.13-23.29.48:791][692]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.48:798][692]LogEditorTransaction: Undo Set Playback Range
+[2023.03.13-23.29.49:192][713]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.49:198][713]LogEditorTransaction: Undo Move Keys or Sections
+[2023.03.13-23.29.50:049][760]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.50:049][760]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.29.50:410][779]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.50:410][779]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.29.50:759][797]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.50:759][797]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.29.51:105][815]Cmd: TRANSACTION UNDO
+[2023.03.13-23.29.51:105][815]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.30.38:527][371]Cmd: TRANSACTION UNDO
+[2023.03.13-23.30.38:527][371]LogEditorTransaction: Undo Move Keys or Sections
+[2023.03.13-23.30.38:969][384]Cmd: TRANSACTION UNDO
+[2023.03.13-23.30.38:969][384]LogEditorTransaction: Undo Move Keys or Sections
+[2023.03.13-23.32.56:949][435]Cmd: TRANSACTION UNDO
+[2023.03.13-23.32.56:949][435]LogEditorTransaction: Undo Set Playback Range
+[2023.03.13-23.32.57:372][448]Cmd: TRANSACTION UNDO
+[2023.03.13-23.32.57:372][448]LogEditorTransaction: Undo Move Keys or Sections
+[2023.03.13-23.32.58:557][514]Cmd: TRANSACTION UNDO
+[2023.03.13-23.32.58:563][514]LogEditorTransaction: Undo Animatable Property Changed
+[2023.03.13-23.33.22:160][924]Cmd: TRANSACTION UNDO
+[2023.03.13-23.33.22:160][924]LogEditorTransaction: Undo Add Section
+[2023.03.13-23.33.59:584][149]Cmd: TRANSACTION UNDO
+[2023.03.13-23.33.59:589][149]LogEditorTransaction: Undo Set Key Value
+[2023.03.13-23.34.00:028][162]Cmd: TRANSACTION UNDO
+[2023.03.13-23.34.00:028][162]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.03.13-23.35.21:688][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.13-23.35.21:693][685]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.070
+[2023.03.13-23.35.21:694][685]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.03.13-23.35.21:699][685]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.03.13-23.35.21:699][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.03.13-23.35.21:736][685]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto9
+[2023.03.13-23.35.21:737][685]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_Dialogue_Auto9A800B6844AB5EF514EA2E980BE42223E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto9.uasset'
+[2023.03.13-23.35.21:738][685]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.03.13-23.43.19:578][770]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.03.13-23.43.19:733][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2023.03.13-23.43.20:840][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.03.13-23.43.20:868][823]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.03.13-23.43.20:870][823]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Saved/HUD_DialogueE62C632348B5A64300CDF099A5E864DC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/tese/yamero/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.03.13-23.43.21:015][823]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.03.13-23.43.21:015][823]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
