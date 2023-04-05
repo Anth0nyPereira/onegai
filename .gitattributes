@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6732b1144fd842ac3d26c0d579ce170b766d66ad046696d7e9fb98b29a897d1e
-size 85
+project/FCExperiment filter=lfs diff=lfs merge=lfs -text
