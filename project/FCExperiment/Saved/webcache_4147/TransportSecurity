@@ -1,3 +1,44 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b849fd62f867fd6c9d7f3576c61f2bfbd3ebd19d70e9d806c6579bfb29f5003
-size 1411
+{
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+      "expiry": 1712592736.352821,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681056736.352824
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1712592732.650799,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681056732.650802
+   },
+   "MHSXHuTWPc0qgCg6YHZTIAYqWTrNioy6XIvP//2pdEc=": {
+      "expiry": 1712592736.59296,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681056736.592963
+   },
+   "aOQPTpHf0QvV/9meCm7MGIvpSqjlAEMdE+G8Nelk90o=": {
+      "expiry": 1712592739.56263,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681056739.562633
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1691937190.708652,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681050790.708655
+   },
+   "k2K4kQd8V1+vi/G5kkyFFG8um2NS1HRPIzw/cUH/uIo=": {
+      "expiry": 1712592736.686896,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1681056736.686899
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1712586789.754757,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1681050789.754758
+   }
+}
