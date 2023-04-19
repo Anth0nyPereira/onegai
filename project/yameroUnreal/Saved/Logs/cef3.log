@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7261af4cea6a13ea7d6fb909e749debd3d32ce01bef9e4e7c09ce9f99961fc12
-size 1641
+[0318/002157.810:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0320/215437.097:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
+[0323/212550.541:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0323/212550.541:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0323/212550.543:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0323/212550.543:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0323/212550.543:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0323/212550.543:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0323/212555.458:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0323/212555.458:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0323/212555.492:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0323/212555.492:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
