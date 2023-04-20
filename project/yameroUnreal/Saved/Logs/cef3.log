@@ -16,3 +16,12 @@
 [0323/212555.458:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0323/212555.492:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0323/212555.492:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0420/170524.339:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[0420/170524.482:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0420/170524.591:WARNING:storage_block-inl.h(146)] Failed data load.
+[0420/170524.592:WARNING:storage_block-inl.h(146)] Failed data load.
+[0420/170524.592:WARNING:storage_block-inl.h(146)] Failed data load.
+[0420/170524.592:WARNING:storage_block-inl.h(146)] Failed data load.
+[0420/170524.595:WARNING:storage_block-inl.h(146)] Failed data load.
+[0420/170524.596:ERROR:entry_impl.cc(998)] Failed to save user data
+[0420/170524.596:ERROR:entry_impl.cc(998)] Failed to save user data
