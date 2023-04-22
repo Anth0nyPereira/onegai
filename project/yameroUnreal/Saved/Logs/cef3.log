@@ -25,3 +25,12 @@
 [0420/170524.595:WARNING:storage_block-inl.h(146)] Failed data load.
 [0420/170524.596:ERROR:entry_impl.cc(998)] Failed to save user data
 [0420/170524.596:ERROR:entry_impl.cc(998)] Failed to save user data
+[0420/215259.939:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0420/215259.947:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0421/005302.189:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0421/005302.198:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0421/005310.173:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0421/005310.176:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0422/174542.662:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0422/174547.013:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0422/174547.675:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
