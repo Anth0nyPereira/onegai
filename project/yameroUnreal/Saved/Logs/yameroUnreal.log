@@ -1505,3 +1505,69 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-14.20.12:753][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
 [2023.04.25-14.20.12:765][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.04.25-14.20.12:799][402]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.04.25-14.40.18:607][869]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.04.25-15.45.51:600][869]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.25-15.45.53:580][869]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [3935063ms] waiting for h/w. InstanceID=1
+[2023.04.25-15.45.56:800][870]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12880
+[2023.04.25-15.45.56:800][870]LogHttp: Warning: 0000099725514B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BF37ECC-4CA4-3892-32BB-508E30C89D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9d8fb9f54a6e956c60ca299617ab423b%7C0dac73a8f1474077924233aabd4cda08%7C24dd98b6-5ea1-4d7f-915f-398638d08d8f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: 0000099725514B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: 0000099725514B00: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: 0000099725514B00: libcurl info message cache 1 (Closing connection 0)
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: 0000099725514B00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: 0000099725514B00: libcurl info message cache 3 (Closing connection 1)
+[2023.04.25-15.45.56:801][870]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BF37ECC-4CA4-3892-32BB-508E30C89D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9d8fb9f54a6e956c60ca299617ab423b%7C0dac73a8f1474077924233aabd4cda08%7C24dd98b6-5ea1-4d7f-915f-398638d08d8f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.25-15.45.57:031][870]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
+[2023.04.25-15.45.57:032][870]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.25-15.45.57:079][870]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.25-15.45.57:083][870]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6252f251-f588-4ce0-b6ff-a189102b4ed7}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=209.96
+[2023.04.25-15.45.57:084][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.25-15.45.57:103][871]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.04.25-15.48.51:029][390]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.730 and deleted 5 file(s) with total size 0 MiB.
+[2023.04.25-15.52.32:796][982]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-15.52.32:797][982]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo8A1E36A149B79618C034A5900F58C343.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-15.52.32:807][982]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-15.52.32:807][982]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-15.54.16:416][188]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-15.54.16:417][188]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoFEC2606F4C7895CAC20E74800A8DF53B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-15.54.16:428][188]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-15.54.16:428][188]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-15.54.21:791][504]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structs/S_DialogueInfo.S_DialogueInfo
+[2023.04.25-15.54.26:897][806]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enums/E_CharacterNames.E_CharacterNames
+[2023.04.25-15.55.21:836][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_CharacterNames" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Enums/E_CharacterNames.uasset" SILENT=true
+[2023.04.25-15.55.21:840][ 76]LogSavePackage: Moving output files for package: /Game/Enums/E_CharacterNames
+[2023.04.25-15.55.21:841][ 76]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/E_CharacterNames3DBF25E84EFBC66EF7C1E38685249782.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Enums/E_CharacterNames.uasset'
+[2023.04.25-15.55.21:860][ 76]AssetCheck: New page: Asset Save: E_CharacterNames
+[2023.04.25-15.55.21:860][ 76]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_CharacterNames.E_CharacterNames
+[2023.04.25-15.55.46:758][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enums/E_CharacterNames" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Enums/E_CharacterNames.uasset" SILENT=true
+[2023.04.25-15.55.46:759][564]LogSavePackage: Moving output files for package: /Game/Enums/E_CharacterNames
+[2023.04.25-15.55.46:759][564]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/E_CharacterNames0001076E4BC7C549A4F095B3DE907355.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Enums/E_CharacterNames.uasset'
+[2023.04.25-15.55.46:770][564]AssetCheck: New page: Asset Save: E_CharacterNames
+[2023.04.25-15.55.46:770][564]LogContentValidation: Display: Validating UserDefinedEnum /Game/Enums/E_CharacterNames.E_CharacterNames
+[2023.04.25-15.55.53:552][969]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-15.55.53:553][969]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo5985F5EB443A4831AEEDB6829CDA5DF7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-15.55.53:562][969]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-15.55.53:562][969]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-15.57.42:571][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.04.25-15.57.42:572][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.008
+[2023.04.25-15.57.42:572][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfo] ([1] browsable assets)...
+[2023.04.25-15.57.42:572][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfo]
+[2023.04.25-15.57.42:576][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfo_Auto3
+[2023.04.25-15.57.42:576][258]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo_Auto3E30512BE4F8891F01065F799BE7AD4BC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfo_Auto3.uasset'
+[2023.04.25-15.57.42:578][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structs/S_DialogueInfo] ([1] browsable assets)...
+[2023.04.25-15.57.42:578][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structs/S_DialogueInfo]
+[2023.04.25-15.57.42:580][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Structs/S_DialogueInfo_Auto3
+[2023.04.25-15.57.42:580][258]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/S_DialogueInfo_Auto3EF9A7E3D448162E3BC10E791ADE90AD7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Structs/S_DialogueInfo_Auto3.uasset'
+[2023.04.25-15.57.42:581][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.04.25-15.57.42:602][258]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.04.25-15.57.42:602][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.04.25-15.57.42:694][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto3
+[2023.04.25-15.57.42:695][258]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue_Auto37C1CD4894CB7733B1417E892E5691771.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto3.uasset'
+[2023.04.25-15.57.42:696][258]LogFileHelpers: Auto-saving content packages took 0.124
+[2023.04.25-16.01.39:224][449]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-16.01.39:224][449]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo13112AAA4AA36AB4976419ADFD9F5E13.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-16.01.39:238][449]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-16.01.39:238][449]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-16.01.39:380][456]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-16.01.39:380][456]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoADA6ED034D25FF0B728A9DB5E13A641D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-16.01.39:390][456]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-16.01.39:390][456]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
