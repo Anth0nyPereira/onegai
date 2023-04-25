@@ -1008,3 +1008,72 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-12.48.58:180][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2023.04.25-12.48.58:191][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
 [2023.04.25-12.48.58:241][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.04.25-13.05.35:661][386]AssetReimport: New page: Outstanding source content changes 3:05:35 PM
+[2023.04.25-13.05.35:665][386]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_4.png)
+[2023.04.25-13.05.35:714][387]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_4.triplets_4 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-13.05.35:879][387]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_4
+[2023.04.25-13.05.35:879][387]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_4562C86C94520FCF894EE0C8EEA26023A.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_4.uasset'
+[2023.04.25-13.05.35:955][388]AssetCheck: New page: Asset Save: triplets_4
+[2023.04.25-13.05.35:955][388]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_4.triplets_4
+[2023.04.25-13.05.38:936][563]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_4.
+[2023.04.25-13.06.05:881][173]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.06.05:882][173]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo8D88F19448B037F3492D7B85EEDFC8F1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.06.05:891][173]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.06.05:891][173]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.14.42:984][310]AssetReimport: New page: Outstanding source content changes 3:14:42 PM
+[2023.04.25-13.14.42:987][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_8.png)
+[2023.04.25-13.14.43:035][311]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_8.triplets_8 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-13.14.43:039][311]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_7.png)
+[2023.04.25-13.14.43:084][312]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_7.triplets_7 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-13.14.43:088][312]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_6.png)
+[2023.04.25-13.14.43:132][313]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_6.triplets_6 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-13.14.43:136][313]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_5.png)
+[2023.04.25-13.14.43:180][313]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_5.triplets_5 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-13.14.43:372][314]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_8
+[2023.04.25-13.14.43:372][314]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_8C9B20519421383994039CDBEA9DAAA96.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_8.uasset'
+[2023.04.25-13.14.43:457][314]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_7
+[2023.04.25-13.14.43:457][314]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_734D6F08B4EA6B7AB5B1B55B795AC42CC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_7.uasset'
+[2023.04.25-13.14.43:565][314]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_6
+[2023.04.25-13.14.43:566][314]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_6C6B2F338473C51A70F8009947A536508.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_6.uasset'
+[2023.04.25-13.14.43:653][314]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_5
+[2023.04.25-13.14.43:653][314]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_5D96048E945FAAA4016796D940E09D6A3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_5.uasset'
+[2023.04.25-13.14.43:676][315]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-13.14.43:676][315]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_5.triplets_5
+[2023.04.25-13.14.43:676][315]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_6.triplets_6
+[2023.04.25-13.14.43:676][315]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_7.triplets_7
+[2023.04.25-13.14.43:676][315]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_8.triplets_8
+[2023.04.25-13.14.46:663][493]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_8.
+[2023.04.25-13.14.46:664][493]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_7.
+[2023.04.25-13.14.46:664][493]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_6.
+[2023.04.25-13.14.46:664][493]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_5.
+[2023.04.25-13.15.25:340][807]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.15.25:341][807]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo4BDDD9B04DA3CA83CBC4F0A341438163.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.15.25:351][807]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.15.25:351][807]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.17.59:855][666]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.17.59:855][666]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoEBBDEB2744BE03D3E775C6A40338BDDA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.17.59:868][666]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.17.59:868][666]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.18.37:375][341]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.18.37:376][341]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoEFEED40441800E0BEB4EE8AEE1A4CCE5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.18.37:388][341]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.18.37:388][341]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.20.22:457][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.25-13.20.22:459][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_VisualNovel' took 0.007
+[2023.04.25-13.20.22:460][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfo] ([1] browsable assets)...
+[2023.04.25-13.20.22:460][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfo]
+[2023.04.25-13.20.22:462][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfo_Auto1
+[2023.04.25-13.20.22:463][179]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo_Auto1C6B944BB413F3033CC7595B67581FD52.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfo_Auto1.uasset'
+[2023.04.25-13.20.22:464][179]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.04.25-13.22.57:463][587]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.22.57:463][587]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoF910BAF64C66130AB7D671AC3134DB5C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.22.57:478][587]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.22.57:478][587]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.23.56:054][ 40]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.23.56:056][ 40]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoEA3C8263475925810030ADAEE281CA03.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.23.56:067][ 40]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.23.56:067][ 40]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-13.24.31:534][817]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-13.24.31:536][817]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoF33F76EE426B2C89E2DDBFAEEB6584FD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-13.24.31:552][817]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-13.24.31:552][817]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
