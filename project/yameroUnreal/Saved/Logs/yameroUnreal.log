@@ -2479,3 +2479,21 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-16.26.34:275][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
 [2023.04.25-16.26.34:300][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2023.04.25-16.26.34:319][328]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.04.25-16.48.51:189][  4]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.699 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.25-16.55.00:290][101]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2023.04.25-17.52.39:207][101]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.25-17.52.40:131][101]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [3459928ms] waiting for h/w. InstanceID=1
+[2023.04.25-17.52.45:579][102]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12880
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BF37ECC-4CA4-3892-32BB-508E30C89D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9d8fb9f54a6e956c60ca299617ab423b%7C0dac73a8f1474077924233aabd4cda08%7C24dd98b6-5ea1-4d7f-915f-398638d08d8f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: libcurl info message cache 1 (Closing connection 3)
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.04.25-17.52.45:580][102]LogHttp: Warning: 0000099736F9C300: libcurl info message cache 3 (Closing connection 4)
+[2023.04.25-17.52.45:581][102]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BF37ECC-4CA4-3892-32BB-508E30C89D6D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9d8fb9f54a6e956c60ca299617ab423b%7C0dac73a8f1474077924233aabd4cda08%7C24dd98b6-5ea1-4d7f-915f-398638d08d8f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.04.25-17.52.45:741][102]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
+[2023.04.25-17.52.45:741][102]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2023.04.25-17.52.45:856][102]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.04.25-17.52.45:860][102]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6252f251-f588-4ce0-b6ff-a189102b4ed7}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=225.33
+[2023.04.25-17.52.45:861][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.04.25-17.52.45:875][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
