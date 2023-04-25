@@ -1423,3 +1423,85 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-13.53.40:311][ 77]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoCF54462D4A976D655EE729AA388E45C6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
 [2023.04.25-13.53.40:322][ 77]AssetCheck: New page: Asset Save: DT_DialogueInfo
 [2023.04.25-13.53.40:322][ 77]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-14.18.41:177][969]AssetReimport: New page: Outstanding source content changes 4:18:41 PM
+[2023.04.25-14.18.41:181][969]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_15.png)
+[2023.04.25-14.18.41:232][970]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_15.triplets_15 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-14.18.41:236][970]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_14.png)
+[2023.04.25-14.18.41:287][971]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_14.triplets_14 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-14.18.41:291][971]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_13.png)
+[2023.04.25-14.18.41:341][972]LogTexture: Display: Building textures: /Game/Assets/Characters/Triplets/triplets_13.triplets_13 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-14.18.41:502][972]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_15
+[2023.04.25-14.18.41:502][972]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_15211A6148438F91BF3FA2F991C438CCB3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_15.uasset'
+[2023.04.25-14.18.41:591][972]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_14
+[2023.04.25-14.18.41:591][972]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_142D5B0E48481676404705209C1C88453C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_14.uasset'
+[2023.04.25-14.18.41:704][972]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Triplets/triplets_13
+[2023.04.25-14.18.41:704][972]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/triplets_137FBFA41D4839C2B3D1C82DB21977D84C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/Triplets/triplets_13.uasset'
+[2023.04.25-14.18.41:745][973]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.25-14.18.41:745][973]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_13.triplets_13
+[2023.04.25-14.18.41:745][973]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_14.triplets_14
+[2023.04.25-14.18.41:745][973]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/Triplets/triplets_15.triplets_15
+[2023.04.25-14.18.44:736][151]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_15.
+[2023.04.25-14.18.44:736][151]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_14.
+[2023.04.25-14.18.44:736][151]AssetReimport: Importing new asset /Game/Assets/Characters/Triplets/triplets_13.
+[2023.04.25-14.19.12:695][809]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-14.19.12:696][809]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo202D2E8049C5233B09DCAB8BD1D5FA3F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-14.19.12:709][809]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-14.19.12:709][809]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-14.19.14:746][931]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.25-14.19.14:752][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.25-14.19.14:752][931]PIE: New page: PIE session: L_VisualNovel (Apr 25, 2023, 4:19:14 PM)
+[2023.04.25-14.19.14:752][931]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.04.25-14.19.14:752][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000654s)
+[2023.04.25-14.19.14:752][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000707s)
+[2023.04.25-14.19.14:752][931]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.25-14.19.14:752][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.25-14.19.14:753][931]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.04.25-14.19.14:753][931]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.04.25-14.19.14:759][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.25-14.19.14:761][931]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.25-14.19.14:761][931]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.25-14.19.14:761][931]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.25-14.19.14:761][931]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.25-14.19.14:761][931]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.25-14.19.14:761][931]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.25-14.19.14:764][931]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.25-14.19.14:817][931]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.04.25-14.19.14:817][931]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.25-14.19.14:817][931]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.25-14.19.14:817][931]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.25-14.19.14:818][931]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.04.25-14.19.14:818][931]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.04.25-14.19.14:819][931]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.04.25-14.19.14:819][931]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.04.25-14.19.14:819][931]LogInit: FAudioDevice initialized.
+[2023.04.25-14.19.14:819][931]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_VisualNovel'.
+[2023.04.25-14.19.14:845][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.19.14:845][931]LogLoad: Game class is 'BP_GameMode_C'
+[2023.04.25-14.19.14:847][931]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.04.25-15.19.14
+[2023.04.25-14.19.14:847][931]LogWorld: Bringing up level for play took: 0.000433
+[2023.04.25-14.19.14:849][931]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.04.25-14.19.14:851][931]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.25-14.19.14:853][931]PIE: Server logged in
+[2023.04.25-14.19.14:854][931]PIE: Play in editor total start time 0.102 seconds.
+[2023.04.25-14.19.14:875][931]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.04.25-14.19.17:550][ 91]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 0 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.04.25-14.19.40:397][462]LogScript: Warning: Script Msg: Attempted to access index 33 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 33 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.04.25-14.20.08:766][164]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 0 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.04.25-14.20.12:721][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.25-14.20.12:721][400]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.04.25-14.20.12:724][400]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.04.25-14.20.12:730][400]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.04.25-14.20.12:730][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.20.12:742][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.25-14.20.12:744][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.25-14.20.12:751][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.25-14.20.12:751][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.25-14.20.12:753][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.04.25-14.20.12:765][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.04.25-14.20.12:799][402]LogPlayLevel: Display: Destroying online subsystem :Context_9
