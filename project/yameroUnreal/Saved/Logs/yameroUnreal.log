@@ -1571,3 +1571,20 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.25-16.01.39:380][456]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoADA6ED034D25FF0B728A9DB5E13A641D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
 [2023.04.25-16.01.39:390][456]AssetCheck: New page: Asset Save: DT_DialogueInfo
 [2023.04.25-16.01.39:390][456]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-16.03.30:370][514]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.04.25-16.03.30:370][514]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo604AFCEB4298BE66B8F538844C72C0F1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.04.25-16.03.30:381][514]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.04.25-16.03.30:381][514]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.04.25-16.05.07:359][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structs/S_DialogueInfo" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Structs/S_DialogueInfo.uasset" SILENT=true
+[2023.04.25-16.05.07:362][629]LogSavePackage: Moving output files for package: /Game/Structs/S_DialogueInfo
+[2023.04.25-16.05.07:363][629]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/S_DialogueInfo895EE90847B7C22BC4AA7F96DAAF4D67.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Structs/S_DialogueInfo.uasset'
+[2023.04.25-16.05.07:375][629]AssetCheck: New page: Asset Save: S_DialogueInfo
+[2023.04.25-16.05.07:375][629]LogContentValidation: Display: Validating UserDefinedStruct /Game/Structs/S_DialogueInfo.S_DialogueInfo
+[2023.04.25-16.06.37:248][131]AssetReimport: New page: Outstanding source content changes 6:06:37 PM
+[2023.04.25-16.06.37:252][131]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/OldLady/oldLady_1.png)
+[2023.04.25-16.06.37:303][132]LogTexture: Display: Building textures: /Game/Assets/Characters/OldLady/oldLady_1.oldLady_1 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2023.04.25-16.06.37:471][132]LogSavePackage: Moving output files for package: /Game/Assets/Characters/OldLady/oldLady_1
+[2023.04.25-16.06.37:471][132]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/oldLady_1BEDBCC164192DA1F1228639644551686.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Characters/OldLady/oldLady_1.uasset'
+[2023.04.25-16.06.37:551][133]AssetCheck: New page: Asset Save: oldLady_1
+[2023.04.25-16.06.37:551][133]LogContentValidation: Display: Validating Texture2D /Game/Assets/Characters/OldLady/oldLady_1.oldLady_1
+[2023.04.25-16.06.40:717][205]AssetReimport: Importing new asset /Game/Assets/Characters/OldLady/oldLady_1.
