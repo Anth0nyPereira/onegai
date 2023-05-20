@@ -2926,3 +2926,892 @@ Script Stack (0 frames):
 [2023.05.19-20.46.57:123][255]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
 [2023.05.19-20.46.57:137][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
 [2023.05.19-20.46.57:165][256]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.19-20.48.12:775][884]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.19-20.48.12:919][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.05.19-20.48.13:624][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.19-20.48.13:708][909]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.19-20.48.13:709][909]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue4161DC684A6F1C832CD597A2FF65CBDA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.19-20.48.13:725][909]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.19-20.48.13:726][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.19-20.48.15:445][  9]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.19-20.48.15:451][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.19-20.48.15:451][  9]PIE: New page: PIE session: L_VisualNovel (May 19, 2023, 10:48:15 PM)
+[2023.05.19-20.48.15:453][  9]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.19-20.48.15:454][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000723s)
+[2023.05.19-20.48.15:454][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000788s)
+[2023.05.19-20.48.15:454][  9]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.19-20.48.15:454][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.19-20.48.15:454][  9]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.19-20.48.15:455][  9]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2023.05.19-20.48.15:495][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.05.19-20.48.15:501][  9]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.19-20.48.15:501][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.19-20.48.15:501][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.19-20.48.15:501][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.19-20.48.15:501][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.19-20.48.15:501][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.19-20.48.15:504][  9]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.19-20.48.15:563][  9]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.19-20.48.15:563][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.19-20.48.15:563][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.19-20.48.15:563][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.19-20.48.15:565][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.05.19-20.48.15:565][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.05.19-20.48.15:566][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.05.19-20.48.15:566][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.05.19-20.48.15:566][  9]LogInit: FAudioDevice initialized.
+[2023.05.19-20.48.15:566][  9]LogAudio: Display: Audio Device (ID: 33) registered with world 'L_VisualNovel'.
+[2023.05.19-20.48.15:593][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.19-20.48.15:593][  9]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.19-20.48.15:595][  9]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.19-21.48.15
+[2023.05.19-20.48.15:595][  9]LogWorld: Bringing up level for play took: 0.000564
+[2023.05.19-20.48.15:598][  9]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.05.19-20.48.15:598][  9]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.19-20.48.15:603][  9]PIE: Server logged in
+[2023.05.19-20.48.15:605][  9]PIE: Play in editor total start time 0.154 seconds.
+[2023.05.19-20.48.15:619][  9]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.19-20.48.20:460][287]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.19-20.48.24:008][493]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.19-20.48.27:634][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.19-20.48.27:634][705]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.19-20.48.27:642][705]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.19-20.48.27:653][705]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.19-20.48.27:659][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.19-20.48.27:687][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.19-20.48.27:698][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.19-20.48.27:752][705]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.19-20.48.27:756][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.19-20.48.27:759][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.05.19-20.48.27:788][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.05.19-20.48.27:816][706]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.05.19-21.08.02:227][ 74]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.794 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.19-22.08.01:517][986]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.078 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.19-23.08.01:640][852]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.199 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.19-23.59.26:564][763]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.19-23.59.26:604][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.19-23.59.26:607][763]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 1:59:26 AM)
+[2023.05.19-23.59.26:620][763]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.19-23.59.26:661][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039560s)
+[2023.05.19-23.59.26:661][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.041267s)
+[2023.05.19-23.59.26:662][763]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.19-23.59.26:675][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.19-23.59.26:691][763]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.19-23.59.26:707][763]LogPlayLevel: PIE: World Init took: (0.045610s)
+[2023.05.19-23.59.27:043][763]LogUObjectHash: Compacting FUObjectHashTables data took  11.00ms
+[2023.05.19-23.59.27:090][763]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.19-23.59.27:092][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.19-23.59.27:092][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.19-23.59.27:096][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.19-23.59.27:096][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.19-23.59.27:096][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.19-23.59.27:102][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.19-23.59.27:198][763]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.19-23.59.27:201][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.19-23.59.27:201][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.19-23.59.27:202][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.19-23.59.27:207][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.05.19-23.59.27:207][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.05.19-23.59.27:210][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.05.19-23.59.27:210][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.05.19-23.59.27:210][763]LogInit: FAudioDevice initialized.
+[2023.05.19-23.59.27:210][763]LogAudio: Display: Audio Device (ID: 34) registered with world 'L_VisualNovel'.
+[2023.05.19-23.59.27:243][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.19-23.59.27:249][763]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.19-23.59.27:251][763]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-00.59.27
+[2023.05.19-23.59.27:252][763]LogWorld: Bringing up level for play took: 0.002617
+[2023.05.19-23.59.27:266][763]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.05.19-23.59.27:312][763]PIE: Server logged in
+[2023.05.19-23.59.27:317][763]PIE: Play in editor total start time 0.722 seconds.
+[2023.05.19-23.59.27:369][763]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.19-23.59.32:017][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.19-23.59.35:558][247]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.00.30:235][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.00.30:235][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.00.30:242][521]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.00.30:249][521]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.00.30:252][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.00.30:272][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.00.30:278][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.00.30:332][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.00.30:334][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.05.20-00.00.30:335][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.05.20-00.00.30:361][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.05.20-00.00.30:397][522]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.20-00.00.34:143][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.20-00.00.34:143][742]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.20-00.01.29:189][988]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.01.29:202][988]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.20-00.01.29:220][988]LogPlayLevel: [PlayLevel] Compiling HUD_Dialogue before play...
+[2023.05.20-00.01.29:428][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.05.20-00.01.29:434][988]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2023.05.20-00.01.29:434][988]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:01:29 AM)
+[2023.05.20-00.01.29:435][988]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.01.29:436][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000984s)
+[2023.05.20-00.01.29:436][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.001066s)
+[2023.05.20-00.01.29:436][988]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.01.29:436][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.01.29:436][988]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.01.29:437][988]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.05.20-00.01.29:466][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.05.20-00.01.29:467][988]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.01.29:467][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.01.29:467][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.01.29:467][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.01.29:467][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.01.29:467][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.01.29:469][988]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.01.29:520][988]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.01.29:521][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.01.29:521][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.01.29:521][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.01.29:522][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.05.20-00.01.29:522][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.05.20-00.01.29:524][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.05.20-00.01.29:524][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.05.20-00.01.29:524][988]LogInit: FAudioDevice initialized.
+[2023.05.20-00.01.29:524][988]LogAudio: Display: Audio Device (ID: 35) registered with world 'L_VisualNovel'.
+[2023.05.20-00.01.29:550][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.01.29:550][988]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.01.29:551][988]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.01.29
+[2023.05.20-00.01.29:551][988]LogWorld: Bringing up level for play took: 0.000526
+[2023.05.20-00.01.29:553][988]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.05.20-00.01.29:553][988]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.01.29:556][988]PIE: Server logged in
+[2023.05.20-00.01.29:558][988]PIE: Play in editor total start time 0.357 seconds.
+[2023.05.20-00.01.29:620][988]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.01.34:244][259]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.01.37:799][471]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.01.46:780][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.01.46:780][  4]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.01.46:783][  4]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.01.46:790][  4]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.01.46:791][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.01.46:802][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.01.46:811][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.01.46:846][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.20-00.01.46:847][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.05.20-00.01.46:862][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.05.20-00.01.46:884][  5]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.05.20-00.02.08:397][255]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.05.20-00.02.24:728][218]LogEditorTransaction: Undo Edit ZOrder
+[2023.05.20-00.02.55:198][ 25]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.02.55:324][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.05.20-00.02.55:876][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.02.55:963][ 53]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.02.55:964][ 53]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue39FAE64C480F8FF92C100594B4D601F5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.02.56:072][ 53]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.02.56:073][ 53]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.02.57:121][116]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.02.57:127][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.02.57:127][116]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:02:57 AM)
+[2023.05.20-00.02.57:131][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.02.57:132][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000747s)
+[2023.05.20-00.02.57:132][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000841s)
+[2023.05.20-00.02.57:132][116]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.02.57:132][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.02.57:132][116]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.02.57:133][116]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2023.05.20-00.02.57:168][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.20-00.02.57:171][116]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.02.57:171][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.02.57:171][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.02.57:171][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.02.57:171][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.02.57:171][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.02.57:174][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.02.57:224][116]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.02.57:224][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.02.57:224][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.02.57:224][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.02.57:226][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.05.20-00.02.57:226][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.05.20-00.02.57:228][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.05.20-00.02.57:228][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.05.20-00.02.57:228][116]LogInit: FAudioDevice initialized.
+[2023.05.20-00.02.57:228][116]LogAudio: Display: Audio Device (ID: 36) registered with world 'L_VisualNovel'.
+[2023.05.20-00.02.57:251][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.02.57:252][116]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.02.57:252][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.02.57
+[2023.05.20-00.02.57:253][116]LogWorld: Bringing up level for play took: 0.000632
+[2023.05.20-00.02.57:254][116]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.05.20-00.02.57:255][116]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.02.57:258][116]PIE: Server logged in
+[2023.05.20-00.02.57:260][116]PIE: Play in editor total start time 0.133 seconds.
+[2023.05.20-00.02.57:270][116]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.03.02:134][402]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.03.05:685][615]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.03.22:632][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.03.22:632][627]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.03.22:634][627]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.03.22:640][627]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.03.22:641][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.03.22:654][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.03.22:662][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.03.22:697][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.03.22:697][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.05.20-00.03.22:701][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.05.20-00.03.22:714][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.20-00.03.22:732][628]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.05.20-00.03.45:851][  2]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.03.45:969][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.20-00.03.46:455][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.03.46:523][ 22]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.03.46:524][ 22]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueC967CAD940E82A0AF8A9AFAC48C3FF7D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.03.46:539][ 22]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.03.46:539][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.03.47:634][ 88]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.03.47:641][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.03.47:641][ 88]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:03:47 AM)
+[2023.05.20-00.03.47:646][ 88]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.03.47:648][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000747s)
+[2023.05.20-00.03.47:648][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000851s)
+[2023.05.20-00.03.47:648][ 88]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.03.47:648][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.03.47:649][ 88]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.03.47:649][ 88]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2023.05.20-00.03.47:686][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.20-00.03.47:691][ 88]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.03.47:691][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.03.47:691][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.03.47:692][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.03.47:692][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.03.47:692][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.03.47:694][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.03.47:744][ 88]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.03.47:745][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.03.47:745][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.03.47:745][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.03.47:746][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.05.20-00.03.47:746][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.05.20-00.03.47:748][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.05.20-00.03.47:748][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.05.20-00.03.47:748][ 88]LogInit: FAudioDevice initialized.
+[2023.05.20-00.03.47:748][ 88]LogAudio: Display: Audio Device (ID: 37) registered with world 'L_VisualNovel'.
+[2023.05.20-00.03.47:770][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.03.47:770][ 88]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.03.47:770][ 88]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.03.47
+[2023.05.20-00.03.47:772][ 88]LogWorld: Bringing up level for play took: 0.000387
+[2023.05.20-00.03.47:774][ 88]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.05.20-00.03.47:774][ 88]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.03.47:777][ 88]PIE: Server logged in
+[2023.05.20-00.03.47:779][ 88]PIE: Play in editor total start time 0.139 seconds.
+[2023.05.20-00.03.47:793][ 88]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.03.52:651][376]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.03.56:204][589]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.04.08:071][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.04.08:071][297]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.04.08:073][297]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.04.08:079][297]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.04.08:079][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.04.08:092][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.04.08:099][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.04.08:131][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.04.08:132][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.05.20-00.04.08:134][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.05.20-00.04.08:161][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.20-00.04.08:184][298]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.05.20-00.04.44:429][458]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.04.44:513][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.20-00.04.45:053][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.04.45:122][482]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.04.45:123][482]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue11EAEDE242FD01436132E9A0585BA8FA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.04.45:137][482]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.04.45:137][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.04.45:995][534]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.04.46:006][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.04.46:008][534]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:04:46 AM)
+[2023.05.20-00.04.46:008][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.04.46:009][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000642s)
+[2023.05.20-00.04.46:009][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000709s)
+[2023.05.20-00.04.46:009][534]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.04.46:009][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.04.46:009][534]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.04.46:009][534]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2023.05.20-00.04.46:042][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.20-00.04.46:047][534]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.04.46:047][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.04.46:047][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.04.46:047][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.04.46:047][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.04.46:047][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.04.46:050][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.04.46:098][534]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.04.46:098][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.04.46:099][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.04.46:099][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.04.46:099][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.05.20-00.04.46:099][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.05.20-00.04.46:101][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.05.20-00.04.46:101][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.05.20-00.04.46:101][534]LogInit: FAudioDevice initialized.
+[2023.05.20-00.04.46:101][534]LogAudio: Display: Audio Device (ID: 38) registered with world 'L_VisualNovel'.
+[2023.05.20-00.04.46:124][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.04.46:124][534]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.04.46:125][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.04.46
+[2023.05.20-00.04.46:125][534]LogWorld: Bringing up level for play took: 0.000455
+[2023.05.20-00.04.46:127][534]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.05.20-00.04.46:128][534]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.04.46:132][534]PIE: Server logged in
+[2023.05.20-00.04.46:134][534]PIE: Play in editor total start time 0.127 seconds.
+[2023.05.20-00.04.46:147][534]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.04.51:003][821]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.04.54:558][ 34]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.05.09:778][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.05.09:778][941]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.05.09:781][941]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.05.09:788][941]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.05.09:788][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.05.09:805][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.05.09:814][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.05.09:844][941]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.05.09:844][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.20-00.05.09:846][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.05.20-00.05.09:859][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.05.20-00.05.09:883][942]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.05.20-00.05.40:423][766]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.05.40:511][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.20-00.05.41:026][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.05.41:094][789]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.05.41:095][789]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue042F2FEE47C215D20CCB258D7705BFEA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.05.41:109][789]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.05.41:109][789]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.05.41:998][842]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.05.42:003][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.05.42:003][842]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:05:42 AM)
+[2023.05.20-00.05.42:004][842]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.05.42:004][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000690s)
+[2023.05.20-00.05.42:004][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000744s)
+[2023.05.20-00.05.42:004][842]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.05.42:004][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.05.42:005][842]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.05.42:006][842]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.05.20-00.05.42:036][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.05.20-00.05.42:041][842]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.05.42:041][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.05.42:041][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.05.42:042][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.05.42:042][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.05.42:042][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.05.42:043][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.05.42:091][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.05.42:091][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.05.42:091][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.05.42:091][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.05.42:092][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.05.20-00.05.42:092][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.05.20-00.05.42:093][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.05.20-00.05.42:093][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.05.20-00.05.42:093][842]LogInit: FAudioDevice initialized.
+[2023.05.20-00.05.42:094][842]LogAudio: Display: Audio Device (ID: 39) registered with world 'L_VisualNovel'.
+[2023.05.20-00.05.42:116][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.05.42:116][842]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.05.42:116][842]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.05.42
+[2023.05.20-00.05.42:118][842]LogWorld: Bringing up level for play took: 0.000531
+[2023.05.20-00.05.42:120][842]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.05.20-00.05.42:120][842]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.05.42:123][842]PIE: Server logged in
+[2023.05.20-00.05.42:126][842]PIE: Play in editor total start time 0.122 seconds.
+[2023.05.20-00.05.42:138][842]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.05.47:003][128]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.05.50:560][341]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.05.52:112][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.05.52:112][428]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.05.52:114][428]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.05.52:119][428]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.05.52:119][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.05.52:132][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.05.52:143][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.05.52:179][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.05.52:179][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.20-00.05.52:181][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.05.20-00.05.52:196][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.05.20-00.05.52:225][429]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.20-00.06.32:230][820]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.06.32:315][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.05.20-00.06.32:700][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.06.32:768][835]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.06.32:769][835]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue9D80BB4E4D12F949E21B37ABDD2B3FC4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.06.32:783][835]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.06.32:783][835]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.06.33:543][880]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.06.33:549][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.06.33:549][880]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:06:33 AM)
+[2023.05.20-00.06.33:549][880]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.06.33:549][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000630s)
+[2023.05.20-00.06.33:549][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000690s)
+[2023.05.20-00.06.33:549][880]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.06.33:550][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.06.33:550][880]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.06.33:550][880]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.05.20-00.06.33:580][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.20-00.06.33:585][880]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.06.33:585][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.06.33:585][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.06.33:587][880]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.06.33:587][880]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.06.33:587][880]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.06.33:589][880]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.06.33:636][880]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.06.33:636][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.06.33:636][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.06.33:636][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.06.33:636][880]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.05.20-00.06.33:636][880]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.05.20-00.06.33:639][880]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.05.20-00.06.33:639][880]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.05.20-00.06.33:639][880]LogInit: FAudioDevice initialized.
+[2023.05.20-00.06.33:639][880]LogAudio: Display: Audio Device (ID: 40) registered with world 'L_VisualNovel'.
+[2023.05.20-00.06.33:661][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.06.33:661][880]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.06.33:662][880]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.06.33
+[2023.05.20-00.06.33:662][880]LogWorld: Bringing up level for play took: 0.000855
+[2023.05.20-00.06.33:666][880]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.05.20-00.06.33:666][880]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.06.33:670][880]PIE: Server logged in
+[2023.05.20-00.06.33:672][880]PIE: Play in editor total start time 0.123 seconds.
+[2023.05.20-00.06.33:685][880]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.06.38:553][169]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.06.44:099][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.06.44:099][495]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.06.44:101][495]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.06.44:108][495]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.06.44:108][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.06.44:122][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.06.44:129][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.06.44:160][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.06.44:160][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.20-00.06.44:162][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.05.20-00.06.44:174][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.20-00.06.44:196][496]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.05.20-00.07.00:738][485]LogEditorTransaction: Undo Changed Anchors
+[2023.05.20-00.07.02:937][608]LogEditorTransaction: Undo Changed Anchors
+[2023.05.20-00.07.21:453][708]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.07.21:533][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.05.20-00.07.22:043][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.07.22:113][730]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.07.22:114][730]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue582757BF44FFE6AF1E8BF38517F1E53D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.07.22:130][730]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.07.22:131][730]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.07.22:806][770]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.07.22:812][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.07.22:812][770]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:07:22 AM)
+[2023.05.20-00.07.22:812][770]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.07.22:813][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000672s)
+[2023.05.20-00.07.22:813][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000728s)
+[2023.05.20-00.07.22:813][770]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.07.22:813][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.07.22:813][770]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.07.22:813][770]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2023.05.20-00.07.22:846][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.20-00.07.22:852][770]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.07.22:852][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.07.22:852][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.07.22:852][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.07.22:852][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.07.22:852][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.07.22:854][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.07.22:902][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.07.22:903][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.07.22:903][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.07.22:903][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.07.22:903][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2023.05.20-00.07.22:903][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2023.05.20-00.07.22:905][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2023.05.20-00.07.22:905][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2023.05.20-00.07.22:905][770]LogInit: FAudioDevice initialized.
+[2023.05.20-00.07.22:905][770]LogAudio: Display: Audio Device (ID: 41) registered with world 'L_VisualNovel'.
+[2023.05.20-00.07.22:926][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.07.22:926][770]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.07.22:926][770]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.07.22
+[2023.05.20-00.07.22:927][770]LogWorld: Bringing up level for play took: 0.000701
+[2023.05.20-00.07.22:929][770]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.05.20-00.07.22:929][770]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.07.22:933][770]PIE: Server logged in
+[2023.05.20-00.07.22:935][770]PIE: Play in editor total start time 0.123 seconds.
+[2023.05.20-00.07.22:948][770]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.07.27:809][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.07.30:640][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.07.30:640][221]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.07.30:642][221]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.07.30:648][221]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.07.30:648][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.07.30:663][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.07.30:670][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.07.30:704][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.07.30:704][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.05.20-00.07.30:707][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2023.05.20-00.07.30:722][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.05.20-00.07.30:748][222]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.20-00.07.38:232][669]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.07.38:311][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.05.20-00.07.38:786][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.07.38:853][689]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.07.38:853][689]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueD60B5D194454FCB76EDB279EC2A26D93.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.07.38:868][689]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.07.38:868][689]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.07.39:580][732]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.07.39:585][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.07.39:585][732]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:07:39 AM)
+[2023.05.20-00.07.39:585][732]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.07.39:586][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000700s)
+[2023.05.20-00.07.39:586][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000757s)
+[2023.05.20-00.07.39:586][732]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.07.39:586][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.07.39:587][732]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.07.39:587][732]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2023.05.20-00.07.39:618][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.20-00.07.39:623][732]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.07.39:623][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.07.39:623][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.07.39:623][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.07.39:623][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.07.39:623][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.07.39:625][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.07.39:674][732]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.07.39:674][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.07.39:674][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.07.39:674][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.07.39:675][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.05.20-00.07.39:675][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.05.20-00.07.39:677][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.05.20-00.07.39:677][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.05.20-00.07.39:677][732]LogInit: FAudioDevice initialized.
+[2023.05.20-00.07.39:677][732]LogAudio: Display: Audio Device (ID: 42) registered with world 'L_VisualNovel'.
+[2023.05.20-00.07.39:700][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.07.39:700][732]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.07.39:700][732]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.07.39
+[2023.05.20-00.07.39:701][732]LogWorld: Bringing up level for play took: 0.000462
+[2023.05.20-00.07.39:702][732]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.05.20-00.07.39:704][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.07.39:707][732]PIE: Server logged in
+[2023.05.20-00.07.39:709][732]PIE: Play in editor total start time 0.124 seconds.
+[2023.05.20-00.07.39:722][732]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.07.44:582][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.07.48:138][231]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.07.49:685][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.07.49:686][318]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.07.49:687][318]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.07.49:695][318]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.07.49:695][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.07.49:707][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.07.49:715][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.07.49:749][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.07.49:749][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.05.20-00.07.49:751][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.05.20-00.07.49:766][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.05.20-00.07.49:787][319]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.20-00.07.55:890][685]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.07.55:971][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.20-00.07.56:470][707]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.07.56:545][707]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.07.56:546][707]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueC8BD99D24E90428259D71DAF43F43049.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.07.56:564][707]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.07.56:564][707]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.07.57:742][777]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.07.57:748][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.07.57:748][777]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:07:57 AM)
+[2023.05.20-00.07.57:748][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.07.57:749][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000687s)
+[2023.05.20-00.07.57:749][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000745s)
+[2023.05.20-00.07.57:749][777]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.07.57:749][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.07.57:750][777]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.07.57:750][777]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2023.05.20-00.07.57:785][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.20-00.07.57:789][777]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.07.57:789][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.07.57:789][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.07.57:789][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.07.57:789][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.07.57:789][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.07.57:792][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.07.57:842][777]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.07.57:842][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.07.57:842][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.07.57:842][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.07.57:843][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.05.20-00.07.57:843][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.05.20-00.07.57:844][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.05.20-00.07.57:844][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.05.20-00.07.57:844][777]LogInit: FAudioDevice initialized.
+[2023.05.20-00.07.57:844][777]LogAudio: Display: Audio Device (ID: 43) registered with world 'L_VisualNovel'.
+[2023.05.20-00.07.57:870][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.07.57:870][777]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.07.57:870][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.07.57
+[2023.05.20-00.07.57:871][777]LogWorld: Bringing up level for play took: 0.000477
+[2023.05.20-00.07.57:873][777]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.05.20-00.07.57:873][777]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.07.57:877][777]PIE: Server logged in
+[2023.05.20-00.07.57:878][777]PIE: Play in editor total start time 0.131 seconds.
+[2023.05.20-00.07.57:892][777]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.08.01:529][990]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.078 and deleted 0 file(s) with total size 0 MiB.
+[2023.05.20-00.08.02:752][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.08.06:311][276]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.08.09:770][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.08.09:770][479]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.08.09:772][479]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.08.09:778][479]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.08.09:778][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.08.09:790][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.08.09:797][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.08.09:829][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.08.09:830][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.05.20-00.08.09:832][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.05.20-00.08.09:844][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.05.20-00.08.09:864][480]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.20-00.12.44:543][904]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.12.44:627][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.20-00.12.45:218][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.12.45:285][931]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.12.45:286][931]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue6D3CD6874A2A226EE66CDC887372D2F2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.12.45:302][931]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.12.45:302][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.12.46:226][987]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.12.46:233][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.12.46:233][987]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:12:46 AM)
+[2023.05.20-00.12.46:233][987]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.12.46:234][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000651s)
+[2023.05.20-00.12.46:234][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000706s)
+[2023.05.20-00.12.46:234][987]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.12.46:234][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.12.46:235][987]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.12.46:235][987]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.05.20-00.12.46:264][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.05.20-00.12.46:270][987]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.12.46:270][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.12.46:270][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.12.46:270][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.12.46:270][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.12.46:270][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.12.46:272][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.12.46:320][987]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.12.46:320][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.12.46:320][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.12.46:320][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.12.46:321][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.05.20-00.12.46:321][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.05.20-00.12.46:323][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.05.20-00.12.46:323][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.05.20-00.12.46:323][987]LogInit: FAudioDevice initialized.
+[2023.05.20-00.12.46:323][987]LogAudio: Display: Audio Device (ID: 44) registered with world 'L_VisualNovel'.
+[2023.05.20-00.12.46:344][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.12.46:345][987]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.12.46:345][987]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.12.46
+[2023.05.20-00.12.46:345][987]LogWorld: Bringing up level for play took: 0.000818
+[2023.05.20-00.12.46:348][987]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.05.20-00.12.46:349][987]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.12.46:352][987]PIE: Server logged in
+[2023.05.20-00.12.46:354][987]PIE: Play in editor total start time 0.122 seconds.
+[2023.05.20-00.12.46:367][987]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.12.51:230][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.12.53:943][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.12.53:943][429]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.12.53:945][429]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.12.53:951][429]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.12.53:952][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.12.53:965][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.12.53:971][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.12.54:002][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.12.54:002][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.05.20-00.12.54:004][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.05.20-00.12.54:016][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.05.20-00.12.54:039][430]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.20-00.14.30:134][192]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.14.30:214][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.20-00.14.30:774][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.14.30:841][217]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.14.30:842][217]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue230F17D04251A6F1040DDB855AB82050.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.14.30:857][217]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.14.30:857][217]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.14.31:451][252]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.14.31:457][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.14.31:457][252]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:14:31 AM)
+[2023.05.20-00.14.31:457][252]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.14.31:459][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000711s)
+[2023.05.20-00.14.31:459][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000771s)
+[2023.05.20-00.14.31:459][252]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.14.31:459][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.14.31:459][252]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.14.31:460][252]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2023.05.20-00.14.31:489][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.20-00.14.31:494][252]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.14.31:494][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.14.31:494][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.14.31:494][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.14.31:494][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.14.31:494][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.14.31:497][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.14.31:545][252]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.14.31:545][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.14.31:545][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.14.31:545][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.14.31:546][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.05.20-00.14.31:546][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.05.20-00.14.31:548][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.05.20-00.14.31:548][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.05.20-00.14.31:548][252]LogInit: FAudioDevice initialized.
+[2023.05.20-00.14.31:548][252]LogAudio: Display: Audio Device (ID: 45) registered with world 'L_VisualNovel'.
+[2023.05.20-00.14.31:574][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.14.31:574][252]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.14.31:575][252]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.14.31
+[2023.05.20-00.14.31:575][252]LogWorld: Bringing up level for play took: 0.000561
+[2023.05.20-00.14.31:578][252]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.05.20-00.14.31:578][252]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.14.31:582][252]PIE: Server logged in
+[2023.05.20-00.14.31:584][252]PIE: Play in editor total start time 0.126 seconds.
+[2023.05.20-00.14.31:597][252]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.14.36:467][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.14.39:418][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.14.39:418][712]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.14.39:420][712]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.14.39:428][712]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.14.39:428][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.14.39:444][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.14.39:452][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.14.39:481][712]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.14.39:481][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.05.20-00.14.39:484][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.05.20-00.14.39:496][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.20-00.14.39:520][713]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.20-00.14.56:785][741]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.05.20-00.14.56:866][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.05.20-00.15.00:475][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.05.20-00.15.00:544][944]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.05.20-00.15.00:545][944]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueE118E17C4F5BD80A77BAFF83AC884B77.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.05.20-00.15.00:561][944]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.05.20-00.15.00:561][944]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.05.20-00.15.01:291][988]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.20-00.15.01:297][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-00.15.01:297][988]PIE: New page: PIE session: L_VisualNovel (May 20, 2023, 2:15:01 AM)
+[2023.05.20-00.15.01:298][988]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.15.01:298][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000674s)
+[2023.05.20-00.15.01:298][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_VisualNovel.L_VisualNovel to /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel (0.000738s)
+[2023.05.20-00.15.01:298][988]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.05.20-00.15.01:298][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-00.15.01:299][988]LogAIModule: Creating AISystem for world L_VisualNovel
+[2023.05.20-00.15.01:300][988]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2023.05.20-00.15.01:330][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.20-00.15.01:337][988]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-00.15.01:337][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.20-00.15.01:337][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-00.15.01:337][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-00.15.01:337][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-00.15.01:337][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-00.15.01:339][988]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-00.15.01:387][988]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.20-00.15.01:388][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-00.15.01:388][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-00.15.01:388][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-00.15.01:389][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.05.20-00.15.01:389][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.05.20-00.15.01:390][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.05.20-00.15.01:390][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.05.20-00.15.01:390][988]LogInit: FAudioDevice initialized.
+[2023.05.20-00.15.01:390][988]LogAudio: Display: Audio Device (ID: 46) registered with world 'L_VisualNovel'.
+[2023.05.20-00.15.01:413][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.15.01:413][988]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.20-00.15.01:414][988]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_VisualNovel.L_VisualNovel up for play (max tick rate 60) at 2023.05.20-01.15.01
+[2023.05.20-00.15.01:414][988]LogWorld: Bringing up level for play took: 0.000454
+[2023.05.20-00.15.01:416][988]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.05.20-00.15.01:417][988]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.20-00.15.01:421][988]PIE: Server logged in
+[2023.05.20-00.15.01:423][988]PIE: Play in editor total start time 0.125 seconds.
+[2023.05.20-00.15.01:439][988]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.20-00.15.06:300][277]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.20-00.15.09:852][489]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.20-00.15.46:641][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-00.15.46:642][691]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_VisualNovel
+[2023.05.20-00.15.46:643][691]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.20-00.15.46:649][691]LogWorld: UWorld::CleanupWorld for L_VisualNovel, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-00.15.46:650][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.15.46:661][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-00.15.46:667][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-00.15.46:697][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-00.15.46:697][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.05.20-00.15.46:699][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.05.20-00.15.46:742][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.20-00.15.46:763][692]LogPlayLevel: Display: Destroying online subsystem :Context_48
