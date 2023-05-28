@@ -1,0 +1,15 @@
+DONE perspetiva
+colocar fundo como se fosse pintado a mao
+DONE modelar caixote do lixo
+DONE modelar meco
+DONE modelar bomba de água
+testar se HUD dialogo fica bem no jogo
+mudar tipo de letra
+acabar sprites
+DONE animação dissolver
+DONE acabar animação troca de dialogo
+implementar animações no jogo
+DONE animação texto nuvem hover
+animação carro a andar sob a flor
+animação criar pedaços de vidro
+refazer boneco na estrada
