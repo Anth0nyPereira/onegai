@@ -5815,3 +5815,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.29-15.44.06:965][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
 [2023.05.29-15.44.07:002][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2023.05.29-15.44.07:031][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.29-15.44.33:945][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.29-15.44.33:946][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.032
+[2023.05.29-15.44.33:947][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/HUD/HUD_text] ([1] browsable assets)...
+[2023.05.29-15.44.33:949][305]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/HUD/HUD_text.HUD_text]
+[2023.05.29-15.44.33:949][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/HUD/HUD_text]
+[2023.05.29-15.44.33:969][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/HUD/HUD_text_Auto2
+[2023.05.29-15.44.33:969][305]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_text_Auto2AA23379441277270AB59BBA8FF6D4E98.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/HUD/HUD_text_Auto2.uasset'
+[2023.05.29-15.44.33:970][305]LogFileHelpers: Auto-saving content packages took 0.024
