@@ -985,3 +985,277 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.29-15.54.28:754][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2023.05.29-15.54.28:790][431]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2023.05.29-16.05.36:487][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.29-16.17.39:576][499]AssetReimport: New page: Outstanding source content changes 6:17:39 PM
+[2023.05.29-16.17.39:593][499]LogSlate: Took 0.001040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.29-16.17.39:635][500]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0014.png)
+[2023.05.29-16.17.39:810][501]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0015.png)
+[2023.05.29-16.17.39:870][501]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0015.light_turnoff0015 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.39:876][502]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0016.png)
+[2023.05.29-16.17.39:929][502]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0016.light_turnoff0016 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.39:936][503]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0017.png)
+[2023.05.29-16.17.39:989][503]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0017.light_turnoff0017 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.39:996][504]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0018.png)
+[2023.05.29-16.17.40:057][504]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0018.light_turnoff0018 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:063][505]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0019.png)
+[2023.05.29-16.17.40:101][506]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0019.light_turnoff0019 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:106][506]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0020.png)
+[2023.05.29-16.17.40:144][507]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0020.light_turnoff0020 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:149][507]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0021.png)
+[2023.05.29-16.17.40:187][508]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0021.light_turnoff0021 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:193][508]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0022.png)
+[2023.05.29-16.17.40:231][509]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0022.light_turnoff0022 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:236][509]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0023.png)
+[2023.05.29-16.17.40:278][510]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0023.light_turnoff0023 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:284][510]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0024.png)
+[2023.05.29-16.17.40:322][511]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0024.light_turnoff0024 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:327][511]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0025.png)
+[2023.05.29-16.17.40:371][512]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0025.light_turnoff0025 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:376][512]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0026.png)
+[2023.05.29-16.17.40:414][513]LogTexture: Display: Building textures: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0026.light_turnoff0026 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 44.494629 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.40:490][513]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4_1.png)
+[2023.05.29-16.17.41:419][514]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4_2.png)
+[2023.05.29-16.17.42:322][515]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue4_2.avenue4_2 (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.42:342][515]LogEditorFactories: Performing atomic reimport of [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4.png]
+[2023.05.29-16.17.42:372][515]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4.png)
+[2023.05.29-16.17.42:556][515]LogEditorFactories: -- imported successfully
+[2023.05.29-16.17.42:721][516]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue4.avenue4 (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.05.29-16.17.42:721][516]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.027987 seconds
+[2023.05.29-16.17.42:819][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0014
+[2023.05.29-16.17.42:819][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0014AE0FA22D473CB6FD027D6F88D2B23B94.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0014.uasset'
+[2023.05.29-16.17.42:895][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0015
+[2023.05.29-16.17.42:896][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0015C21820A94730BCEAE3B272B4A0D8D6F5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0015.uasset'
+[2023.05.29-16.17.42:971][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0016
+[2023.05.29-16.17.42:972][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0016B40A464E45147B022184BBB23E501821.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0016.uasset'
+[2023.05.29-16.17.43:042][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0017
+[2023.05.29-16.17.43:042][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff001780FB879E463B6564EC3EBB8CB0E1D4AF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0017.uasset'
+[2023.05.29-16.17.43:117][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0018
+[2023.05.29-16.17.43:117][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0018C66519CB496AC1455869D4B7090CBDB8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0018.uasset'
+[2023.05.29-16.17.43:187][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0019
+[2023.05.29-16.17.43:187][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff00194BB76FDF48AF3D4A9FCA36BA691B3E41.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0019.uasset'
+[2023.05.29-16.17.43:260][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0020
+[2023.05.29-16.17.43:260][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0020E324A01D490D4F7C004F8F9EB4D5CC6C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0020.uasset'
+[2023.05.29-16.17.43:335][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0021
+[2023.05.29-16.17.43:335][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0021FE352AA04B4679C5A8BBA1913F887069.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0021.uasset'
+[2023.05.29-16.17.43:406][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0022
+[2023.05.29-16.17.43:406][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff002224707ED743050C3BDB59FF8538016B43.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0022.uasset'
+[2023.05.29-16.17.43:481][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0023
+[2023.05.29-16.17.43:481][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0023D3CF4A7046806795C14F768FA93592AB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0023.uasset'
+[2023.05.29-16.17.43:553][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0024
+[2023.05.29-16.17.43:553][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0024E5BB81234B67A3FEC5768AB1334CADAC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0024.uasset'
+[2023.05.29-16.17.43:626][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0025
+[2023.05.29-16.17.43:626][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff0025C80E84864BCD700D7AAA3982B05513D9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0025.uasset'
+[2023.05.29-16.17.43:699][516]LogSavePackage: Moving output files for package: /Game/Movies/StreetLightTurnOnSequence/light_turnoff0026
+[2023.05.29-16.17.43:699][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/light_turnoff00263169916240CBCDC8D9889DB2C0B87639.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/StreetLightTurnOnSequence/light_turnoff0026.uasset'
+[2023.05.29-16.17.46:311][516]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue4_1
+[2023.05.29-16.17.46:311][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue4_19FDC5DF64F2F611542A5E2BB4CDF4516.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4_1.uasset'
+[2023.05.29-16.17.48:970][516]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue4_2
+[2023.05.29-16.17.48:970][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue4_2F203D9114E3EEE703F99719189FAE354.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4_2.uasset'
+[2023.05.29-16.17.49:163][516]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue4
+[2023.05.29-16.17.49:164][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue4DF1FE0F341EA7465E901EC91704A777E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4.uasset'
+[2023.05.29-16.17.49:192][517]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0015.light_turnoff0015
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0014.light_turnoff0014
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue4.avenue4
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue4_2.avenue4_2
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue4_1.avenue4_1
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0026.light_turnoff0026
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0025.light_turnoff0025
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0024.light_turnoff0024
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0023.light_turnoff0023
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0022.light_turnoff0022
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0021.light_turnoff0021
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0020.light_turnoff0020
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0019.light_turnoff0019
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0018.light_turnoff0018
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0017.light_turnoff0017
+[2023.05.29-16.17.49:192][517]LogContentValidation: Display: Validating Texture2D /Game/Movies/StreetLightTurnOnSequence/light_turnoff0016.light_turnoff0016
+[2023.05.29-16.17.49:965][554]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.05.29-16.17.50:002][554]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.29-16.17.50:003][554]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.29-16.17.50:003][554]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.05.29-16.17.50:003][554]LogWorldPartition: Display: ValidateSingleActorReferer took 5 us
+[2023.05.29-16.17.50:003][554]LogWorldPartition: Display: GetPartitionedActors took 195 us
+[2023.05.29-16.17.50:221][554]LogWorldPartition: Display: GenerateStreaming took 218 ms
+[2023.05.29-16.17.50:228][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.29-16.17.50:229][554]PIE: New page: PIE session: Untitled_1 (May 29, 2023, 6:17:50 PM)
+[2023.05.29-16.17.50:234][554]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.05.29-16.17.50:508][554]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.05.29-16.17.50:510][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.275008s)
+[2023.05.29-16.17.50:510][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.275648s)
+[2023.05.29-16.17.50:521][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.29-16.17.50:534][554]LogAIModule: Creating AISystem for world Untitled_1
+[2023.05.29-16.17.50:547][554]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.29-16.17.50:547][554]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.05.29-16.17.50:552][554]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2023.05.29-16.17.50:552][554]LogPlayLevel: PIE: World Init took: (0.041574s)
+[2023.05.29-16.17.50:595][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.05.29-16.17.50:610][554]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.29-16.17.50:610][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.29-16.17.50:611][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.29-16.17.50:613][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.29-16.17.50:613][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.29-16.17.50:613][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.29-16.17.50:615][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.29-16.17.50:701][554]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.05.29-16.17.50:706][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.29-16.17.50:706][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.29-16.17.50:706][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.29-16.17.50:709][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.29-16.17.50:709][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.05.29-16.17.50:711][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.29-16.17.50:711][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.29-16.17.50:711][554]LogInit: FAudioDevice initialized.
+[2023.05.29-16.17.50:711][554]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2023.05.29-16.17.50:740][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.29-16.17.50:742][554]LogLoad: Game class is 'BP_GameMode_C'
+[2023.05.29-16.17.50:755][554]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2023.05.29-17.17.50
+[2023.05.29-16.17.50:757][554]LogWorld: Bringing up level for play took: 0.013412
+[2023.05.29-16.17.50:766][554]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.05.29-16.17.50:785][554]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=-281.000 Z=280.000
+[2023.05.29-16.17.50:785][554]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.05.29-16.17.50:785][554]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=-281.000 Z=280.000,P=0.000000 Y=92.343262 R=-0.000000
+[2023.05.29-16.17.50:852][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.05.29-16.17.50:852][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_M0AB19DRPSE9MKYPZTVNP9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_213GHJR3VJKF8O6TBXNDVM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_D43LKCJAZBO2UYCSUCUWIS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_5ZNW5G7MV8SB8U230NTMG6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_XD4VCUJXDAR9W2NOY9DW31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_IFJ8LJV48IC5TH68CZLNHO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_GB0G8OII70SZ6GD113L2XO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_3MA67PA3DFBCH9ZN7JQD7L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_TM27AJQTOQ55ONVEI0ECE1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.29-16.17.50:853][554]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:877][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.05.29-16.17.50:878][554]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.05.29-16.17.51:044][554]PIE: Server logged in
+[2023.05.29-16.17.51:048][554]PIE: Play in editor total start time 1.074 seconds.
+[2023.05.29-16.17.51:126][554]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0014.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0015.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0016.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0017.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0018.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0019.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0020.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0021.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0022.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0023.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0024.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0025.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Movies/StreetLightTurnOnSequence/light_turnoff0026.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue4_1.
+[2023.05.29-16.17.52:176][609]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue4_2.
+[2023.05.29-16.17.52:176][609]AssetReimport: Reimported asset avenue4 from C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue4.png.
+[2023.05.29-16.17.55:757][824]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.05.29-16.17.55:759][824]LogImgMedia: Warning: Cannot seek while player is not ready
+[2023.05.29-16.17.55:759][824]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2023.05.29-16.17.55:760][824]LogImgMedia: Warning: Cannot seek while player is not ready
+[2023.05.29-16.17.55:760][824]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2023.05.29-16.17.59:315][ 19]LogScript: Warning: Script Msg: Attempted to access index 71 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 71 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.29-16.18.38:407][349]LogImgMedia: Warning: Cannot seek while player is not ready
+[2023.05.29-16.18.38:407][349]LogImgMedia: Warning: Cannot set play rate while player is not ready
+[2023.05.29-16.18.38:408][349]LogBlueprintUserMessages: [HUD_Dialogue_C_0] hereeee
+[2023.05.29-16.18.38:408][349]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetCharacterArrayFromString_ReturnValue' of length 0 in '/Game/BP/HUD/HUD_Dialogue.HUD_Dialogue_C:Make Dialogue Logic'!
+[2023.05.29-16.18.40:835][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.29-16.18.40:835][467]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.05.29-16.18.40:836][467]LogSlate: Window 'yameroUnreal Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.05.29-16.18.40:870][467]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.29-16.18.40:873][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.29-16.18.40:890][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.29-16.18.40:894][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.29-16.18.40:907][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.29-16.18.40:910][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.29-16.18.40:912][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.29-16.18.40:936][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.29-16.18.40:953][468]LogPlayLevel: Display: Destroying online subsystem :Context_3
