@@ -4285,3 +4285,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.29-15.14.46:057][685]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2023.05.29-15.14.46:105][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
 [2023.05.29-15.14.46:131][686]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.05.29-15.15.13:774][ 14]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.05.29-15.15.13:774][ 14]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
