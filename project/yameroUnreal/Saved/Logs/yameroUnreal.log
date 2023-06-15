@@ -1032,3 +1032,22 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.15-18.54.44:339][ 62]LogHttp: Warning: 00000BCBED771E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2023.06.15-18.54.44:339][ 62]LogHttp: Warning: 00000BCBED771E00: libcurl info message cache 1 (Closing connection 8)
 [2023.06.15-18.54.44:340][ 62]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B38283CCD-4D85-447B-65F6-2880548335DA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=9d8fb9f54a6e956c60ca299617ab423b%7C0dac73a8f1474077924233aabd4cda08%7C24dd98b6-5ea1-4d7f-915f-398638d08d8f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.15-18.55.30:531][582]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-18.55.30:533][582]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoC3524F6B4CE93030EF9851B6F57D867F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-18.55.30:912][582]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-18.55.30:913][582]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-18.58.39:021][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.06.15-18.58.39:037][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.100
+[2023.06.15-18.58.39:038][895]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfo] ([1] browsable assets)...
+[2023.06.15-18.58.39:038][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfo]
+[2023.06.15-18.58.39:049][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfo_Auto3
+[2023.06.15-18.58.39:050][895]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo_Auto314C81FC74DE1F92E0E4D2C859DAD379F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfo_Auto3.uasset'
+[2023.06.15-18.58.39:052][895]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.06.15-19.04.15:423][331]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-19.04.15:424][331]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoAC73B1FC490B6B765649AE922FA4A1E6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-19.04.15:436][331]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-19.04.15:436][331]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-19.04.15:636][341]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-19.04.15:637][341]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoF324B57F49A4C4C711E1D5B030D861C0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-19.04.15:650][341]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-19.04.15:650][341]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
