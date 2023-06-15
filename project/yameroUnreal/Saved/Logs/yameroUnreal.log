@@ -1051,3 +1051,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.15-19.04.15:637][341]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoF324B57F49A4C4C711E1D5B030D861C0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
 [2023.06.15-19.04.15:650][341]AssetCheck: New page: Asset Save: DT_DialogueInfo
 [2023.06.15-19.04.15:650][341]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-19.09.23:061][350]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-19.09.23:062][350]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo04BFC8F54AC82F1E41613EA5B23C6DA8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-19.09.23:083][350]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-19.09.23:083][350]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-19.09.23:195][355]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-19.09.23:196][355]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo76000D0C4A37ECA6A892CEBEC5416275.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-19.09.23:208][355]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-19.09.23:208][355]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-19.09.23:340][361]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfo
+[2023.06.15-19.09.23:341][361]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo2EC4260C4D9CD60070E9628F809B17A2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
+[2023.06.15-19.09.23:353][361]AssetCheck: New page: Asset Save: DT_DialogueInfo
+[2023.06.15-19.09.23:353][361]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
