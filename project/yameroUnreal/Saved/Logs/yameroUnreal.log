@@ -1063,3 +1063,43 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.15-19.09.23:341][361]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfo2EC4260C4D9CD60070E9628F809B17A2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset'
 [2023.06.15-19.09.23:353][361]AssetCheck: New page: Asset Save: DT_DialogueInfo
 [2023.06.15-19.09.23:353][361]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfo.DT_DialogueInfo
+[2023.06.15-19.10.19:987][328]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.014 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.15-19.13.42:425][ 38]LogTexture: Display: Building textures: /Game/Assets/textures/BG/T_BG_Exterior02.T_BG_Exterior02 (TFO_AutoDXT, 1792X1024 X1X1) (Required Memory Estimate: 35.000 MB), EncodeSpeed: Fast
+[2023.06.15-19.13.43:686][106]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.06.15-19.13.43:686][106]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.06.15-19.13.45:710][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.06.15-19.13.45:710][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.06.15-19.13.47:046][304]LogContentBrowser: Deferred new asset file creation: DT_DialogueInfo2
+[2023.06.15-19.13.47:101][304]LogContentBrowser: Creating deferred item: DT_DialogueInfo2
+[2023.06.15-19.13.47:118][305]LogContentBrowser: Renaming the item being created (Deferred Item: DT_DialogueInfo2).
+[2023.06.15-19.13.53:611][695]LogContentBrowser: Attempting asset rename: DT_DialogueInfo2 -> DT_DialogueInfoDayII
+[2023.06.15-19.13.53:638][695]LogContentBrowser: End creating deferred item DT_DialogueInfo2
+[2023.06.15-19.13.54:605][753]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.06.15-19.14.05:428][290]LogSlate: Window 'DT_DialogueInfoDayII' being destroyed
+[2023.06.15-19.15.11:480][227]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.06.15-19.15.11:480][227]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII0D29F5434DBF1CAAEFC78E80F3C33E2D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.06.15-19.15.11:554][227]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.06.15-19.15.11:554][227]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.06.15-19.16.01:593][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.06.15-19.16.01:597][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.037
+[2023.06.15-19.16.01:597][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayII] ([1] browsable assets)...
+[2023.06.15-19.16.01:597][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayII]
+[2023.06.15-19.16.01:599][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayII_Auto4
+[2023.06.15-19.16.01:599][885]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII_Auto44F0DE55B4D032B71A5DF499AE118D862.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayII_Auto4.uasset'
+[2023.06.15-19.16.01:600][885]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.06.15-19.16.12:858][372]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.06.15-19.16.12:858][372]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIDA64F57441E958983AED2EBACFC6C95E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.06.15-19.16.12:867][372]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.06.15-19.16.12:868][372]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.06.15-19.16.13:020][380]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.06.15-19.16.13:020][380]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII94861B214A0704AECE1F78BE3DF4B014.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.06.15-19.16.13:030][380]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.06.15-19.16.13:030][380]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.06.15-19.18.48:340][863]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.06.15-19.18.48:340][863]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII4B88C4AC480782DD971D36A2C25B5A60.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.06.15-19.18.48:352][863]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.06.15-19.18.48:352][863]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.06.15-19.18.48:556][873]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.06.15-19.18.48:556][873]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII90400FF445C9FD27A6DAB7BA578A5171.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.06.15-19.18.48:571][873]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.06.15-19.18.48:571][873]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
