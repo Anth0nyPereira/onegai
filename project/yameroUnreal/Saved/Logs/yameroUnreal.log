@@ -2111,3 +2111,108 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.16-07.33.06:750][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2023.06.16-07.33.06:815][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
 [2023.06.16-07.33.06:846][588]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.06.16-07.35.09:643][654]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.35.09:926][654]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2023.06.16-07.35.10:296][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.35.10:435][655]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.35.10:436][655]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueCE5CC3984CEABCEDC5A4D19809BD2E22.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.35.10:461][655]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.35.10:461][655]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.36.27:867][276]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.36.28:009][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.06.16-07.36.28:467][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.36.28:575][287]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.36.28:575][287]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue6091B870447E23BE220149BB1FB47076.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.36.28:589][287]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.36.28:589][287]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.38.09:705][302]LogSlate: Took 0.000574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.16-07.38.17:217][748]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.38.17:354][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.16-07.38.17:876][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.38.17:983][775]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.38.17:983][775]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue188F07F3424D253E999C19A6AF229D62.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.38.17:996][775]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.38.17:996][775]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.38.18:407][800]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.38.18:548][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.16-07.39.52:182][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.06.16-07.39.52:192][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.052
+[2023.06.16-07.39.52:192][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.06.16-07.39.52:194][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.06.16-07.39.52:194][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.06.16-07.39.52:308][371]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto1
+[2023.06.16-07.39.52:309][371]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue_Auto1FFF5357B4B2F00C35E96909DE7E76219.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto1.uasset'
+[2023.06.16-07.39.52:310][371]LogFileHelpers: Auto-saving content packages took 0.119
+[2023.06.16-07.41.23:183][809]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.41.23:308][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.06.16-07.41.23:735][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.41.23:842][831]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.41.23:843][831]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue81DA5FEE42F719FDAF1E38A768E47B18.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.41.23:857][831]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.41.23:857][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.42.39:486][350]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-07.42.39:486][350]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-07.44.20:326][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.44.20:441][349]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.44.20:442][349]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDDF9D62840C06703C7A64BA90EFF2EC2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.44.20:456][349]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.44.20:456][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.44.21:046][385]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.44.21:181][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.16-07.47.09:571][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.47.09:679][278]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.47.09:679][278]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue31CEEC4C49E32B7C35B6498C91279645.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.47.09:701][278]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.47.09:702][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-07.47.10:292][314]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-07.47.10:429][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.06.16-07.47.10:907][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-07.47.11:031][338]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-07.47.11:032][338]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueB0A3292B449AA6D75B4A4199F5AA9CAE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-07.47.11:048][338]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-07.47.11:048][338]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-08.05.40:129][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.06.16-08.05.40:135][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.064
+[2023.06.16-08.05.40:135][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.06.16-08.05.40:138][407]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.06.16-08.05.40:138][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.06.16-08.05.40:249][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto2
+[2023.06.16-08.05.40:250][407]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue_Auto21611F48C49DF32B891E12DA4C4D49671.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto2.uasset'
+[2023.06.16-08.05.40:251][407]LogFileHelpers: Auto-saving content packages took 0.117
+[2023.06.16-08.05.58:913][515]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-08.05.59:051][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.06.16-08.05.59:677][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-08.05.59:819][547]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-08.05.59:819][547]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueB3DC3C3546C32DDA0BACCD8C5E1AB47D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-08.05.59:839][547]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-08.05.59:839][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-08.15.40:684][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2023.06.16-08.15.40:687][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.085
+[2023.06.16-08.15.40:689][677]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.06.16-08.15.40:695][677]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.06.16-08.15.40:695][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.06.16-08.15.40:820][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto3
+[2023.06.16-08.15.40:820][677]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue_Auto3A14E27224C958579957A09BE21E9C49B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto3.uasset'
+[2023.06.16-08.15.40:822][677]LogFileHelpers: Auto-saving content packages took 0.134
+[2023.06.16-08.25.41:164][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.06.16-08.25.41:169][969]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.079
+[2023.06.16-08.25.41:172][969]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_Dialogue] ([2] browsable assets)...
+[2023.06.16-08.25.41:176][969]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue]
+[2023.06.16-08.25.41:176][969]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_Dialogue]
+[2023.06.16-08.25.41:346][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto4
+[2023.06.16-08.25.41:347][969]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue_Auto449D1B6DF40851A34A3A84BB7213AB47D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_Dialogue_Auto4.uasset'
+[2023.06.16-08.25.41:348][969]LogFileHelpers: Auto-saving content packages took 0.179
+[2023.06.16-08.29.16:118][608]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-08.29.16:268][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.06.16-08.29.16:729][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-08.29.16:840][630]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-08.29.16:841][630]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDE147A664E45A7D52121069AD4930AC3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-08.29.16:858][630]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-08.29.16:858][630]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
+[2023.06.16-08.29.32:135][506]BlueprintLog: New page: Compile HUD_Dialogue
+[2023.06.16-08.29.32:356][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.06.16-08.29.32:837][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Dialogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset" SILENT=true
+[2023.06.16-08.29.33:095][524]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Dialogue
+[2023.06.16-08.29.33:096][524]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Dialogue873B944B4E1C849041D47798DBA583B3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Dialogue.uasset'
+[2023.06.16-08.29.33:137][524]AssetCheck: New page: Asset Save: HUD_Dialogue
+[2023.06.16-08.29.33:137][524]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Dialogue.HUD_Dialogue
