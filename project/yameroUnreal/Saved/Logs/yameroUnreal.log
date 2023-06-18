@@ -824,3 +824,30 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.18-20.29.15:441][254]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2023.06.18-20.29.15:442][254]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.06.18-20.29.15:443][254]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.18-20.29.42:784][605]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2023.06.18-20.29.42:787][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.056
+[2023.06.18-20.29.42:791][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/Robecha_Daniera-Regular] ([1] browsable assets)...
+[2023.06.18-20.29.42:791][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/Robecha_Daniera-Regular]
+[2023.06.18-20.29.42:792][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/Robecha_Daniera-Regular_Auto1
+[2023.06.18-20.29.42:792][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Robecha_Daniera-Regular_Auto1A0A8FE3C455B81DEF5DD14B9C800DAB1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/Robecha_Daniera-Regular_Auto1.uasset'
+[2023.06.18-20.29.42:793][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/CormorantUnicase-SemiBold] ([1] browsable assets)...
+[2023.06.18-20.29.42:793][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/CormorantUnicase-SemiBold]
+[2023.06.18-20.29.42:794][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/CormorantUnicase-SemiBold_Auto1
+[2023.06.18-20.29.42:794][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CormorantUnicase-SemiBold_Auto1AB085EDA4DD4D4D8BC1BE8B46C12991D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/CormorantUnicase-SemiBold_Auto1.uasset'
+[2023.06.18-20.29.42:795][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/CormorantUnicase-Bold] ([1] browsable assets)...
+[2023.06.18-20.29.42:795][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/CormorantUnicase-Bold]
+[2023.06.18-20.29.42:797][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/CormorantUnicase-Bold_Auto1
+[2023.06.18-20.29.42:797][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CormorantUnicase-Bold_Auto1BEA280074948EC66A370D59557DA8774.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/CormorantUnicase-Bold_Auto1.uasset'
+[2023.06.18-20.29.42:799][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/CormorantUnicase-Medium] ([1] browsable assets)...
+[2023.06.18-20.29.42:800][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/CormorantUnicase-Medium]
+[2023.06.18-20.29.42:801][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/CormorantUnicase-Medium_Auto1
+[2023.06.18-20.29.42:802][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CormorantUnicase-Medium_Auto1F9A29E4A4725929B07C188B76C8D1652.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/CormorantUnicase-Medium_Auto1.uasset'
+[2023.06.18-20.29.42:805][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/CormorantUnicase-Regular] ([1] browsable assets)...
+[2023.06.18-20.29.42:805][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/CormorantUnicase-Regular]
+[2023.06.18-20.29.42:807][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/CormorantUnicase-Regular_Auto1
+[2023.06.18-20.29.42:807][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CormorantUnicase-Regular_Auto1FDEFC1A041B132C0BABD19966F49094D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/CormorantUnicase-Regular_Auto1.uasset'
+[2023.06.18-20.29.42:811][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/CormorantUnicase-Light] ([1] browsable assets)...
+[2023.06.18-20.29.42:811][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/CormorantUnicase-Light]
+[2023.06.18-20.29.42:812][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Fonts/CormorantUnicase-Light_Auto1
+[2023.06.18-20.29.42:812][605]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CormorantUnicase-Light_Auto122AE44E0429DCB60649EB1B7C79ACA77.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/Assets/Fonts/CormorantUnicase-Light_Auto1.uasset'
+[2023.06.18-20.29.42:815][605]LogFileHelpers: Auto-saving content packages took 0.028
