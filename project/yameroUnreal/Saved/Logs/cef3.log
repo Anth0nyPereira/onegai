@@ -34,3 +34,11 @@
 [0422/174542.662:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0422/174547.013:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
 [0422/174547.675:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0618/214543.771:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0618/214543.772:WARNING:storage_block-inl.h(146)] Failed data load.
+[0618/214543.772:WARNING:storage_block-inl.h(146)] Failed data load.
+[0618/214543.772:WARNING:storage_block-inl.h(146)] Failed data load.
+[0618/214543.772:WARNING:storage_block-inl.h(146)] Failed data load.
+[0618/214543.772:ERROR:entry_impl.cc(1076)] No file for c1030290
+[0618/214543.773:WARNING:storage_block-inl.h(146)] Failed data load.
+[0619/065703.091:WARNING:gpu_process_host.cc(1230)] The GPU process has crashed 1 time(s)
