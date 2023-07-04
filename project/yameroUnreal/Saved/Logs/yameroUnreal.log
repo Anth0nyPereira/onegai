@@ -6730,3 +6730,42 @@ Continuing with the rename may require changes to fix references in code or proj
 [2023.07.04-18.17.20:519][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
 [2023.07.04-18.17.20:564][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2023.07.04-18.17.20:586][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.07.04-18.19.44:553][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.07.04-18.19.44:556][852]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.044
+[2023.07.04-18.19.44:556][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayIV] ([1] browsable assets)...
+[2023.07.04-18.19.44:556][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayIV]
+[2023.07.04-18.19.44:557][852]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIV_Auto2
+[2023.07.04-18.19.44:557][852]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV_Auto298330B7A46360EF6B73DD5859791660B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIV_Auto2.uasset'
+[2023.07.04-18.19.44:558][852]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.07.04-18.22.12:010][516]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.22.12:010][516]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV3194B9B8462D629FDD4AED87E458A455.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.22.12:028][516]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.22.12:028][516]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.26.44:771][810]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.26.44:771][810]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIVCF8B69DD46A3DF0671F234AF007369C6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.26.44:790][810]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.26.44:790][810]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.27.43:491][425]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.27.43:492][425]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV944BE3AF4F17E86AA438EF9B3243F75F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.27.43:507][425]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.27.43:507][425]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.28.27:665][ 64]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.28.27:666][ 64]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV7112016842A3A1E30550078522108EC2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.28.27:684][ 64]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.28.27:684][ 64]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.29.28:765][720]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.29.28:766][720]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV6EE5ECC344D70A90BED6B6B07AC009D7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.29.28:787][720]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.29.28:787][720]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.29.29:026][733]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.29.29:026][733]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIVE751D0B340591E047D54CD82086F4A09.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.29.29:043][733]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.29.29:043][733]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:062][224]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:062][224]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIV6FDAA3C944641A05EB2E0CBC09D5EB44.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.29.54:077][224]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:077][224]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:267][234]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:268][234]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIVFDDEE56A49D06E2C043EE798A2A9ABDE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.04-18.29.54:285][234]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.04-18.29.54:285][234]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
