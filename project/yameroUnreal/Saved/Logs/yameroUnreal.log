@@ -1383,3 +1383,36 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.06-17.23.17:230][538]LogImgMedia: Warning: FGenericImgMediaReader: Unsupported file format in ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequencePlayer_Video_Mat.uasset
 [2023.07.06-17.23.17:230][538]LogImgMedia: Warning: FGenericImgMediaReader: Failed to load image ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequencePlayer_Video_Mat.uasset
 [2023.07.06-17.23.17:261][539]LogImgMedia: Error: Reloading frames. The global cache may be too small.
+[2023.07.06-17.23.55:853][284]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.06-17.23.55:853][284]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.06-17.24.07:366][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_IV\HUD_DialogueDayIV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.07:366][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_IV\HUD_DialogueDayIV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.07:416][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_V\HUD_DialogueDayV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.07:416][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_V\HUD_DialogueDayV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.07:460][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.07:460][886]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.08:422][886]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.06-17.24.08:422][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-17.24.08:557][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-17.24.08:559][886]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.07.06-17.24.09:381][886]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.06-17.24.09:381][886]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.06-17.24.10:355][886]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.024 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.06-17.24.10:355][886]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.06-17.24.10:359][886]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.07.06-17.24.52:171][327]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.06-17.24.52:171][327]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVIF48F2425490413E1725B38A32EFC2A9A.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.06-17.24.52:192][327]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.06-17.24.52:192][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.06-17.24.52:492][335]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.06-17.24.52:492][335]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVIBC0DBBC7464CDDE7EB6C02B26C0A7C6B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.06-17.24.52:511][335]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.06-17.24.52:511][335]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.06-17.24.55:675][525]BlueprintLog: New page: Compile HUD_DialogueDayVI
+[2023.07.06-17.24.55:713][525]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.55:713][525]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.06-17.24.55:835][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.07.06-17.24.56:613][558]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.06-17.24.56:614][558]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVI5321AFF14AF298F4263B0D87C222B299.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.06-17.24.56:630][558]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.06-17.24.56:630][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
