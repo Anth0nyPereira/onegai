@@ -10273,17 +10273,3 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.07-17.01.44:646][411]LogMaterial: Display: Missing cached shadermap for BookshelfSequencePlayer_Video_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A3AD1E7176C9E85404EF99BF966BDCD11FC30F5F), compiling. 
 [2023.07.07-17.01.44:767][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2023.07.07-17.01.44:893][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
-[2023.07.07-17.01.48:325][411]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
-[2023.07.07-17.01.48:325][411]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049746s
-[2023.07.07-17.01.48:327][411]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.050000s (0.055243s overbudget)
-[2023.07.07-17.01.48:339][411]LogSavePackage: Moving output files for package: /Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat
-[2023.07.07-17.01.48:339][411]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BookshelfSequencePlayer_Video_Ma708C38FF466BFA34DE47C3B5ABC4B761.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat.uasset'
-[2023.07.07-17.01.48:359][411]AssetCheck: New page: Asset Save: BookshelfSequencePlayer_Video_Mat
-[2023.07.07-17.01.48:359][411]LogContentValidation: Display: Validating Material /Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat.BookshelfSequencePlayer_Video_Mat
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Default UI Pixel Shader: 28 instructions
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Instanced UI Vertex Shader: 26 instructions
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Texture samplers: 3/16
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2023.07.07-17.01.48:384][411]MaterialEditorStats: Shader Count: 18
