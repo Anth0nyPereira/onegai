@@ -10287,3 +10287,94 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.07-17.01.48:384][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
 [2023.07.07-17.01.48:384][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2023.07.07-17.01.48:384][411]MaterialEditorStats: Shader Count: 18
+[2023.07.07-17.02.22:447][627]LogSlate: Window 'BookshelfSequencePlayer_Video_Mat' being destroyed
+[2023.07.07-17.02.22:456][627]LogSlate: Window 'BookshelfSequencePlayer_Video_Mat' being destroyed
+[2023.07.07-17.02.22:467][627]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.07-17.02.22:467][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.07-17.03.53:415][941]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.07-17.03.53:415][941]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVI4BEE10954303128BC65BE9A15D25F383.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.07-17.03.53:438][941]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.07-17.03.53:438][941]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.07-17.04.06:963][722]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.04.06:964][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-17.04.06:966][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.07-17.04.07:321][722]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.07-17.04.07:321][722]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.07-17.04.41:292][718]LogSlate: Took 0.004895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.07-17.04.49:636][208]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.04.49:828][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.07.07-17.04.50:198][220]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.04.50:198][220]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButtonFF6044FF412674B009B9ECBE5CA2A269.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.04.50:219][220]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.04.50:219][220]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.06.00:969][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.07.07-17.06.00:973][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.061
+[2023.07.07-17.06.00:974][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/Day_VI/HUD_DialogueDayVI] ([2] browsable assets)...
+[2023.07.07-17.06.00:978][103]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI]
+[2023.07.07-17.06.00:978][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/Day_VI/HUD_DialogueDayVI]
+[2023.07.07-17.06.01:150][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/Day_VI/HUD_DialogueDayVI_Auto1
+[2023.07.07-17.06.01:150][103]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVI_Auto1CC5A5428408D33D5D93118A8A04BC2DE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/Day_VI/HUD_DialogueDayVI_Auto1.uasset'
+[2023.07.07-17.06.01:152][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/Day_I/HUD_ChoiceButton] ([2] browsable assets)...
+[2023.07.07-17.06.01:154][103]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton]
+[2023.07.07-17.06.01:154][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/Day_I/HUD_ChoiceButton]
+[2023.07.07-17.06.01:171][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/Day_I/HUD_ChoiceButton_Auto1
+[2023.07.07-17.06.01:171][103]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButton_Auto1A23D031B4E9CFA4825EC078609A4C0CF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/Day_I/HUD_ChoiceButton_Auto1.uasset'
+[2023.07.07-17.06.01:172][103]LogFileHelpers: Auto-saving content packages took 0.199
+[2023.07.07-17.06.20:723][497]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.06.20:860][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.07.07-17.06.21:420][519]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.06.21:421][519]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButtonD938B8C343CCFA3446F6A3BD766C7FCF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.06.21:440][519]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.06.21:440][519]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.07.03:198][980]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.07.03:341][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.07.07-17.07.03:799][997]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.07.03:799][997]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButtonDAFBD9F9448A38F6B096A5B479546643.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.07.03:818][997]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.07.03:818][997]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.07.55:746][  6]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.07.55:747][  6]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButtonF581FFA74EDFA5EEBC383C8911081248.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.07.55:766][  6]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.07.55:766][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.07.55:882][ 10]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.07.55:882][ 10]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButton52B3E01D4ABF39904CC2FEBA388767D4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.07.55:901][ 10]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.07.55:902][ 10]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.07.55:981][ 12]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.07.55:982][ 12]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButtonAF86F8BF47934C53D17B759A1DEBD503.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.07.56:002][ 12]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.07.56:002][ 12]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.07.57:479][ 92]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.07.57:631][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.07-17.07.58:237][117]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.07.58:238][117]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButton023ED4AF46B1E2EF8F6AA4914A3BFAAB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.07.58:255][117]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.07.58:255][117]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.09.28:939][437]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.09.29:103][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.07.07-17.09.29:551][455]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.09.29:552][455]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButton479CA668460BD3FE64258FA4CC4D0D50.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.09.29:570][455]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.09.29:570][455]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.12.14:141][126]BlueprintLog: New page: Compile HUD_ChoiceButton
+[2023.07.07-17.12.14:318][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.07.07-17.12.14:807][145]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_I/HUD_ChoiceButton
+[2023.07.07-17.12.14:807][145]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_ChoiceButton48DF1B2049CA445F77A2DBB21DE2DE8F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset'
+[2023.07.07-17.12.14:826][145]AssetCheck: New page: Asset Save: HUD_ChoiceButton
+[2023.07.07-17.12.14:826][145]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_I/HUD_ChoiceButton.HUD_ChoiceButton
+[2023.07.07-17.12.26:103][796]BlueprintLog: New page: Compile HUD_DialogueDayVI
+[2023.07.07-17.12.26:158][796]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.07-17.12.26:158][796]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.07-17.12.26:254][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.07-17.12.26:978][815]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.07-17.12.26:978][815]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVI887CE5EC4C39E2C6ED1F9BB7C4ADDA20.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.07-17.12.26:998][815]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.07-17.12.26:998][815]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.07-17.14.37:571][337]BlueprintLog: New page: Compile HUD_DialogueDayVI
+[2023.07.07-17.14.37:614][337]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.07-17.14.37:614][337]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.07-17.14.37:733][337]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.07.07-17.14.38:325][349]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.07-17.14.38:325][349]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVIA5E9D0064F3E3FFDD06FAC9DAA5AC470.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.07-17.14.38:346][349]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.07-17.14.38:346][349]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
