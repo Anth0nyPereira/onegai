@@ -14190,3 +14190,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.07-20.51.32:999][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2023.07.07-20.51.33:027][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
 [2023.07.07-20.51.33:052][197]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.07.07-20.52.42:008][568]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.07-20.52.42:009][568]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI2D23907A460BDD1BE51D9D973516ADBC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.07-20.52.42:033][568]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.07-20.52.42:033][568]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
