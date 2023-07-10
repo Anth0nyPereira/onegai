@@ -2203,3 +2203,52 @@ Script call stack:
 [2023.07.10-19.46.30:866][842]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning32507F334171E8C82DD2BF866C1E817C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
 [2023.07.10-19.46.30:887][842]AssetCheck: New page: Asset Save: HUD_Warning
 [2023.07.10-19.46.30:887][842]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-19.47.29:567][215]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.07.10-19.47.29:577][215]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.07.10-19.47.29:587][215]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.07.10-19.47.29:599][216]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.07.10-19.47.35:854][585]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD_End
+[2023.07.10-19.47.35:865][585]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.07.10-19.47.36:408][616]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-19.47.36:408][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-19.47.36:417][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-19.47.36:746][616]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.47.36:746][616]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.48.17:920][ 58]BlueprintLog: New page: Compile HUD_End
+[2023.07.10-19.48.18:027][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.07.10-19.48.18:591][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_End" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset" SILENT=true
+[2023.07.10-19.48.18:594][ 82]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_End
+[2023.07.10-19.48.18:594][ 82]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_EndCABFEA854D36157145C794B247A10DF3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
+[2023.07.10-19.48.18:612][ 82]AssetCheck: New page: Asset Save: HUD_End
+[2023.07.10-19.48.18:612][ 82]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-19.50.32:507][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.07.10-19.50.32:510][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.084
+[2023.07.10-19.50.32:510][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_End] ([2] browsable assets)...
+[2023.07.10-19.50.32:513][246]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End]
+[2023.07.10-19.50.32:513][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_End]
+[2023.07.10-19.50.32:515][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_End_Auto3
+[2023.07.10-19.50.32:515][246]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End_Auto39D817A8446DF92DCFE3987A66DC0BC6B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_End_Auto3.uasset'
+[2023.07.10-19.50.32:516][246]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.07.10-19.56.31:884][733]BlueprintLog: New page: Compile HUD_End
+[2023.07.10-19.56.31:986][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.07.10-19.56.32:360][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_End" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset" SILENT=true
+[2023.07.10-19.56.32:364][745]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_End
+[2023.07.10-19.56.32:364][745]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End5416C69A4B8C3784FCF07090AB915250.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
+[2023.07.10-19.56.32:382][745]AssetCheck: New page: Asset Save: HUD_End
+[2023.07.10-19.56.32:382][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-19.57.07:634][827]LogEditorTransaction: Undo Edit Right
+[2023.07.10-19.57.13:779][179]LogEditorTransaction: Undo Edit Right
+[2023.07.10-19.57.36:927][531]BlueprintLog: New page: Compile HUD_End
+[2023.07.10-19.57.37:012][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.07.10-19.57.37:559][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_End" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset" SILENT=true
+[2023.07.10-19.57.37:562][554]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_End
+[2023.07.10-19.57.37:563][554]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End0A534D824CD3C58CC4771C950280F1CB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
+[2023.07.10-19.57.37:582][554]AssetCheck: New page: Asset Save: HUD_End
+[2023.07.10-19.57.37:582][554]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-19.59.31:498][319]BlueprintLog: New page: Compile HUD_End
+[2023.07.10-19.59.31:585][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.07.10-19.59.32:142][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_End" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset" SILENT=true
+[2023.07.10-19.59.32:146][347]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_End
+[2023.07.10-19.59.32:147][347]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End6AB2B88748CDE0CCBDDA0A9BEA7828DD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
+[2023.07.10-19.59.32:168][347]AssetCheck: New page: Asset Save: HUD_End
+[2023.07.10-19.59.32:168][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
