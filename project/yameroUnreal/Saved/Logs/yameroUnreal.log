@@ -1979,3 +1979,140 @@ Script call stack:
 [2023.07.10-19.23.11:848][164]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue2CDB9BCD4855A8D2841C3995D7A8D558.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
 [2023.07.10-19.23.11:868][164]AssetCheck: New page: Asset Save: HUD_Prologue
 [2023.07.10-19.23.11:868][164]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.24.51:499][224]BlueprintLog: New page: Compile HUD_Prologue
+[2023.07.10-19.24.51:582][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.10-19.24.52:150][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.24.52:157][248]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.24.52:158][248]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue24D2FBCC4F7943DF2BAA75A8C0DC0A56.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.24.52:177][248]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.24.52:177][248]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.24.55:273][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.24.55:279][430]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.24.55:280][430]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue70D2A27546035A9289B09F8587C6822C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.24.55:298][430]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.24.55:298][430]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.24.55:442][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.24.55:448][437]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.24.55:448][437]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue1B613AEA477217ADA9B7D182AF459CC7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.24.55:468][437]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.24.55:468][437]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.24.55:611][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.24.55:618][444]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.24.55:619][444]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueF8EF9B274C72093DC5469E9959519A79.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.24.55:637][444]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.24.55:637][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.24.55:765][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.24.55:770][450]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.24.55:770][450]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueA9ACDDEE4E9B0C036B0D7EBEEB70F1E0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.24.55:792][450]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.24.55:792][450]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.25.53:898][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.25.53:905][906]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.25.53:906][906]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueC307658F4B4491FE4DC06EB88F3F29BD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.25.53:932][906]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.25.53:932][906]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.25.54:048][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.25.54:055][911]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.25.54:055][911]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue5C81314C4D7F00B75B8E35BF455BBCFC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.25.54:077][911]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.25.54:077][911]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.25.54:156][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.25.54:163][914]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.25.54:163][914]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueBB7BD4664B4B93E6FA3426BE7A26C224.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.25.54:183][914]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.25.54:183][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.25.54:277][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.25.54:283][918]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.25.54:284][918]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue821091594C89375D075E35B6C518EEBB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.25.54:303][918]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.25.54:303][918]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.34:466][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.34:476][296]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.34:476][296]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueE45A7BE34F42FC371BA587974942FD09.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.34:496][296]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.34:496][296]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.34:627][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.34:636][302]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.34:637][302]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue9C68352A4E1B09089E558ABA7A596F4B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.34:656][302]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.34:656][302]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.34:767][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.34:775][307]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.34:776][307]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue85D881D04299B5F3BC3E54B3ED89A1E5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.34:799][307]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.34:800][307]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.34:929][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.34:940][313]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.34:940][313]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue83FAAD0940CC4A21B5B27081AE2ECA2B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.34:960][313]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.34:960][313]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.59:560][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.59:570][773]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.59:570][773]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueC7DD37B041A209629B9DDFBDE88BC636.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.59:591][773]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.59:591][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.59:725][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.59:734][779]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.59:735][779]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue633773F24BF7C691A06B28A930689D44.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.59:756][779]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.59:756][779]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.26.59:870][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.26.59:879][784]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.26.59:880][784]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueCDAF25864D56626E8EB41E9EB0893918.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.26.59:905][784]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.26.59:905][784]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.00:023][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.00:033][789]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.00:034][789]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue3582E37D42064D76E0EDCE8FDD042326.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.00:054][789]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.00:054][789]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.00:146][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.00:157][793]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.00:158][793]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueFC2249814C07224B569FAD82078EE8C7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.00:177][793]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.00:177][793]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.29:727][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.29:737][547]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.29:738][547]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue44AC25304D09AA7C7D3E83A44104EADA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.29:757][547]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.29:757][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.29:875][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.29:886][552]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.29:887][552]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue2EB39C514F534954CC4C66B952E7C381.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.29:909][552]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.29:909][552]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.30:006][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.30:018][556]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.30:018][556]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueC77095C54019DB3B5854F08E9E3B709E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.30:041][556]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.30:041][556]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.30:140][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.30:152][560]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.30:152][560]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueE146552D456A535357EF51908BCEDC1E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.30:172][560]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.30:172][560]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.56:077][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.56:089][102]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.56:091][102]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue5A81ECCC4E82ED05151EC09D2587A0F3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.56:112][102]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.56:112][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.56:223][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.56:236][107]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.56:236][107]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueB2CBF19E4DD4069D00542991FE041F27.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.56:258][107]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.56:258][107]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.56:371][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.56:384][112]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.56:384][112]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueC33812B943BA4902B6456BB01B9733C9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.56:406][112]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.56:406][112]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.56:471][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.56:485][114]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.56:485][114]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue5F0592AC4CF0094C13E27F92DED8074B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.56:505][114]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.56:505][114]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.27.56:569][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.27.56:581][116]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.27.56:582][116]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue2CFBA3D24869E710488B4FB6EEAE00FB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.27.56:601][116]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.27.56:601][116]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
