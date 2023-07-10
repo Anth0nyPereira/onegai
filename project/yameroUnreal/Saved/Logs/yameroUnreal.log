@@ -2181,3 +2181,25 @@ Script call stack:
 [2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/bad-language-black-EN.
 [2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/pegi18.
 [2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/violence-black-EN.
+[2023.07.10-19.45.23:392][834]BlueprintLog: New page: Compile HUD_Warning
+[2023.07.10-19.45.23:488][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.07.10-19.45.23:990][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.10-19.45.23:994][856]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.10-19.45.23:996][856]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning228B946D40AE33A91D4FFAA673420D03.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.10-19.45.24:015][856]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.10-19.45.24:015][856]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-19.46.30:605][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.10-19.46.30:611][833]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.10-19.46.30:611][833]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning52DBA3EE420C580156BBE28D073AC36D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.10-19.46.30:631][833]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.10-19.46.30:631][833]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-19.46.30:746][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.10-19.46.30:750][838]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.10-19.46.30:750][838]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_WarningDC67C4B8416D75A643916689825BAAA8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.10-19.46.30:769][838]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.10-19.46.30:769][838]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-19.46.30:860][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.10-19.46.30:865][842]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.10-19.46.30:866][842]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning32507F334171E8C82DD2BF866C1E817C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.10-19.46.30:887][842]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.10-19.46.30:887][842]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
