@@ -2423,3 +2423,37 @@ Continuing with the rename may require changes to fix references in code or proj
 [2023.07.10-18.39.36:789][312]LogContentBrowser: Attempting asset rename: DT_DialogueInfoDayV1 -> DT_DialogueInfoDayVII
 [2023.07.10-18.39.36:796][312]LogContentBrowser: End creating deferred item DT_DialogueInfoDayV1
 [2023.07.10-18.39.37:817][373]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.40.05:699][791]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.40.05:699][791]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVII888D374B4EEAC7F8F29304BE1CDA2D37.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.40.05:723][791]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.40.05:723][791]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.41.43:913][743]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.41.43:915][743]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVII55ED1BA64A17BC0BD989F8B2B963BDCB.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.41.43:940][743]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.41.43:940][743]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:083][750]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:084][750]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVII80FB7AF6488A568E3759188FB2B2EDBD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.41.44:103][750]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:104][750]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:216][755]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:216][755]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVII0DB7B77B4AD907F1685B358EA57B16A9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.41.44:236][755]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:236][755]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:363][761]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:363][761]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIIB2680A94435F5A8B73EBEE8270631AF1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.41.44:385][761]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.41.44:385][761]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.41.51:332][163]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.41.51:333][163]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIIA0077D8B408D63E276C2479B5BBDBD6F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.41.51:352][163]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.41.51:352][163]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.42.04:952][956]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.42.04:953][956]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIIF608176B46BFE3D4D586198E0A9E0433.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.42.04:975][956]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.42.04:975][956]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.42.17:706][706]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVII
+[2023.07.10-18.42.17:706][706]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVII495DC13940BA0C6EC8B28897B50F4193.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset'
+[2023.07.10-18.42.17:727][706]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVII
+[2023.07.10-18.42.17:727][706]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
+[2023.07.10-18.42.20:433][868]LogSlate: Window 'DT_DialogueInfoDayVII' being destroyed
+[2023.07.10-18.42.20:442][868]LogSlate: Window 'DT_DialogueInfoDayVII' being destroyed
