@@ -2093,3 +2093,32 @@ Script call stack:
 [2023.07.10-18.17.37:091][646]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDay73ECFB26455892C20D33A3950D93CE29.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
 [2023.07.10-18.17.37:109][646]AssetCheck: New page: Asset Save: HUD_DisplayDay
 [2023.07.10-18.17.37:109][646]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.10-18.18.06:604][476]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Movies/CarFireLineArt/CarFirePlayer.CarFirePlayer
+[2023.07.10-18.18.06:667][476]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 020B6BA7D68A561B98A4712C5E140BFB7EEE5A04), compiling. 
+[2023.07.10-18.18.06:749][476]LogContentBrowser: Verbose: The majority of assets in the view are of type: ImgMediaSource
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: ================================================
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Total job queries 2, among them cache hits 0 (0.00%)
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Job life time (pending + execution): average 0.43 s, max 0.43
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.43 s
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Effective parallelization: 0.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.10-18.18.07:242][504]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.10-18.18.07:243][504]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.07.10-18.18.07:243][504]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.10-18.18.07:243][504]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 100.00% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2023.07.10-18.18.07:243][504]LogShaderCompilers: Display: ================================================
+[2023.07.10-18.18.09:840][657]LogSavePackage: Moving output files for package: /Game/Movies/CarFireLineArt/CarFirePlayer
+[2023.07.10-18.18.09:841][657]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/CarFirePlayerCB73E46242B4CADDFE2346BA9623CED2.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Movies/CarFireLineArt/CarFirePlayer.uasset'
+[2023.07.10-18.18.09:861][657]AssetCheck: New page: Asset Save: CarFirePlayer
+[2023.07.10-18.18.09:861][657]LogContentValidation: Display: Validating MediaPlayer /Game/Movies/CarFireLineArt/CarFirePlayer.CarFirePlayer
+[2023.07.10-18.18.11:145][733]LogSlate: Window 'CarFirePlayer' being destroyed
+[2023.07.10-18.18.11:154][733]LogSlate: Window 'CarFirePlayer' being destroyed
