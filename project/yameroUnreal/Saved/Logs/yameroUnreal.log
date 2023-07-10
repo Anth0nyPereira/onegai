@@ -1896,3 +1896,26 @@ Script call stack:
 [2023.07.10-19.04.16:140][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2023.07.10-19.04.16:158][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
 [2023.07.10-19.04.16:247][181]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.07.10-19.05.47:307][678]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.10-19.05.49:110][678]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.07.10-19.05.49:135][678]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.07.10-19.05.49:147][678]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.07.10-19.05.49:170][679]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.07.10-19.06.05:140][630]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD_Prologue
+[2023.07.10-19.06.05:150][630]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.07.10-19.06.05:790][668]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-19.06.05:790][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-19.06.05:792][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-19.06.06:230][668]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.06.06:230][668]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.06.09:419][847]LogSlate: Window 'HUD_Prologue' being destroyed
+[2023.07.10-19.06.14:829][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.06.14:829][135]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-19.06.59:313][751]LogSlate: Took 0.000538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.10-19.07.04:684][ 62]BlueprintLog: New page: Compile HUD_Prologue
+[2023.07.10-19.07.04:771][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.07.10-19.07.05:381][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-19.07.05:389][ 90]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-19.07.05:389][ 90]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueE538E9B847506194C398B7ADE462B912.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-19.07.05:407][ 90]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-19.07.05:407][ 90]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
