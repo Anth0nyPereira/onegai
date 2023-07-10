@@ -3755,3 +3755,21 @@ Script call stack:
 [2023.07.10-20.41.37:965][350]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_onegaiC5B6140D42C8D995A9F0508D915291FE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset'
 [2023.07.10-20.41.37:985][350]AssetCheck: New page: Asset Save: HUD_onegai
 [2023.07.10-20.41.37:985][350]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai
+[2023.07.10-20.43.07:638][666]BlueprintLog: New page: Compile HUD_onegai
+[2023.07.10-20.43.07:748][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.07.10-20.43.08:195][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.07.10-20.43.08:201][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.078
+[2023.07.10-20.43.08:201][676]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/HUD/HUD_onegai] ([2] browsable assets)...
+[2023.07.10-20.43.08:205][676]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai]
+[2023.07.10-20.43.08:205][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/HUD/HUD_onegai]
+[2023.07.10-20.43.08:208][676]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/HUD/HUD_onegai_Auto4
+[2023.07.10-20.43.08:208][676]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_onegai_Auto4BA4E23C440CAC3145340F580907D8ACC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/BP/HUD/HUD_onegai_Auto4.uasset'
+[2023.07.10-20.43.08:209][676]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.07.10-20.44.33:045][593]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.10-20.44.41:596][105]BlueprintLog: New page: Compile HUD_onegai
+[2023.07.10-20.44.41:696][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.10-20.44.42:263][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_onegai" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset" SILENT=true
+[2023.07.10-20.44.42:267][128]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_onegai
+[2023.07.10-20.44.42:268][128]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_onegai26BF6BEF4E7DC7F96F3F44B817A0D072.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset'
+[2023.07.10-20.44.42:286][128]AssetCheck: New page: Asset Save: HUD_onegai
+[2023.07.10-20.44.42:286][128]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai
