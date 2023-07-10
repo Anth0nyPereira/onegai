@@ -2353,3 +2353,73 @@ Script call stack:
 [2023.07.10-18.38.13:629][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2023.07.10-18.38.13:645][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2023.07.10-18.38.13:675][221]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.07.10-18.39.09:790][831]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.10-18.39.09:800][831]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.10-18.39.09:810][832]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.10-18.39.13:324][ 43]LogContentBrowser: Attempting asset rename: NewFolder -> Day_VII
+[2023.07.10-18.39.13:324][ 43]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.10-18.39.15:101][141]LogBlueprint: Warning: [AssetLog] /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV (no disk path found): [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.10-18.39.15:101][141]LogBlueprint: Warning: [AssetLog] /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV (no disk path found): [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.10-18.39.15:188][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.07.10-18.39.15:235][141]LogBlueprint: Warning: [AssetLog] /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV (no disk path found): [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.10-18.39.15:235][141]LogBlueprint: Warning: [AssetLog] /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV (no disk path found): [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.10-18.39.22:894][588]LogContentBrowser: Attempting asset rename: HUD_DialogueDayV -> HUD_DialogueDayVII
+[2023.07.10-18.39.24:439][588]LogSlate: Window 'Message' being destroyed
+[2023.07.10-18.39.24:448][588]Message dialog closed, result: Yes, title: Message, text: The following assets are referenced by one or more Class Default Objects: 
+
+HUD_DialogueDayV (soft reference)
+
+Continuing with the rename may require changes to fix references in code or project settings. Assets could otherwise be missing in cooked/packaged builds. Do you wish to continue?
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Construct' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Event Create Choices' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Event Click Button' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Tick' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Handle Character Name Display Event' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Fade In Black' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Call Play Visual FX Fade Out' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Hide Or Show Clouds' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:SET HUD Elements' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Set Next Dialogue Row Index' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Toggle Borders' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Select Dialogue Row Index' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Set Mouse Cursor' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Toggle Dialogue State' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Visit Row' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:453][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Check Row Visit' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Handle Character Name Display' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Change Font Size' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Check If It Is Row' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.SKEL_HUD_DialogueDayVII_C:Manage Borders' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Tick' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Construct' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Fade In Black' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Event Click Button' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:SET HUD Elements' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Set Next Dialogue Row Index' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Toggle Borders' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Select Dialogue Row Index' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Set Mouse Cursor' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Toggle Dialogue State' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Visit Row' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Check Row Visit' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Handle Character Name Display' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Change Font Size' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Check If It Is Row' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:454][588]LogMetaData: Removing '/Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII_C:Manage Borders' ref from Metadata '/Game/BP/HUD/Day_VII/HUD_DialogueDayV.PackageMetaData'
+[2023.07.10-18.39.24:668][588]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VII/HUD_DialogueDayVII
+[2023.07.10-18.39.24:668][588]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVII1531EBF74DFF8828520E0A8843676631.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VII/HUD_DialogueDayVII.uasset'
+[2023.07.10-18.39.24:670][588]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VII/HUD_DialogueDayV
+[2023.07.10-18.39.24:670][588]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayV7171EC884A66AFAEE624E992B6A3F06B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VII/HUD_DialogueDayV.uasset'
+[2023.07.10-18.39.24:692][588]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.10-18.39.24:692][588]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV
+[2023.07.10-18.39.24:692][588]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/HUD/Day_VII/HUD_DialogueDayV.Default__HUD_DialogueDayV_C
+[2023.07.10-18.39.24:692][588]LogContentValidation: Display: Validating ObjectRedirector /Game/BP/HUD/Day_VII/HUD_DialogueDayV.HUD_DialogueDayV_C
+[2023.07.10-18.39.24:692][588]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII
+[2023.07.10-18.39.31:825][ 14]LogContentBrowser: Deferred new asset file creation: DT_DialogueInfoDayV1
+[2023.07.10-18.39.31:830][ 14]LogContentBrowser: Creating deferred item: DT_DialogueInfoDayV1
+[2023.07.10-18.39.31:841][ 15]LogContentBrowser: Renaming the item being created (Deferred Item: DT_DialogueInfoDayV1).
+[2023.07.10-18.39.36:789][312]LogContentBrowser: Attempting asset rename: DT_DialogueInfoDayV1 -> DT_DialogueInfoDayVII
+[2023.07.10-18.39.36:796][312]LogContentBrowser: End creating deferred item DT_DialogueInfoDayV1
+[2023.07.10-18.39.37:817][373]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayVII.DT_DialogueInfoDayVII
