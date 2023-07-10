@@ -2252,3 +2252,79 @@ Script call stack:
 [2023.07.10-19.59.32:147][347]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End6AB2B88748CDE0CCBDDA0A9BEA7828DD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
 [2023.07.10-19.59.32:168][347]AssetCheck: New page: Asset Save: HUD_End
 [2023.07.10-19.59.32:168][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-20.02.59:614][134]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.849 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.10-20.10.13:041][ 37]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.07.10-20.10.13:054][ 37]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.07.10-20.10.13:064][ 37]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.07.10-20.10.13:078][ 38]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.07.10-20.10.17:715][308]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD_Epilogue
+[2023.07.10-20.10.17:722][308]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.07.10-20.10.33:582][256]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.10.33:582][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-20.10.33:586][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-20.10.33:925][256]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-20.10.33:926][256]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-20.11.11:231][462]BlueprintLog: New page: Compile HUD_Epilogue
+[2023.07.10-20.11.11:344][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.10-20.11.11:843][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.10-20.11.11:857][482]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.10-20.11.11:857][482]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue0F44FADA4D81EDA74043BA91BD3550D0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.10-20.11.11:887][482]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.10-20.11.11:887][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.12.36:046][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-20.12.36:056][415]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-20.12.36:057][415]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueA9EE8DB24BF85728AFD84AA91B7BD1A4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-20.12.36:078][415]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-20.12.36:078][415]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-20.12.58:473][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-20.12.58:483][751]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-20.12.58:484][751]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Prologue9E769FDD48F5130ACB3A7697F262F5FF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-20.12.58:503][751]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-20.12.58:504][751]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-20.13.02:046][962]BlueprintLog: New page: Compile HUD_Prologue
+[2023.07.10-20.13.02:152][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.10-20.13.02:650][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Prologue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset" SILENT=true
+[2023.07.10-20.13.02:662][984]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Prologue
+[2023.07.10-20.13.02:662][984]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_PrologueC599384343FFC0317BF80BA61797F57E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset'
+[2023.07.10-20.13.02:684][984]AssetCheck: New page: Asset Save: HUD_Prologue
+[2023.07.10-20.13.02:685][984]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Prologue.HUD_Prologue
+[2023.07.10-20.13.04:392][ 85]BlueprintLog: New page: Compile HUD_Warning
+[2023.07.10-20.13.04:476][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.07.10-20.13.05:003][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.10-20.13.05:007][110]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.10-20.13.05:007][110]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning8ED6B1514A677B43E095648A8703A613.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.10-20.13.05:025][110]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.10-20.13.05:026][110]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-20.13.07:494][257]BlueprintLog: New page: Compile HUD_End
+[2023.07.10-20.13.07:571][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.10-20.13.08:080][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_End" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset" SILENT=true
+[2023.07.10-20.13.08:083][281]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_End
+[2023.07.10-20.13.08:083][281]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_End5244F05642495F5C843473B7994E0EAD.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_End.uasset'
+[2023.07.10-20.13.08:105][281]AssetCheck: New page: Asset Save: HUD_End
+[2023.07.10-20.13.08:105][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_End.HUD_End
+[2023.07.10-20.13.09:923][389]BlueprintLog: New page: Compile HUD_Epilogue
+[2023.07.10-20.13.10:001][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.10-20.13.10:494][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.10-20.13.10:497][408]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.10-20.13.10:498][408]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue8830C55C48EB0A9DED17DBB737D96B20.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.10-20.13.10:519][408]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.10-20.13.10:519][408]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.14.22:286][ 47]BlueprintLog: New page: Compile HUD_Epilogue
+[2023.07.10-20.14.22:391][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.07.10-20.14.22:969][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.10-20.14.22:972][ 71]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.10-20.14.22:974][ 71]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue02BFA2CF492E01FD9623799B7A937B0F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.10-20.14.22:992][ 71]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.10-20.14.22:992][ 71]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.15.51:648][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.10-20.15.51:657][961]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.10-20.15.51:659][961]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue46D98FC847AD898911E2B48108C0C899.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.10-20.15.51:679][961]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.10-20.15.51:679][961]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.15.53:231][ 54]BlueprintLog: New page: Compile HUD_Epilogue
+[2023.07.10-20.15.53:326][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.07.10-20.15.53:800][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.10-20.15.53:805][ 75]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.10-20.15.53:805][ 75]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_EpilogueEA7518EA4A09CC75B1540F94C7E59C55.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.10-20.15.53:826][ 75]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.10-20.15.53:826][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
