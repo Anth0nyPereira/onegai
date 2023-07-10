@@ -2328,3 +2328,28 @@ Script call stack:
 [2023.07.10-20.15.53:805][ 75]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_EpilogueEA7518EA4A09CC75B1540F94C7E59C55.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
 [2023.07.10-20.15.53:826][ 75]AssetCheck: New page: Asset Save: HUD_Epilogue
 [2023.07.10-20.15.53:826][ 75]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.10-20.16.42:668][370]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.07.10-20.16.42:684][370]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.07.10-20.16.42:692][370]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.07.10-20.16.42:702][371]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.07.10-20.16.46:880][617]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HUD_onegai
+[2023.07.10-20.16.46:886][617]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.07.10-20.16.47:390][644]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai
+[2023.07.10-20.16.47:390][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-20.16.47:400][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.10-20.16.47:682][644]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-20.16.47:682][644]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.10-20.17.22:789][723]BlueprintLog: New page: Compile HUD_onegai
+[2023.07.10-20.17.22:900][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.10-20.17.23:417][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_onegai" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset" SILENT=true
+[2023.07.10-20.17.23:420][743]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_onegai
+[2023.07.10-20.17.23:420][743]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_onegaiA4DD6DA44CE46E9219787B8E9185833B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset'
+[2023.07.10-20.17.23:439][743]AssetCheck: New page: Asset Save: HUD_onegai
+[2023.07.10-20.17.23:439][743]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai
+[2023.07.10-20.18.18:936][913]BlueprintLog: New page: Compile HUD_onegai
+[2023.07.10-20.18.19:051][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.07.10-20.18.19:566][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_onegai" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset" SILENT=true
+[2023.07.10-20.18.19:570][937]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_onegai
+[2023.07.10-20.18.19:570][937]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_onegai564BB6394A5A9554427B288E85A412C5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_onegai.uasset'
+[2023.07.10-20.18.19:589][937]AssetCheck: New page: Asset Save: HUD_onegai
+[2023.07.10-20.18.19:589][937]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_onegai.HUD_onegai
