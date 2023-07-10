@@ -2163,3 +2163,21 @@ Script call stack:
 [2023.07.10-19.40.55:959][712]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Warning94E038B94671F521B1F0B793A6DBD5B1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
 [2023.07.10-19.40.55:980][712]AssetCheck: New page: Asset Save: HUD_Warning
 [2023.07.10-19.40.55:980][712]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
+[2023.07.10-19.43.11:930][748]AssetReimport: New page: Outstanding source content changes 9:43:11 PM
+[2023.07.10-19.43.11:965][749]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/bad-language-black-EN.png)
+[2023.07.10-19.43.12:028][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/pegi18.png)
+[2023.07.10-19.43.12:033][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/violence-black-EN.png)
+[2023.07.10-19.43.12:158][750]LogSavePackage: Moving output files for package: /Game/Assets/PEGI/bad-language-black-EN
+[2023.07.10-19.43.12:158][750]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/bad-language-black-ENB8543D65494482E268BCB3AB165641CA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/bad-language-black-EN.uasset'
+[2023.07.10-19.43.12:162][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PEGI/pegi18" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/pegi18.uasset" SILENT=true
+[2023.07.10-19.43.12:166][750]LogSavePackage: Moving output files for package: /Game/Assets/PEGI/pegi18
+[2023.07.10-19.43.12:166][750]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/pegi18D2DCBFEF4BF5934BFE1A4D9C6156A202.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/pegi18.uasset'
+[2023.07.10-19.43.12:173][750]LogSavePackage: Moving output files for package: /Game/Assets/PEGI/violence-black-EN
+[2023.07.10-19.43.12:173][750]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/violence-black-EN253E949A4717330C96ED6D9226D3694A.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/PEGI/violence-black-EN.uasset'
+[2023.07.10-19.43.12:269][751]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.10-19.43.12:269][751]LogContentValidation: Display: Validating Texture2D /Game/Assets/PEGI/violence-black-EN.violence-black-EN
+[2023.07.10-19.43.12:270][751]LogContentValidation: Display: Validating Texture2D /Game/Assets/PEGI/pegi18.pegi18
+[2023.07.10-19.43.12:270][751]LogContentValidation: Display: Validating Texture2D /Game/Assets/PEGI/bad-language-black-EN.bad-language-black-EN
+[2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/bad-language-black-EN.
+[2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/pegi18.
+[2023.07.10-19.43.15:237][925]AssetReimport: Importing new asset /Game/Assets/PEGI/violence-black-EN.
