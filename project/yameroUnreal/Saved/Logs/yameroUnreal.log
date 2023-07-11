@@ -853,3 +853,83 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.11-21.38.45:745][929]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1
 [2023.07.11-21.38.45:745][929]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII_Auto15B3CBAA347CD22DA495DE9B8BE66473B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1.uasset'
 [2023.07.11-21.38.45:746][929]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.07.11-21.49.06:951][885]AssetReimport: New page: Outstanding source content changes 11:49:06 PM
+[2023.07.11-21.49.07:003][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.png)
+[2023.07.11-21.49.07:071][887]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.avenue_dayIII_treadmill_2nd_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.07:092][887]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.png)
+[2023.07.11-21.49.07:157][887]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.avenue_dayIII_treadmill_1st_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.07:230][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.png)
+[2023.07.11-21.49.08:108][888]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.avenue_dayIII_treadmill_2nd (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.08:213][889]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st.png)
+[2023.07.11-21.49.09:200][890]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.avenue_dayIII_treadmill_1st (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.09:241][890]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.png)
+[2023.07.11-21.49.09:307][891]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.avenue_dayIII_zoon_in_flower_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.09:405][891]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.png)
+[2023.07.11-21.49.10:404][891]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.avenue_dayIII_zoon_in_flower (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.10:814][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint
+[2023.07.11-21.49.10:814][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_2nd_pain9345CF3F4A3AAEF8FC827BB1D5CDE90B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.uasset'
+[2023.07.11-21.49.10:998][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint
+[2023.07.11-21.49.10:998][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_1st_painD9EA2CA444F5E41D5F3EB290EFFF52FA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.uasset'
+[2023.07.11-21.49.13:785][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd
+[2023.07.11-21.49.13:785][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_2ndFF3DBFE146CD74DA02979CA01D95AE2B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.uasset'
+[2023.07.11-21.49.16:498][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st
+[2023.07.11-21.49.16:498][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_1stA6D373004D5DF7297E85BD825AF935E1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st.uasset'
+[2023.07.11-21.49.16:696][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint
+[2023.07.11-21.49.16:696][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_flower_paiADE0010F4082FAFFFF012D9186D148C4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.uasset'
+[2023.07.11-21.49.19:382][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower
+[2023.07.11-21.49.19:382][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_flower8CCDD13E486C760BB00F32A875E79247.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.uasset'
+[2023.07.11-21.49.19:426][893]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.avenue_dayIII_zoon_in_flower
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.avenue_dayIII_zoon_in_flower_paint
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.avenue_dayIII_treadmill_1st
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.avenue_dayIII_treadmill_2nd
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.avenue_dayIII_treadmill_1st_paint
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.avenue_dayIII_treadmill_2nd_paint
+[2023.07.11-21.49.22:389][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.
+[2023.07.11-21.49.54:888][957]ImportText (/Game/Structs/S_DialogueInfo.S_DialogueInfo): Missing opening parenthesis: avenue_dayIII_tread
+[2023.07.11-21.51.43:581][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.07.11-21.51.43:584][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.029
+[2023.07.11-21.51.43:585][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayIII] ([1] browsable assets)...
+[2023.07.11-21.51.43:585][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayIII]
+[2023.07.11-21.51.43:608][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto2
+[2023.07.11-21.51.43:609][933]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII_Auto2B62188254C70BAE0FA75618086A065BF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto2.uasset'
+[2023.07.11-21.51.43:612][933]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.07.11-21.52.57:019][212]AssetReimport: New page: Outstanding source content changes 11:52:57 PM
+[2023.07.11-21.52.57:055][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.png)
+[2023.07.11-21.52.57:111][214]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.avenue_dayIII_zoon_in_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.52.57:171][214]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in.png)
+[2023.07.11-21.52.57:790][214]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.avenue_dayIII_zoon_in (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.52.58:118][215]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint
+[2023.07.11-21.52.58:118][215]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_paint8F10AEC5427593782AE258B88759DD1D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.uasset'
+[2023.07.11-21.53.01:305][215]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in
+[2023.07.11-21.53.01:305][215]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in595A340142D564E8E20CC48AF370D900.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in.uasset'
+[2023.07.11-21.53.01:334][216]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.53.01:334][216]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.avenue_dayIII_zoon_in
+[2023.07.11-21.53.01:334][216]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.avenue_dayIII_zoon_in_paint
+[2023.07.11-21.53.04:323][395]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.
+[2023.07.11-21.53.04:323][395]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.
+[2023.07.11-21.54.38:861][998]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.54.38:862][998]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII3633F25D464D7354BB4CBBB4CD74EC47.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.54.38:874][998]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.54.38:874][998]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:448][468]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:448][468]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII742963B74BB034F9839C88B600D01418.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.22:466][468]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:466][468]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:052][970]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:053][970]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIIFC6CD7CD45D7D2C7669A6698928D77E5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:064][970]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:064][970]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:198][976]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:198][976]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIIDD6073C640FDD175937F3393AF653B66.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:209][976]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:209][976]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:346][982]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:347][982]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII1310120F41B1FBE2E4C1A4B4D7F9E1DE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:356][982]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:356][982]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
