@@ -933,3 +933,12 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.11-21.57.31:347][982]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII1310120F41B1FBE2E4C1A4B4D7F9E1DE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
 [2023.07.11-21.57.31:356][982]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
 [2023.07.11-21.57.31:356][982]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.58.10:579][465]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:383][ 58]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:383][ 58]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI55B80330482D01A2FB1932B52E32929F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.00.52:402][ 58]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:402][ 58]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:001][869]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:001][869]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIF3A2D893414CC27924B5E4931EFE1AE0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.02.03:014][869]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:014][869]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
