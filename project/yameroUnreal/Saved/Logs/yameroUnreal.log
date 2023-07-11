@@ -942,3 +942,14 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.11-22.02.03:001][869]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIF3A2D893414CC27924B5E4931EFE1AE0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
 [2023.07.11-22.02.03:014][869]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
 [2023.07.11-22.02.03:014][869]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.04.44:367][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.11-22.04.44:368][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.017
+[2023.07.11-22.04.44:369][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayVI] ([1] browsable assets)...
+[2023.07.11-22.04.44:369][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayVI]
+[2023.07.11-22.04.44:374][808]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayVI_Auto3
+[2023.07.11-22.04.44:374][808]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI_Auto34E8FA1B34D702E251AE78B9626AE8FF9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayVI_Auto3.uasset'
+[2023.07.11-22.04.44:375][808]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.07.11-22.06.48:773][197]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.06.48:774][197]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIC10E1654474A08D81FEF58AD5FAE4EBC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.06.48:786][197]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.06.48:786][197]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
