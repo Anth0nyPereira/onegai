@@ -2235,3 +2235,12 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.11-18.10.42:429][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2023.07.11-18.10.42:477][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
 [2023.07.11-18.10.42:516][501]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.07.11-18.11.07:466][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-18.11.07:466][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-18.11.17:429][458]BlueprintLog: New page: Compile HUD_Warning
+[2023.07.11-18.11.17:536][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.07.11-18.11.18:097][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Warning" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset" SILENT=true
+[2023.07.11-18.11.18:115][485]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Warning
+[2023.07.11-18.11.18:115][485]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_WarningE0AFB1834D049B00CC5C9AB6B94EFE00.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Warning.uasset'
+[2023.07.11-18.11.18:133][485]AssetCheck: New page: Asset Save: HUD_Warning
+[2023.07.11-18.11.18:133][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Warning.HUD_Warning
