@@ -845,3 +845,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.07.11-21.36.44:640][364]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIAA49172A43FE6DC82F2BEDAE674DC8A5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
 [2023.07.11-21.36.44:651][364]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
 [2023.07.11-21.36.44:651][364]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.37.10:435][841]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.38.45:724][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.11-21.38.45:731][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.054
+[2023.07.11-21.38.45:733][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayIII] ([1] browsable assets)...
+[2023.07.11-21.38.45:733][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayIII]
+[2023.07.11-21.38.45:745][929]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1
+[2023.07.11-21.38.45:745][929]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII_Auto15B3CBAA347CD22DA495DE9B8BE66473B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1.uasset'
+[2023.07.11-21.38.45:746][929]LogFileHelpers: Auto-saving content packages took 0.014
