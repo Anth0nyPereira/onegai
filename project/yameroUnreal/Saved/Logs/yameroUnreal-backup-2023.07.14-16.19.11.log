@@ -1,0 +1,1138 @@
+﻿Log file open, 07/11/23 22:24:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=60472)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: yameroUnreal
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/yameroUnreal.uproject" -EpicPortal -epicusername=M0dernCaty0ga -epicuserid=0dac73a8f1474077924233aabd4cda08 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1848] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9d8fb9f54a6e956c60ca299617ab423b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.299580
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-E4C1FA8148B5C7BBD46C14A329D5C5B8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin RigLogic
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin OpenColorIO
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MovieRenderPipeline
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/RigLogic/Content/' mounted to '/RigLogic/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Compositing/OpenColorIO/Content/' mounted to '/OpenColorIO/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/MovieRenderPipeline/Content/' mounted to '/MovieRenderPipeline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1848] (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=M0dernCaty0ga -epicuserid=0dac73a8f1474077924233aabd4cda08 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.07.11-21.24.08:280][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.07.11-21.24.08:283][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.07.11-21.24.08:283][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.07.11-21.24.08:284][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.07.11-21.24.08:296][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     DeviceId    : 2560
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     DedicatedVideoMemory : 6300893184 bytes
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     SharedSystemMemory : 7438628864 bytes
+[2023.07.11-21.24.08:340][  0]LogD3D11RHI:     AdapterLuid : 0 64405
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_1)
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:       6009/0/7094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:     DeviceId    : 1638
+[2023.07.11-21.24.08:468][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2023.07.11-21.24.08:469][  0]LogD3D11RHI:     Revision    : 00c5
+[2023.07.11-21.24.08:469][  0]LogD3D11RHI:     DedicatedVideoMemory : 2130849792 bytes
+[2023.07.11-21.24.08:469][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.11-21.24.08:469][  0]LogD3D11RHI:     SharedSystemMemory : 7438628864 bytes
+[2023.07.11-21.24.08:469][  0]LogD3D11RHI:     AdapterLuid : 0 58508
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_1)
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:       2032/0/7094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     VendorId    : 1414
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     DeviceId    : 008c
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     SubSysId    : 0000
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     Revision    : 0000
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     SharedSystemMemory : 7438628864 bytes
+[2023.07.11-21.24.08:515][  0]LogD3D11RHI:     AdapterLuid : 0 64293
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:       0/0/7094 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     DeviceId    : 2560
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     DedicatedVideoMemory : 6300893184 bytes
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     SharedSystemMemory : 7438628864 bytes
+[2023.07.11-21.24.08:517][  0]LogD3D11RHI:     AdapterLuid : 0 64405
+[2023.07.11-21.24.08:517][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.11-21.24.08:517][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.07.11-21.24.08:517][  0]LogHAL: Display: Platform has ~ 14 GB [14877257728 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.11-21.24.08:517][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.07.11-21.24.08:517][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.07.11-21.24.08:517][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.11-21.24.08:518][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.07.11-21.24.08:518][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Config/WindowsEditor/Editor.ini]
+[2023.07.11-21.24.08:518][  0]LogInit: Computer: ANTH0NYPEREIRA
+[2023.07.11-21.24.08:518][  0]LogInit: User: anth0
+[2023.07.11-21.24.08:518][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.07.11-21.24.08:518][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.11-21.24.08:518][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2023.07.11-21.24.08:518][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.07.11-21.24.08:518][  0]LogMemory: Process Physical Memory: 273.49 MB used, 282.51 MB peak
+[2023.07.11-21.24.08:518][  0]LogMemory: Process Virtual Memory: 242.17 MB used, 242.17 MB peak
+[2023.07.11-21.24.08:518][  0]LogMemory: Physical Memory: 12641.37 MB used,  1546.69 MB free, 14188.06 MB total
+[2023.07.11-21.24.08:518][  0]LogMemory: Virtual Memory: 30428.55 MB used,  11316.16 MB free, 41744.71 MB total
+[2023.07.11-21.24.08:518][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.07.11-21.24.08:565][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.11-21.24.08:576][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.07.11-21.24.08:577][  0]LogInit: Using OS detected language (en-US).
+[2023.07.11-21.24.08:577][  0]LogInit: Using OS detected locale (en-US).
+[2023.07.11-21.24.08:580][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.07.11-21.24.08:708][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.11-21.24.08:726][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.07.11-21.24.08:726][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.07.11-21.24.08:726][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2023.07.11-21.24.08:726][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2023.07.11-21.24.08:727][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2023.07.11-21.24.08:727][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.07.11-21.24.08:744][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.11-21.24.08:744][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.11-21.24.08:866][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.11-21.24.08:866][  0]LogD3D11RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.11-21.24.08:866][  0]LogWindows: Attached monitors:
+[2023.07.11-21.24.08:866][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.07.11-21.24.08:866][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -48), device: '\\.\DISPLAY3'
+[2023.07.11-21.24.08:866][  0]LogWindows:     resolution: 1920x1080, work area: (1920, -1085) -> (3840, -53), device: '\\.\DISPLAY4'
+[2023.07.11-21.24.08:866][  0]LogWindows: Found 3 attached monitors.
+[2023.07.11-21.24.08:866][  0]LogWindows: EnumDisplayDevices:
+[2023.07.11-21.24.08:866][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.07.11-21.24.08:868][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.07.11-21.24.08:868][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1), name: '\\.\DISPLAY3'
+[2023.07.11-21.24.08:868][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1), name: '\\.\DISPLAY4'
+[2023.07.11-21.24.08:868][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.07.11-21.24.08:868][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.07.11-21.24.08:868][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:   Driver Version: 531.18 (internal:31.0.15.3118, unified:531.18)
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:      Driver Date: 2-24-2023
+[2023.07.11-21.24.08:869][  0]LogRHI: Texture pool is 4206 MB (70% of 6009 MB)
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     DeviceId    : 2560
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     DedicatedVideoMemory : 6300893184 bytes
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     SharedSystemMemory : 7438628864 bytes
+[2023.07.11-21.24.08:869][  0]LogD3D11RHI:     AdapterLuid : 0 64405
+[2023.07.11-21.24.08:940][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.07.11-21.24.08:940][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.11-21.24.08:940][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2023.07.11-21.24.08:940][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.07.11-21.24.08:982][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.07.11-21.24.09:001][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.07.11-21.24.09:006][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/yameroUnreal.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/TurnkeyReport_0.log" -log="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/TurnkeyLog_0.log" -project="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/yameroUnreal.uproject"  -platform=all'
+[2023.07.11-21.24.09:006][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/yameroUnreal.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/TurnkeyReport_0.log" -log="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/TurnkeyLog_0.log" -project="C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/yameroUnreal.uproject"  -platform=all" ]
+[2023.07.11-21.24.09:027][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.07.11-21.24.09:035][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.07.11-21.24.09:035][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.11-21.24.09:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.11-21.24.09:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.07.11-21.24.09:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.07.11-21.24.09:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.11-21.24.09:087][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.11-21.24.09:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.11-21.24.09:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.07.11-21.24.09:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.11-21.24.09:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.11-21.24.09:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.07.11-21.24.09:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.07.11-21.24.09:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.07.11-21.24.09:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.11-21.24.09:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.11-21.24.09:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.11-21.24.09:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.07.11-21.24.09:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.11-21.24.09:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.11-21.24.09:102][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.07.11-21.24.09:109][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.11-21.24.09:113][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.07.11-21.24.09:113][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.07.11-21.24.09:113][  0]LogTargetPlatformManager:   ADPCM
+[2023.07.11-21.24.09:113][  0]LogTargetPlatformManager:   PCM
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager:   BINKA
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager:   OGG
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.07.11-21.24.09:115][  0]LogTargetPlatformManager:   OPUS
+[2023.07.11-21.24.09:154][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.07.11-21.24.09:159][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.07.11-21.24.09:162][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.07.11-21.24.09:162][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.11-21.24.09:162][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.07.11-21.24.09:168][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.11-21.24.09:169][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.07.11-21.24.09:170][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.07.11-21.24.09:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.11-21.24.09:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.07.11-21.24.09:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.11-21.24.09:173][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.07.11-21.24.09:190][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.07.11-21.24.09:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.11-21.24.09:190][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.07.11-21.24.09:195][  0]LogDerivedDataCache: Speed tests for C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.07.11-21.24.09:195][  0]LogDerivedDataCache: Display: Performance to C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1468.24MBs, RandomWriteSpeed=190.62MBs. Assigned SpeedClass 'Local'
+[2023.07.11-21.24.09:197][  0]LogDerivedDataCache: Using Local data cache path C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.11-21.24.09:198][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.11-21.24.09:198][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.07.11-21.24.09:205][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.07.11-21.24.09:205][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.07.11-21.24.09:205][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Intermediate/Shaders/WorkingDirectory/25272/).
+[2023.07.11-21.24.09:205][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/anth0/AppData/Local/Temp/UnrealShaderWorkingDir/456BD8964F81842E8974558457422014/'.
+[2023.07.11-21.24.09:205][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.11-21.24.09:205][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.07.11-21.24.10:856][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.07.11-21.24.10:856][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.11-21.24.10:856][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.11-21.24.10:886][  0]LogAssetRegistry: FAssetRegistry took 0.0108 seconds to start up
+[2023.07.11-21.24.10:891][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.07.11-21.24.11:143][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.07.11-21.24.11:144][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.07.11-21.24.11:487][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.07.11-21.24.11:487][  0]LogDeviceProfileManager: Active device profile: [00000ADCB1E12680][00000ADCA7EF2800 50] WindowsEditor
+[2023.07.11-21.24.11:487][  0]LogDeviceProfileManager: Profiles: [00000ADCB1E12140][00000ADCA7EF5000 50] Windows, [00000ADCB1E12680][00000ADCA7EF2800 50] WindowsEditor, [00000ADCB1E11F80][00000ADCA7EF7800 50] WindowsServer, [00000ADCB1E11DC0][00000ADCA7DFA000 50] WindowsClient, [00000ADCB1E11C00][00000ADCAC6BC800 50] IOS, [00000ADCB1E13100][00000ADCA7EFA000 50] iPadAir2, [00000ADCB1E14EC0][00000ADCB1E20000 50] IPadPro, [00000ADCB1E15240][00000ADCB1E22800 50] iPadAir3, [00000ADCB1E14440][00000ADCB1E27800 50] iPadAir4, [00000ADCB1E12D80][00000ADCB1E2A000 50] iPadMini4, [00000ADCB1E124C0][00000ADCB1E2C800 50] iPadMini5, [00000ADCB1E15400][00000ADC9AA3A000 50] iPadMini6, [00000ADCB1E17C40][00000ADCB1DF2800 50] iPhone6S, [00000ADCB1E17FC0][00000ADCB1DF0000 50] iPhone7, [00000ADCB1E18340][00000ADCB1DF5000 50] iPodTouch7, [00000ADCB1E12F40][00000ADCB1DFA000 50] iPhone6SPlus, [00000ADCB1E13480][00000ADCB1DFC800 50] iPhone7Plus, [00000ADCB1E11880][00000ADCB1E25000 50] iPhoneSE, [00000ADCB1E14980][00000ADCB1DF7800 50] iPhone8, [00000ADCB1E13640][00000ADCB1D90000 50] iPhone8Plus, [00000ADCB1E10A80][00000ADCB1D95000 50] iPhoneX, [00000ADCB1E13F00][00000ADCB1D97800 50] iPhoneXS, [00000ADCB1E17700][00000ADCB1D9A000 50] iPhoneXSMax, [00000ADCB1E12BC0][00000ADCB1D9C800 50] iPhoneXR, [00000ADCB1E13B80][00000ADCA6785000 50] iPhone11, [00000ADCB1E16200][00000ADCB1E50000 50] iPhone11Pro, [00000ADCB1E18C00][00000ADCB1E55000 50] iPhone11ProMax, [00000ADCB1E16040][00000ADCB1E57800 50] iPhoneSE2, [00000ADCB1E18A40][00000ADCB1E5A000 50] iPhone12Mini, [00000ADCB1E13800][00000ADCB1E5C800 50] iPhone12, [00000ADCB1E10FC0][00000ADCB1D92800 50] iPhone12Pro, [00000ADCB1E10700][00000ADCB1E60000 50] iPhone12ProMax, [00000ADCB1E15780][00000ADCB1E65000 50] iPhone13Mini, [00000ADCB1E17380][00000ADCB1E67800 50] iPhone13, [00000ADCB1E15B00][00000ADCB1E6A000 50] iPhone13Pro, [00000ADCB1E15080][00000ADCB1E6C800 50] iPhone13ProMax, [00000ADCB1E10000][00000ADCB1E52800 50] iPadPro105, [00000ADCB1E15E80][00000ADCB1E70000 50] iPadPro129, [00000ADCB1E12A00][00000ADCB1E75000 50] iPadPro97, [00000ADCB1E16900][00000ADCB1E77800 50] iPadPro2_129, [00000ADCB1E147C0][00000ADCB1E7A000 50] iPad5, [00000ADCB1E15940][00000ADCB1E7C800 50] iPad6, [00000ADCB1E16580][00000ADCB1E62800 50] iPad7, [00000ADCB1E101C0][00000ADCB1E80000 50] iPad8, [00000ADCB1E17000][00000ADCB1E85000 50] iPad9, [00000ADCB1E11180][00000ADCB1E87800 50] iPadPro11, [00000ADCB1E16AC0][00000ADCB1E8A000 50] iPadPro2_11, [00000ADCB1E108C0][00000ADCB1E8C800 50] iPadPro3_11, [00000ADCB1E17A80][00000ADCB1E72800 50] iPadPro3_129, [00000ADCB1E14B40][00000ADCB1E90000 50] iPadPro4_129, [00000ADCB1E11A40][00000ADCB1E95000 50] iPadPro5_129, [00000ADCB1E171C0][00000ADCB1E97800 50] AppleTV, [00000ADCB1E18180][00000ADCB1E9A000 50] AppleTV4K, [00000ADCB1E10540][00000ADCB1E9C800 50] TVOS, [00000ADCB1E1A2C0][00000ADCB1EB0000 50] Mac, [00000ADCB1E1A640][00000ADCB1EB2800 50] MacEditor, [00000ADCB1E17540][00000ADCB1EB7800 50] MacClient, [00000ADCB1E1A800][00000ADCB1EBA000 50] MacServer, [00000ADCB1E116C0][00000ADCB1E82800 50] Linux, [00000ADCB1E1A100][00000ADCB1E92800 50] LinuxEditor, [00000ADCB1E140C0][00000ADCB1EBC800 50] LinuxArm64Editor, [00000ADCB1E19680][00000ADCB1DC0000 50] LinuxArm64, [00000ADCB1E16C80][00000ADCB1DC5000 50] LinuxClient, [00000ADCB1E14600][00000ADCB1DC7800 50] LinuxArm64Client, [00000ADCB1E17E00][00000ADCB1DCA000 50] LinuxServer, [00000ADCB1E1A480][00000ADCB1DCC800 50] LinuxArm64Server, [00000ADCB1E13D40][00000ADCB1EB5000 50] Android, [00000ADCB1E19840][00000ADCB1EC0000 50] Android_Preview_OpenGL, [00000ADCB1E16740][00000ADCB1EC5000 50] Android_Preview_Vulkan, [00000ADCB1E12840][00000ADCB1EC7800 50] Android_Low, [00000ADCB1E11340][00000ADCB1ECA000 50] Android_Mid, [00000ADCB1E163C0][00000ADCB1ECC800 50] Android_High, [00000ADCB1E10C40][00000ADCB1DC2800 50] Android_Default, [00000ADCB1E18500][00000ADCB1ED0000 50] Android_Adreno4xx, [00000ADCB1E19D80][00000ADCB1ED5000 50] Android_Adreno5xx_Low, [00000ADCB1E19300][00000ADCB1ED7800 50] Android_Adreno5xx, [00000ADCB1E15CC0][00000ADCB1EDA000 50] Android_Adreno6xx, [00000ADCB1E18F80][00000ADCB1EDC800 50] Android_Adreno6xx_Vulkan, [00000ADCB1E18DC0][00000ADCB1EC2800 50] Android_Adreno7xx, [00000ADCB1E186C0][00000ADCB1EE0000 50] Android_Adreno7xx_Vulkan, [00000ADCB1E10E00][00000ADCB1EE5000 50] Android_Mali_T6xx, [00000ADCB1E14280][00000ADCB1EE7800 50] Android_Mali_T7xx, [00000ADCB1E155C0][00000ADCB1EEA000 50] Android_Mali_T8xx, [00000ADCB1E10380][00000ADCB1EEC800 50] Android_Mali_G71, [00000ADCB1E16E40][00000ADCB1ED2800 50] Android_Mali_G72, [00000ADCB1E1B280][00000ADCB1EF0000 50] Android_Mali_G72_Vulkan, [00000ADCB1E19A00][00000ADCB1EF5000 50] Android_Mali_G76, [00000ADCB1E19BC0][00000ADCB1EF7800 50] Android_Mali_G76_Vulkan, [00000ADCB1E132C0][00000ADCB1EFA000 50] Android_Mali_G77, [00000ADCB1E1AD40][00000ADCB1EFC800 50] Android_Mali_G77_Vulkan, [00000ADCB1E1B980][00000ADCB1EE2800 50] Android_Mali_G78, [00000ADCB1E18880][00000ADCB1F00000 50] Android_Mali_G78_Vulkan, [00000ADCB1E11500][00000ADCB1F05000 50] Android_Mali_G710, [00000ADCB1E1B7C0][00000ADCB1F07800 50] Android_Mali_G710_Vulkan, [00000ADCB1E1C240][00000ADCB1F0A000 50] Android_Xclipse_920, [00000ADCB1E19F40][00000ADCB1F0C800 50] Android_Xclipse_920_Vulkan, [00000ADCB1E14D00][00000ADCB1EF2800 50] Android_Vulkan_SM5, [00000ADCB1E1CE80][00000ADCB1F10000 50] Android_PowerVR_G6xxx, [00000ADCB1E1C780][00000ADCB1F15000 50] Android_PowerVR_GT7xxx, [00000ADCB1E1D040][00000ADCB1F17800 50] Android_PowerVR_GE8xxx, [00000ADCB1E1C5C0][00000ADCB1F1A000 50] Android_PowerVR_GM9xxx, [00000ADCB1E1B600][00000ADCB1F1C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000ADCB1E194C0][00000ADCB1F02800 50] Android_TegraK1, [00000ADCB1E1D200][00000ADCB1F20000 50] Android_Unknown_Vulkan, [00000ADCB1E19140][00000ADCB1F25000 50] Oculus_Quest, [00000ADCB1E1D740][00000ADCB1F27800 50] Oculus_Quest2, [00000ADCB1E1DAC0][00000ADCB1F2A000 50] HoloLens, 
+[2023.07.11-21.24.11:487][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.07.11-21.24.11:504][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.07.11-21.24.11:746][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.07.11-21.24.11:746][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.07.11-21.24.11:746][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.07.11-21.24.11:746][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.07.11-21.24.11:746][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22000.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.07.11-21.24.11:831][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.11-21.24.11:831][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.11-21.24.11:831][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.11-21.24.11:831][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.11-21.24.11:831][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.11-21.24.11:855][  0]LogNetVersion: yameroUnreal 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1147533835)
+[2023.07.11-21.24.12:110][  0]LogSlate: Border
+[2023.07.11-21.24.12:110][  0]LogSlate: BreadcrumbButton
+[2023.07.11-21.24.12:110][  0]LogSlate: Default
+[2023.07.11-21.24.12:110][  0]LogSlate: Icons.Save
+[2023.07.11-21.24.12:110][  0]LogSlate: Icons.Toolbar.Settings
+[2023.07.11-21.24.12:110][  0]LogSlate: ListView
+[2023.07.11-21.24.12:110][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.07.11-21.24.12:110][  0]LogSlate: SoftwareCursor_Grab
+[2023.07.11-21.24.12:110][  0]LogSlate: TableView.DarkRow
+[2023.07.11-21.24.12:110][  0]LogSlate: TableView.Row
+[2023.07.11-21.24.12:110][  0]LogSlate: TreeView
+[2023.07.11-21.24.12:535][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.12:586][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.12:587][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.12:784][  0]LogUObjectArray: 20576 objects as part of root set at end of initial load.
+[2023.07.11-21.24.12:784][  0]LogUObjectAllocator: 5590104 out of 0 bytes used by permanent object pool.
+[2023.07.11-21.24.12:784][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.11-21.24.13:154][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.11-21.24.13:167][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.11-21.24.13:176][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9AD38FBC4129746B3DBF35B0D636C67F | Instance: 12BA412E46BEE2E882269BA396ED5D19 (ANTH0NYPEREIRA-25272).
+[2023.07.11-21.24.13:218][  0]LogPython: Using Python 3.9.7
+[2023.07.11-21.24.14:377][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.14:388][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.14:390][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.14:397][  0]LogUProjectInfo: Found projects:
+[2023.07.11-21.24.14:792][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.11-21.24.14:800][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.11-21.24.14:814][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.11-21.24.14:815][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.11-21.24.15:049][  0]LogCollectionManager: Loaded 0 collections in 0.001515 seconds
+[2023.07.11-21.24.15:080][  0]LogFileCache: Scanning file cache for directory 'C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Collections/' took 0.00s
+[2023.07.11-21.24.15:080][  0]LogFileCache: Scanning file cache for directory 'C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Developers/anth0/Collections/' took 0.00s
+[2023.07.11-21.24.15:080][  0]LogFileCache: Scanning file cache for directory 'C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Collections/' took 0.00s
+[2023.07.11-21.24.15:365][  0]LogEngine: Initializing Engine...
+[2023.07.11-21.24.15:373][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.07.11-21.24.15:396][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.07.11-21.24.15:779][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.11-21.24.15:779][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.07.11-21.24.15:788][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-21.24.15:810][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.11-21.24.15:811][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.11-21.24.15:836][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.11-21.24.15:836][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.11-21.24.15:836][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.07.11-21.24.15:836][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.11-21.24.15:836][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.11-21.24.15:836][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.11-21.24.15:837][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.11-21.24.15:837][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.11-21.24.15:837][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.11-21.24.15:837][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.11-21.24.15:837][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.11-21.24.15:843][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.11-21.24.16:025][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.11-21.24.16:025][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.11-21.24.16:028][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.11-21.24.16:028][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.11-21.24.16:028][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.07.11-21.24.16:028][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.11-21.24.16:029][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.11-21.24.16:029][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.07.11-21.24.16:029][  0]LogInit: FAudioDevice initialized.
+[2023.07.11-21.24.16:030][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.11-21.24.16:030][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.11-21.24.16:030][  0]LogInit: Texture streaming: Enabled
+[2023.07.11-21.24.16:049][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.07.11-21.24.16:054][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.11-21.24.16:071][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.07.11-21.24.16:076][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.07.11-21.24.16:076][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.07.11-21.24.17:930][  0]LogLiveCoding: Display: First instance in process group "UE_yameroUnreal_0xd17f1e80", spawning console
+[2023.07.11-21.24.17:930][  0]LogLiveCoding: Display: Waiting for server
+[2023.07.11-21.24.17:930][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.07.11-21.24.17:950][  0]LogInit: Transaction tracking system initialized
+[2023.07.11-21.24.17:994][  0]BlueprintLog: New page: Editor Load
+[2023.07.11-21.24.18:093][  0]LocalizationService: Localization service is disabled
+[2023.07.11-21.24.18:117][  0]TimingProfiler: Initialize
+[2023.07.11-21.24.18:118][  0]TimingProfiler: OnSessionChanged
+[2023.07.11-21.24.18:118][  0]LoadingProfiler: Initialize
+[2023.07.11-21.24.18:118][  0]LoadingProfiler: OnSessionChanged
+[2023.07.11-21.24.18:118][  0]NetworkingProfiler: Initialize
+[2023.07.11-21.24.18:118][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.11-21.24.18:118][  0]MemoryProfiler: Initialize
+[2023.07.11-21.24.18:118][  0]MemoryProfiler: OnSessionChanged
+[2023.07.11-21.24.18:605][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.07.11-21.24.18:711][  0]LogFileCache: Scanning file cache for directory 'C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/' took 0.18s
+[2023.07.11-21.24.18:711][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.11-21.24.18:712][  0]SourceControl: Source control is disabled
+[2023.07.11-21.24.18:712][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.573
+[2023.07.11-21.24.18:713][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.11-21.24.18:713][  0]LightingResults: New page: Lighting Build
+[2023.07.11-21.24.18:718][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-21.24.18:718][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-21.24.18:718][  0]MapCheck: New page: Map Check
+[2023.07.11-21.24.18:718][  0]LightingResults: New page: Lighting Build
+[2023.07.11-21.24.18:723][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.11-21.24.18:727][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.11-21.24.18:776][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.07.11-21.24.18:779][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-21.24.18:779][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.07.11-21.24.18:780][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.07.11-21.24.18:780][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.07.11-21.24.19:015][  0]LogWorldPartition: Display: WorldPartition initialize took 235 ms
+[2023.07.11-21.24.19:188][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.11-21.24.19:194][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.11-21.24.19:194][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.11-21.24.19:204][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.097ms to complete.
+[2023.07.11-21.24.19:204][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.491
+[2023.07.11-21.24.19:213][  0]LogUnrealEdMisc: Total Editor Startup Time, took 12.072
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: ================================================
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 716.80 MB (0.70 GB) budget. Usage: 0.00%
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.11-21.24.19:213][  0]LogShaderCompilers: Display: ================================================
+[2023.07.11-21.24.19:382][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-21.24.19:388][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-21.24.19:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-21.24.19:398][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-21.24.19:448][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:448][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:460][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:460][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:467][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:467][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:474][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:474][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:485][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:485][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:493][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:493][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:499][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:499][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:505][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:505][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:511][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:511][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:516][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.07.11-21.24.19:516][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.07.11-21.24.19:516][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.07.11-21.24.20:072][  0]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.11-21.24.20:076][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.11-21.24.20:092][  0]LogSlate: Took 0.006770 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.11-21.24.20:099][  0]LogSlate: Took 0.004258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.11-21.24.20:101][  0]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.11-21.24.20:131][  0]LogViewport: Scene viewport resized to 1027x281, mode Windowed.
+[2023.07.11-21.24.20:195][  0]LogSlate: Took 0.000837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.11-21.24.20:380][  0]LogStall: Startup...
+[2023.07.11-21.24.20:384][  0]LogStall: Startup complete.
+[2023.07.11-21.24.20:394][  0]LogLoad: (Engine Initialization) Total time: 13.25 seconds
+[2023.07.11-21.24.20:394][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.11-21.24.20:565][  0]LogAssetRegistry: Asset discovery search completed in 9.6813 seconds
+[2023.07.11-21.24.20:569][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.07.11-21.24.20:715][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.11-21.24.25:851][271]LogFileCache: Retrieving MD5 hashes for directory 'C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/' took 5.29s
+[2023.07.11-21.24.26:339][299]AssetReimport: New page: Outstanding source content changes 11:24:26 PM
+[2023.07.11-21.24.26:352][299]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.11-21.24.26:441][300]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_1st.png)
+[2023.07.11-21.24.27:331][300]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st.avenue_dayII_treadmill_1st (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.24.27:427][301]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.png)
+[2023.07.11-21.24.27:493][301]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.avenue_dayII_treadmill_1st_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.24.27:611][302]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_2nd.png)
+[2023.07.11-21.24.28:556][303]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd.avenue_dayII_treadmill_2nd (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.24.28:598][303]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint.png)
+[2023.07.11-21.24.28:680][304]LogEditorFactories: Performing atomic reimport of [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd.png]
+[2023.07.11-21.24.28:779][304]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd.png)
+[2023.07.11-21.24.29:758][304]LogEditorFactories: -- imported successfully
+[2023.07.11-21.24.29:903][305]LogEditorFactories: Performing atomic reimport of [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd_paint.png]
+[2023.07.11-21.24.29:919][305]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd_paint.png)
+[2023.07.11-21.24.30:007][305]LogEditorFactories: -- imported successfully
+[2023.07.11-21.24.30:077][306]LogEditorFactories: Performing atomic reimport of [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd.png]
+[2023.07.11-21.24.30:163][306]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd.png)
+[2023.07.11-21.24.31:081][306]LogEditorFactories: -- imported successfully
+[2023.07.11-21.24.31:291][307]LogEditorFactories: Performing atomic reimport of [C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd_paint.png]
+[2023.07.11-21.24.31:305][307]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd_paint.png)
+[2023.07.11-21.24.31:339][307]LogEditorFactories: -- imported successfully
+[2023.07.11-21.24.31:510][308]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.005161 seconds
+[2023.07.11-21.24.32:269][308]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayII_3rd_paint.avenue_dayII_3rd_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.24.34:328][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st
+[2023.07.11-21.24.34:330][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_1st9658C32F492A81C1DC2E06BEE01C61F1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_1st.uasset'
+[2023.07.11-21.24.34:500][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint
+[2023.07.11-21.24.34:500][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_1st_paintE9C4D6304B53C4D769A6DFAF0C107A20.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.uasset'
+[2023.07.11-21.24.37:149][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd
+[2023.07.11-21.24.37:149][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_2ndE67C7F2641E6D1D049B89D8D2252C254.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_2nd.uasset'
+[2023.07.11-21.24.37:320][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint
+[2023.07.11-21.24.37:320][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_2nd_paint93D4A2E045C2D606021197B21B12568F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint.uasset'
+[2023.07.11-21.24.39:950][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_2nd
+[2023.07.11-21.24.39:950][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_2nd9BE77E67460593C0BAF492A6D54CB2DE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd.uasset'
+[2023.07.11-21.24.40:159][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_2nd_paint
+[2023.07.11-21.24.40:160][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_2nd_paint252BED374715EB1FF3C0E7A4B90E4F7A.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd_paint.uasset'
+[2023.07.11-21.24.42:836][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_3rd
+[2023.07.11-21.24.42:837][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_3rd1F00B9714733D55B8107FB8E9EA72AC4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd.uasset'
+[2023.07.11-21.24.43:045][308]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_3rd_paint
+[2023.07.11-21.24.43:046][308]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_3rd_paintDC52813F4AB6421D3578428EF447CEE6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd_paint.uasset'
+[2023.07.11-21.24.43:073][309]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st.avenue_dayII_treadmill_1st
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.avenue_dayII_treadmill_1st_paint
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd.avenue_dayII_treadmill_2nd
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint.avenue_dayII_treadmill_2nd_paint
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_2nd.avenue_dayII_2nd
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_2nd_paint.avenue_dayII_2nd_paint
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_3rd.avenue_dayII_3rd
+[2023.07.11-21.24.43:073][309]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_3rd_paint.avenue_dayII_3rd_paint
+[2023.07.11-21.24.46:064][484]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st.
+[2023.07.11-21.24.46:064][484]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.
+[2023.07.11-21.24.46:064][484]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd.
+[2023.07.11-21.24.46:064][484]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint.
+[2023.07.11-21.24.46:064][484]AssetReimport: Reimported asset avenue_dayII_2nd from C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd.png.
+[2023.07.11-21.24.46:064][484]AssetReimport: Reimported asset avenue_dayII_2nd_paint from C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd_paint.png.
+[2023.07.11-21.24.46:064][484]AssetReimport: Reimported asset avenue_dayII_3rd from C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd.png.
+[2023.07.11-21.24.46:064][484]AssetReimport: Reimported asset avenue_dayII_3rd_paint from C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd_paint.png.
+[2023.07.11-21.24.50:325][728]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.24.56:544][ 75]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.07.11-21.24.56:544][ 75]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIE5A00BB2419C822484B44EAFFA249A4B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.07.11-21.24.56:558][ 75]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.07.11-21.24.56:558][ 75]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.26.10:916][496]LogDerivedDataCache: C:/Users/anth0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.704 and deleted 0 file(s) with total size 0 MiB.
+[2023.07.11-21.28.24:821][463]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.07.11-21.28.24:821][463]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIC1DDE6014D385CC6354E5DAE48E64EDC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.07.11-21.28.24:833][463]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.07.11-21.28.24:833][463]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.32.11:600][726]LogWindows: Warning: OpenClipboard failed with error code 5
+[2023.07.11-21.33.55:913][815]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.07.11-21.33.55:913][815]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII6C19739F4542D12BC21CD388F06FABD7.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.07.11-21.33.55:924][815]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.07.11-21.33.55:924][815]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.33.56:276][834]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.07.11-21.33.56:276][834]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayII5FE674EB4345A6654A3868A8FEE1F332.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.07.11-21.33.56:287][834]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.07.11-21.33.56:287][834]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.36.24:646][463]AssetReimport: New page: Outstanding source content changes 11:36:24 PM
+[2023.07.11-21.36.24:693][464]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.png)
+[2023.07.11-21.36.24:774][465]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.avenue_dayII_treadmill_3rd_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.36.24:864][465]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_3rd.png)
+[2023.07.11-21.36.26:323][466]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint
+[2023.07.11-21.36.26:323][466]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_3rd_paint1BE4E2A04210553E5B37F68B846B6218.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.uasset'
+[2023.07.11-21.36.26:344][466]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd) ...
+[2023.07.11-21.36.29:147][466]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd
+[2023.07.11-21.36.29:147][466]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayII_treadmill_3rdA3148A8849EF5DBBD83FCC855ECCA5FE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_3rd.uasset'
+[2023.07.11-21.36.29:195][467]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.36.29:195][467]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.avenue_dayII_treadmill_3rd_paint
+[2023.07.11-21.36.29:195][467]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd.avenue_dayII_treadmill_3rd
+[2023.07.11-21.36.32:167][639]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.
+[2023.07.11-21.36.32:167][639]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd.
+[2023.07.11-21.36.44:639][364]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayII
+[2023.07.11-21.36.44:640][364]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIAA49172A43FE6DC82F2BEDAE674DC8A5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset'
+[2023.07.11-21.36.44:651][364]AssetCheck: New page: Asset Save: DT_DialogueInfoDayII
+[2023.07.11-21.36.44:651][364]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayII.DT_DialogueInfoDayII
+[2023.07.11-21.37.10:435][841]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.38.45:724][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.11-21.38.45:731][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.054
+[2023.07.11-21.38.45:733][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayIII] ([1] browsable assets)...
+[2023.07.11-21.38.45:733][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayIII]
+[2023.07.11-21.38.45:745][929]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1
+[2023.07.11-21.38.45:745][929]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII_Auto15B3CBAA347CD22DA495DE9B8BE66473B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto1.uasset'
+[2023.07.11-21.38.45:746][929]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.07.11-21.49.06:951][885]AssetReimport: New page: Outstanding source content changes 11:49:06 PM
+[2023.07.11-21.49.07:003][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.png)
+[2023.07.11-21.49.07:071][887]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.avenue_dayIII_treadmill_2nd_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.07:092][887]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.png)
+[2023.07.11-21.49.07:157][887]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.avenue_dayIII_treadmill_1st_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.07:230][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.png)
+[2023.07.11-21.49.08:108][888]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.avenue_dayIII_treadmill_2nd (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.08:213][889]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st.png)
+[2023.07.11-21.49.09:200][890]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.avenue_dayIII_treadmill_1st (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.09:241][890]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.png)
+[2023.07.11-21.49.09:307][891]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.avenue_dayIII_zoon_in_flower_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.09:405][891]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.png)
+[2023.07.11-21.49.10:404][891]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.avenue_dayIII_zoon_in_flower (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.49.10:814][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint
+[2023.07.11-21.49.10:814][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_2nd_pain9345CF3F4A3AAEF8FC827BB1D5CDE90B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.uasset'
+[2023.07.11-21.49.10:998][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint
+[2023.07.11-21.49.10:998][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_1st_painD9EA2CA444F5E41D5F3EB290EFFF52FA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.uasset'
+[2023.07.11-21.49.13:785][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd
+[2023.07.11-21.49.13:785][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_2ndFF3DBFE146CD74DA02979CA01D95AE2B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.uasset'
+[2023.07.11-21.49.16:498][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st
+[2023.07.11-21.49.16:498][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_treadmill_1stA6D373004D5DF7297E85BD825AF935E1.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st.uasset'
+[2023.07.11-21.49.16:696][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint
+[2023.07.11-21.49.16:696][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_flower_paiADE0010F4082FAFFFF012D9186D148C4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.uasset'
+[2023.07.11-21.49.19:382][892]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower
+[2023.07.11-21.49.19:382][892]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_flower8CCDD13E486C760BB00F32A875E79247.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.uasset'
+[2023.07.11-21.49.19:426][893]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.avenue_dayIII_zoon_in_flower
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.avenue_dayIII_zoon_in_flower_paint
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.avenue_dayIII_treadmill_1st
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.avenue_dayIII_treadmill_2nd
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.avenue_dayIII_treadmill_1st_paint
+[2023.07.11-21.49.19:426][893]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.avenue_dayIII_treadmill_2nd_paint
+[2023.07.11-21.49.22:389][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.
+[2023.07.11-21.49.22:390][ 68]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower.
+[2023.07.11-21.49.54:888][957]ImportText (/Game/Structs/S_DialogueInfo.S_DialogueInfo): Missing opening parenthesis: avenue_dayIII_tread
+[2023.07.11-21.51.43:581][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.07.11-21.51.43:584][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.029
+[2023.07.11-21.51.43:585][933]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayIII] ([1] browsable assets)...
+[2023.07.11-21.51.43:585][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayIII]
+[2023.07.11-21.51.43:608][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto2
+[2023.07.11-21.51.43:609][933]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII_Auto2B62188254C70BAE0FA75618086A065BF.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayIII_Auto2.uasset'
+[2023.07.11-21.51.43:612][933]LogFileHelpers: Auto-saving content packages took 0.027
+[2023.07.11-21.52.57:019][212]AssetReimport: New page: Outstanding source content changes 11:52:57 PM
+[2023.07.11-21.52.57:055][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.png)
+[2023.07.11-21.52.57:111][214]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.avenue_dayIII_zoon_in_paint (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2023.07.11-21.52.57:171][214]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in.png)
+[2023.07.11-21.52.57:790][214]LogTexture: Display: Building textures: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.avenue_dayIII_zoon_in (TFO_AutoDXT, 7680X4320 X1X1) (Required Memory Estimate: 632.8125 MB), EncodeSpeed: Fast
+[2023.07.11-21.52.58:118][215]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint
+[2023.07.11-21.52.58:118][215]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in_paint8F10AEC5427593782AE258B88759DD1D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.uasset'
+[2023.07.11-21.53.01:305][215]LogSavePackage: Moving output files for package: /Game/Assets/Backgrounds/avenue_dayIII_zoon_in
+[2023.07.11-21.53.01:305][215]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/avenue_dayIII_zoon_in595A340142D564E8E20CC48AF370D900.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in.uasset'
+[2023.07.11-21.53.01:334][216]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.11-21.53.01:334][216]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.avenue_dayIII_zoon_in
+[2023.07.11-21.53.01:334][216]LogContentValidation: Display: Validating Texture2D /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.avenue_dayIII_zoon_in_paint
+[2023.07.11-21.53.04:323][395]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.
+[2023.07.11-21.53.04:323][395]AssetReimport: Importing new asset /Game/Assets/Backgrounds/avenue_dayIII_zoon_in.
+[2023.07.11-21.54.38:861][998]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.54.38:862][998]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII3633F25D464D7354BB4CBBB4CD74EC47.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.54.38:874][998]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.54.38:874][998]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:448][468]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:448][468]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII742963B74BB034F9839C88B600D01418.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.22:466][468]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.22:466][468]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:052][970]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:053][970]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIIFC6CD7CD45D7D2C7669A6698928D77E5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:064][970]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:064][970]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:198][976]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:198][976]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIIIDD6073C640FDD175937F3393AF653B66.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:209][976]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:209][976]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:346][982]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:347][982]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIII1310120F41B1FBE2E4C1A4B4D7F9E1DE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset'
+[2023.07.11-21.57.31:356][982]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIII
+[2023.07.11-21.57.31:356][982]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIII.DT_DialogueInfoDayIII
+[2023.07.11-21.58.10:579][465]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:383][ 58]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:383][ 58]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI55B80330482D01A2FB1932B52E32929F.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.00.52:402][ 58]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.00.52:402][ 58]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:001][869]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:001][869]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIF3A2D893414CC27924B5E4931EFE1AE0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.02.03:014][869]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.02.03:014][869]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.04.44:367][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.11-22.04.44:368][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.017
+[2023.07.11-22.04.44:369][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DataTables/DT_DialogueInfoDayVI] ([1] browsable assets)...
+[2023.07.11-22.04.44:369][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/DataTables/DT_DialogueInfoDayVI]
+[2023.07.11-22.04.44:374][808]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DataTables/DT_DialogueInfoDayVI_Auto3
+[2023.07.11-22.04.44:374][808]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI_Auto34E8FA1B34D702E251AE78B9626AE8FF9.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/Autosaves/Game/DataTables/DT_DialogueInfoDayVI_Auto3.uasset'
+[2023.07.11-22.04.44:375][808]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.07.11-22.06.48:773][197]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.06.48:774][197]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIC10E1654474A08D81FEF58AD5FAE4EBC.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.06.48:786][197]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.06.48:786][197]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.08.58:761][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_IV\HUD_DialogueDayIV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:761][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_IV\HUD_DialogueDayIV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:811][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_V\HUD_DialogueDayV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:811][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_V\HUD_DialogueDayV.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:868][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:868][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:873][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:873][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:876][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:876][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:876][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:922][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VII\HUD_DialogueDayVII.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.08.58:922][336]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VII\HUD_DialogueDayVII.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.09.00:093][336]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.11-22.09.00:110][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.09.00:144][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.09.00:152][336]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.07.11-22.09.01:280][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.09.01:280][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.09.01:751][336]LogSlate: Took 0.001118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.11-22.09.01:758][336]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.07.11-22.11.52:128][461]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.11.52:128][461]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVI0213E02947778F55C80662819904E375.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.11.52:145][461]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.11.52:145][461]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.11.54:433][596]BlueprintLog: New page: Compile HUD_DialogueDayVI
+[2023.07.11-22.11.54:496][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:496][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:502][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:502][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:504][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:504][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:504][596]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VI\HUD_DialogueDayVI.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.11.54:682][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.07.11-22.11.55:851][649]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VI/HUD_DialogueDayVI
+[2023.07.11-22.11.55:852][649]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVICBDBF72C4D46C3EC2B748B9BDDF425F3.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset'
+[2023.07.11-22.11.55:874][649]AssetCheck: New page: Asset Save: HUD_DialogueDayVI
+[2023.07.11-22.11.55:874][649]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VI/HUD_DialogueDayVI.HUD_DialogueDayVI
+[2023.07.11-22.12.05:885][244]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.12.05:886][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.12.05:888][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.12.06:217][244]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.12.06:217][244]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.12.21:375][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.12.21:375][140]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.13.33:737][468]BlueprintLog: New page: Compile HUD_DisplayDay
+[2023.07.11-22.13.33:818][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.07.11-22.13.34:401][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.13.34:424][496]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.13.34:425][496]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDay3F60797249BE068EA2D405B544182D9C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.13.34:443][496]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.13.34:443][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.14.55:768][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.14.55:792][309]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.14.55:792][309]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDayDFE0E9CA469BA68B330E898E3DEF153B.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.14.55:809][309]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.14.55:809][309]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.14.55:880][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.14.55:903][312]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.14.55:904][312]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDayDCA3F20149FAE5A88D3EDFB493418A12.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.14.55:919][312]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.14.55:919][312]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.14.56:028][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.14.56:051][317]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.14.56:052][317]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDay41EDA88B41F110BD4D6651A0B35FBD88.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.14.56:066][317]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.14.56:066][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.14.56:104][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.14.56:128][318]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.14.56:128][318]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDayD96A01094829B9FD1CB7B4A9D0F724A4.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.14.56:144][318]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.14.56:145][318]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.14.58:537][458]BlueprintLog: New page: Compile HUD_DisplayDay
+[2023.07.11-22.14.58:615][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.07.11-22.14.59:245][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_DisplayDay" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset" SILENT=true
+[2023.07.11-22.14.59:269][489]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_DisplayDay
+[2023.07.11-22.14.59:269][489]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DisplayDay6669B2C54735852E566BB49221817B63.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset'
+[2023.07.11-22.14.59:285][489]AssetCheck: New page: Asset Save: HUD_DisplayDay
+[2023.07.11-22.14.59:285][489]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_DisplayDay.HUD_DisplayDay
+[2023.07.11-22.15.11:724][231]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII
+[2023.07.11-22.15.11:724][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.15.11:730][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.15.12:023][231]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.15.12:025][231]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.15.34:963][584]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayVI
+[2023.07.11-22.15.34:963][584]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayVIE8A861F04C54BDB2F0C6A08AF43C8CAA.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset'
+[2023.07.11-22.15.34:980][584]AssetCheck: New page: Asset Save: DT_DialogueInfoDayVI
+[2023.07.11-22.15.34:980][584]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayVI.DT_DialogueInfoDayVI
+[2023.07.11-22.15.43:662][101]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.11-22.15.50:705][515]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayIV
+[2023.07.11-22.15.50:705][515]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayIVCAD743BF4D6113606E909CAB4C83A716.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset'
+[2023.07.11-22.15.50:724][515]AssetCheck: New page: Asset Save: DT_DialogueInfoDayIV
+[2023.07.11-22.15.50:724][515]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayIV.DT_DialogueInfoDayIV
+[2023.07.11-22.15.52:382][614]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTables/DT_DialogueInfoDayV.DT_DialogueInfoDayV
+[2023.07.11-22.15.56:887][879]LogSavePackage: Moving output files for package: /Game/DataTables/DT_DialogueInfoDayV
+[2023.07.11-22.15.56:887][879]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/DT_DialogueInfoDayV79DE36CB438246F9861DC081AB020D2E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/DataTables/DT_DialogueInfoDayV.uasset'
+[2023.07.11-22.15.56:904][879]AssetCheck: New page: Asset Save: DT_DialogueInfoDayV
+[2023.07.11-22.15.56:904][879]LogContentValidation: Display: Validating DataTable /Game/DataTables/DT_DialogueInfoDayV.DT_DialogueInfoDayV
+[2023.07.11-22.16.22:613][391]BlueprintLog: New page: Compile HUD_DialogueDayVII
+[2023.07.11-22.16.22:660][391]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VII\HUD_DialogueDayVII.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.16.22:660][391]LogBlueprint: Warning: [AssetLog] C:\Uni Things\Mestrado\Repos\dissertacao\onegai\project\yameroUnreal\Content\BP\HUD\Day_VII\HUD_DialogueDayVII.uasset: [Compiler] The  Brush  is a Read Only property and can not be modified directly.
+[2023.07.11-22.16.22:772][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.07.11-22.16.23:420][408]LogSavePackage: Moving output files for package: /Game/BP/HUD/Day_VII/HUD_DialogueDayVII
+[2023.07.11-22.16.23:421][408]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_DialogueDayVII0E9BC61448A98EA67D3789B0B17C632E.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/Day_VII/HUD_DialogueDayVII.uasset'
+[2023.07.11-22.16.23:442][408]AssetCheck: New page: Asset Save: HUD_DialogueDayVII
+[2023.07.11-22.16.23:442][408]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/Day_VII/HUD_DialogueDayVII.HUD_DialogueDayVII
+[2023.07.11-22.16.31:637][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.16.31:644][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.18.06:016][337]BlueprintLog: New page: Compile BP_GameMode
+[2023.07.11-22.18.06:222][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.11-22.18.06:616][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.07.11-22.18.06:649][343]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.07.11-22.18.06:649][343]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BP_GameMode2D0BBBD147E166298B38B5823869CBB6.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.07.11-22.18.06:668][343]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.07.11-22.18.06:668][343]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.18.52:312][ 21]BlueprintLog: New page: Compile BP_GameMode
+[2023.07.11-22.18.52:521][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.07.11-22.18.53:133][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.07.11-22.18.53:165][ 41]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.07.11-22.18.53:166][ 41]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BP_GameMode036873844480CB0146317480CA44A28C.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.07.11-22.18.53:184][ 41]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.07.11-22.18.53:184][ 41]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.18.55:567][183]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.55:569][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.55:587][183]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.55:587][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.57:116][270]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.57:116][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.57:127][270]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.57:127][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.58:216][331]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.58:216][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.58:227][331]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.58:227][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.18.59:862][425]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-22.18.59:862][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-22.19.06:973][841]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.11-22.19.06:973][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.19.06:975][841]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.19.07:269][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.19.07:269][841]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.11-22.19.30:581][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.11-22.19.30:596][213]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.11-22.19.30:597][213]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_EpilogueCA757C4D458F1A03BB1C8D9F009B7890.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.11-22.19.30:613][213]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.11-22.19.30:613][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.11-22.19.30:691][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.11-22.19.30:700][216]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.11-22.19.30:700][216]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue145564F24B06B60ECC9FF091670B0BF5.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.11-22.19.30:716][216]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.11-22.19.30:716][216]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.11-22.19.49:061][308]BlueprintLog: New page: Compile HUD_Epilogue
+[2023.07.11-22.19.49:167][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.07.11-22.19.49:709][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/HUD/HUD_Epilogue" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset" SILENT=true
+[2023.07.11-22.19.49:718][336]LogSavePackage: Moving output files for package: /Game/BP/HUD/HUD_Epilogue
+[2023.07.11-22.19.49:718][336]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/HUD_Epilogue070E3D924DC19E12007FA8BB2AF6A1F0.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset'
+[2023.07.11-22.19.49:734][336]AssetCheck: New page: Asset Save: HUD_Epilogue
+[2023.07.11-22.19.49:735][336]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/HUD/HUD_Epilogue.HUD_Epilogue
+[2023.07.11-22.19.55:566][680]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.19.55:567][680]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-22.21.19:210][444]BlueprintLog: New page: Compile BP_GameMode
+[2023.07.11-22.21.19:424][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.07.11-22.21.19:825][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.07.11-22.21.19:868][455]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.07.11-22.21.19:868][455]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BP_GameModeAC2AB9C04182092D4B983294A5247EFE.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.07.11-22.21.19:885][455]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.07.11-22.21.19:885][455]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.21.45:784][949]BlueprintLog: New page: Compile BP_GameMode
+[2023.07.11-22.21.45:970][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.07.11-22.21.46:306][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.07.11-22.21.46:341][963]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.07.11-22.21.46:341][963]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BP_GameMode55057F78489EF09EAF0C0DB196D357A8.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.07.11-22.21.46:357][963]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.07.11-22.21.46:357][963]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
+[2023.07.11-22.22.15:655][658]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.11-22.22.31:825][619]LogSlate: Took 0.005601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.07.11-22.23.00:017][252]BlueprintLog: New page: Compile BP_GameMode
+[2023.07.11-22.23.00:220][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.11-22.23.00:519][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Game/BP_GameMode" FILE="../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset" SILENT=true
+[2023.07.11-22.23.00:554][262]LogSavePackage: Moving output files for package: /Game/BP/Game/BP_GameMode
+[2023.07.11-22.23.00:554][262]LogSavePackage: Moving '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Saved/BP_GameModeE96D93314E7D9F44E0ED5C96A43F4F8D.tmp' to '../../../../../../Uni Things/Mestrado/Repos/dissertacao/onegai/project/yameroUnreal/Content/BP/Game/BP_GameMode.uasset'
+[2023.07.11-22.23.00:575][262]AssetCheck: New page: Asset Save: BP_GameMode
+[2023.07.11-22.23.00:575][262]LogContentValidation: Display: Validating Blueprint /Game/BP/Game/BP_GameMode.BP_GameMode
