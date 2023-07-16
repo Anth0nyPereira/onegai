@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\uni things\\mestrado\\repos\\dissertacao\\onegai\\project\\yamerounreal\\intermediate\\source\\yamerounreal.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\uni things\\mestrado\\repos\\dissertacao\\onegai\\project\\yamerounreal\\intermediate\\build\\win64\\yamerounreal\\shipping\\core\\sharedpch.core.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\uni things\\mestrado\\repos\\dissertacao\\onegai\\project\\yamerounreal\\intermediate\\build\\win64\\unrealgame\\shipping\\yamerounreal\\definitions.yamerounreal.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
