@@ -77,3 +77,4 @@ DerivedDataCache/*
 
 # Exe folder
 exe/*
+exe\*
