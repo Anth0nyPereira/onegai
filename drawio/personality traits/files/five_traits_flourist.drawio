@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-09-19T16:06:29.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="w5yrc0JZ8ibPvDzyHbpi" version="21.7.5" type="device">
+  <diagram name="Page-1" id="hrfuKWmgcLDxA6A8_S4z">
+    <mxGraphModel dx="961" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-1" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="177.78" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-2" value="Autoconsciente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-3" value="Assertivo, Gosta de liderar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-4" value="Aberto às Ideias, Gosta de filosofar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-6" value="Modesto, Humilde,&lt;br&gt;Simples" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-7" value="Adora flores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
