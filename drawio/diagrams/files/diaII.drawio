@@ -1,0 +1,397 @@
+<mxfile host="app.diagrams.net" modified="2023-09-19T22:08:26.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0 (Edition std-1)" etag="9JsetRP5sqXf-_HPmGnC" version="21.7.5" type="device">
+  <diagram name="Page-1" id="JuS9gFbNcXVkm7ylzjX6">
+    <mxGraphModel dx="1393" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-1" value="OLD MAN chega novamente à avenida" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-2" value="OLD MAN comunica com OLD LADY (a mesma do dia I)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="210" y="20" as="sourcePoint" />
+            <mxPoint x="210" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="440" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptp4onJxxCEYxqdRIcnH-4">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="860" y="45" as="sourcePoint" />
+            <mxPoint x="520" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;B&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="730" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ptp4onJxxCEYxqdRIcnH-6">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="860" y="45" as="sourcePoint" />
+            <mxPoint x="680" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="105" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="119.80000000000001" y="50" as="sourcePoint" />
+            <mxPoint x="119.80000000000001" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-10" value="OLD MAN procura ajuda na cafeteria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-11" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="719.66" y="130" as="sourcePoint" />
+            <mxPoint x="719.66" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-12" value="OLD MAN questiona SERVANT acerca do paradeiro de FLOURIST" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-13" value="OLD MAN descobre que FLOURIST&amp;nbsp; falecera" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-14" value="OLD MAN mostra-se incrédulo pela notícia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-15" value="OLD MAN dirige-se ao florista" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-16" value="OLD MAN repara que a loja se encontra fechada" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-17" value="OLD MAN procura ajuda de alguém para atravessar a estrada" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-18" value="OLD MAN interage com TEENAGE GIRL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-19" value="OLD MAN é socorrido por TEENAGE GIRL, que se oferece para o auxiliar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-20" value="OLD MAN recorda a necessidade em arranjar uma flor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ptp4onJxxCEYxqdRIcnH-2">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="200" y="109.88" as="sourcePoint" />
+            <mxPoint x="230.24" y="109.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-22" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="240" y="59.99999999999999" as="sourcePoint" />
+            <mxPoint x="280" y="60.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-23" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="109.7" as="sourcePoint" />
+            <mxPoint x="440" y="109.82000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-24" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="600" y="109.71000000000001" as="sourcePoint" />
+            <mxPoint x="640" y="109.83000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-26" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptp4onJxxCEYxqdRIcnH-13">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="179.76" as="sourcePoint" />
+            <mxPoint x="600" y="179.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-27" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="370" y="60.24000000000001" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-28" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="179.88" as="sourcePoint" />
+            <mxPoint x="400" y="179.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="240" y="179.85999999999999" as="sourcePoint" />
+            <mxPoint x="200" y="179.61999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-30" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="120" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-31" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="200" y="249.7" as="sourcePoint" />
+            <mxPoint x="240" y="249.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-32" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="400" y="249.69" as="sourcePoint" />
+            <mxPoint x="440" y="249.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-33" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="600" y="249.7" as="sourcePoint" />
+            <mxPoint x="640" y="249.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-34" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="719.66" y="270" as="sourcePoint" />
+            <mxPoint x="719.66" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-35" value="OLD MAN procura mais uma vez por ajuda, neste caso preocupado com a flor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-36" value="OLD MAN interage com uma nova personagem-mistério" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-37" value="" style="shape=link;html=1;rounded=0;width=-0.9677419354838719;fontSize=7;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="240" y="400" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-38" value="OLD MAN regressa à cafetaria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-39" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ptp4onJxxCEYxqdRIcnH-36">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="319.65999999999997" y="400" as="sourcePoint" />
+            <mxPoint x="319.65999999999997" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-40" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="519.5699999999999" y="400" as="sourcePoint" />
+            <mxPoint x="519.91" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-41" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ptp4onJxxCEYxqdRIcnH-35">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="720" y="360" as="sourcePoint" />
+            <mxPoint x="419.99999999999994" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-42" value="OLD MAN recebe dinheiro da personagem misteriosa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-43" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="319.71" y="490" as="sourcePoint" />
+            <mxPoint x="319.71" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-44" value="OLD MAN é relembrado do padecimento do FLOURIST" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-45" value="OLD MAN obtém uma sugestão de SERVANT em comprar um isqueiro com motivo floral" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-47" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="519.76" y="490" as="sourcePoint" />
+            <mxPoint x="519.76" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-48" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="519.76" y="560" as="sourcePoint" />
+            <mxPoint x="519.76" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-49" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="519.76" y="630" as="sourcePoint" />
+            <mxPoint x="519.76" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-50" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;OLD MAN falou com personagem misteriosa?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=7;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-51" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="520" y="730" as="sourcePoint" />
+            <mxPoint x="520" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-52" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Sim&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ptp4onJxxCEYxqdRIcnH-51">
+          <mxGeometry x="0.7034" relative="1" as="geometry">
+            <mxPoint y="-31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-53" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ptp4onJxxCEYxqdRIcnH-50" target="ptp4onJxxCEYxqdRIcnH-55">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="630" y="645" as="sourcePoint" />
+            <mxPoint x="625" y="695" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-54" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Não&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="ptp4onJxxCEYxqdRIcnH-53">
+          <mxGeometry x="0.7034" relative="1" as="geometry">
+            <mxPoint x="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-55" value="OLD MAN adquire dinheiro emprestado de SERVANT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="675" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-56" value="OLD MAN compra isqueiro" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-57" value="" style="shape=link;html=1;rounded=0;width=-0.9677419354838719;fontSize=7;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="440" y="880" as="sourcePoint" />
+            <mxPoint x="800" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-58" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="519.66" y="840" as="sourcePoint" />
+            <mxPoint x="520" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-59" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="719.5699999999999" y="715" as="sourcePoint" />
+            <mxPoint x="720" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-60" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ptp4onJxxCEYxqdRIcnH-61">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="680" y="880" as="sourcePoint" />
+            <mxPoint x="680" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="890" />
+              <mxPoint x="720" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-61" value="OLD MAN volta a ter com TEENAGE GIRL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-62" value="OLD MAN é ajudado por TEENAGE GIRL a atravessar a avenida (e, implicitamente, a depositar a flor)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-63" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="719.66" y="950" as="sourcePoint" />
+            <mxPoint x="719.66" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-64" value="OLD MAN mostra uma atitude afável, gentil e solidária para com TEENAGE GIRL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1050" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-65" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="719.66" y="1020" as="sourcePoint" />
+            <mxPoint x="719.66" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-68" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="640" y="1070" as="sourcePoint" />
+            <mxPoint x="600" y="1069.76" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1069.76" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-69" value="OLD MAN&amp;nbsp; sabe que TEENAGE GIRL tem aulas de japonês" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1050" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-70" value="OLD MAN despede-se de TEENAGE GIRL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1050" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-71" value="OLD MAN recorda época em que conheceu uma &quot;ela&quot; (a sua mulher) durante uma lição de japonês" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1050" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-72" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="440" y="1069.95" as="sourcePoint" />
+            <mxPoint x="400" y="1069.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1069.71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-73" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="240" y="1069.95" as="sourcePoint" />
+            <mxPoint x="200" y="1069.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1069.71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-74" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="105" y="980" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-75" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=7;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="985" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ptp4onJxxCEYxqdRIcnH-76" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=7;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="119.55" y="1050" as="sourcePoint" />
+            <mxPoint x="119.98" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
