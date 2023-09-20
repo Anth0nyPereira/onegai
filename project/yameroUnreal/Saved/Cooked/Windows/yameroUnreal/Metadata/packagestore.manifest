@@ -1,0 +1,5670 @@
+{
+	"Files": [
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset",
+			"ChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BlueNoise.uasset",
+			"ChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset",
+			"ChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Master.uasset",
+			"ChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset",
+			"ChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
+			"ChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/GizmoMaterial.uasset",
+			"ChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
+			"ChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+			"ChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset",
+			"ChunkId": "46086b4f1af4594b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MoviePipeline_StencilCutout.uasset",
+			"ChunkId": "ff4b2fc7896fb1f200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/DroidSansMono.uasset",
+			"ChunkId": "e563b896e4821bdd00000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineInfoTableRow.uasset",
+			"ChunkId": "f8216d2ca1fbf67a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset",
+			"ChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset",
+			"ChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset",
+			"ChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset",
+			"ChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset",
+			"ChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset",
+			"ChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset",
+			"ChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset",
+			"ChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset",
+			"ChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset",
+			"ChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
+			"ChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset",
+			"ChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset",
+			"ChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Path": "Engine/Content/Tutorial/ContentIntroCurve.uasset",
+			"ChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset",
+			"ChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset",
+			"ChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset",
+			"ChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoRegular.uasset",
+			"ChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoLight.uasset",
+			"ChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoItalic.uasset",
+			"ChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset",
+			"ChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/RobotoBold.uasset",
+			"ChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset",
+			"ChunkId": "27d3dbbd9cb5875a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk",
+			"ChunkId": "27d3dbbd9cb5875a00000002"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset",
+			"ChunkId": "2cc5808063f890db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk",
+			"ChunkId": "2cc5808063f890db00000002"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset",
+			"ChunkId": "572d1a645b023a8100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/VolumeToRender.uasset",
+			"ChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset",
+			"ChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset",
+			"ChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset",
+			"ChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBloomKernel.uasset",
+			"ChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
+			"ChunkId": "624f937426db20c500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk",
+			"ChunkId": "624f937426db20c500000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
+			"ChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/MiniFont.uasset",
+			"ChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
+			"ChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultBokeh.uasset",
+			"ChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
+			"ChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset",
+			"ChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset",
+			"ChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset",
+			"ChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset",
+			"ChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset",
+			"ChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset",
+			"ChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset",
+			"ChunkId": "768633666781f70600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset",
+			"ChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset",
+			"ChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset",
+			"ChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
+			"ChunkId": "cdb6f2e8065df7c100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk",
+			"ChunkId": "cdb6f2e8065df7c100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset",
+			"ChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset",
+			"ChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset",
+			"ChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset",
+			"ChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset",
+			"ChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
+			"ChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset",
+			"ChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset",
+			"ChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset",
+			"ChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset",
+			"ChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairDebugColor.uasset",
+			"ChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/HairColorMap.uasset",
+			"ChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset",
+			"ChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
+			"ChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
+			"ChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
+			"ChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
+			"ChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
+			"ChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMeshes/Sphere.uasset",
+			"ChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry_BuiltData.uasset",
+			"ChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue1.uasset",
+			"ChunkId": "75562fc863403bc100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/RobotoDistanceField.uasset",
+			"ChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset",
+			"ChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset",
+			"ChunkId": "a996adcfa357ed2d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk",
+			"ChunkId": "a996adcfa357ed2d00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset",
+			"ChunkId": "730711032edb546300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset",
+			"ChunkId": "92d47df83dccf7d800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk",
+			"ChunkId": "92d47df83dccf7d800000002"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset",
+			"ChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset",
+			"ChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
+			"ChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
+			"ChunkId": "7539f12095a3f0d100000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDiffuse.ubulk",
+			"ChunkId": "7539f12095a3f0d100000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
+			"ChunkId": "7a7173cfb4095b9f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk",
+			"ChunkId": "7a7173cfb4095b9f00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
+			"ChunkId": "b743bdd5e5df72a400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk",
+			"ChunkId": "b743bdd5e5df72a400000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultVolumeTexture.uasset",
+			"ChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTextureCube.uasset",
+			"ChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.uasset",
+			"ChunkId": "6baf53cf79c0948b00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/DefaultTexture.ubulk",
+			"ChunkId": "6baf53cf79c0948b00000002"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/Black.uasset",
+			"ChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/GradientTexture0.uasset",
+			"ChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
+			"ChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_ChoicesGridPanel.uasset",
+			"ChunkId": "7d0674230c569e5e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Enums/E_CharacterNames.uasset",
+			"ChunkId": "cd547f6fc65c2f2400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Enums/E_CharacterSettings.uasset",
+			"ChunkId": "53280a2d35a5a73f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Enums/E_ChoicesAmount.uasset",
+			"ChunkId": "f19dc530d3c93bc700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Enums/E_DialogueState.uasset",
+			"ChunkId": "3092dd28d09278be00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Enums/E_VisualFX.uasset",
+			"ChunkId": "6168cd9c00f3ede000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/cloudsSequence.uasset",
+			"ChunkId": "fcc4d334cd2139e900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/cloudsSequencePlayer.uasset",
+			"ChunkId": "1d7c195c777f3bf300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightBrownDissolveIn.uasset",
+			"ChunkId": "0f68a91d234fab4400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightBrownDissolveOut.uasset",
+			"ChunkId": "46af002412351cb100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightBrownDissolveOutPlayer.uasset",
+			"ChunkId": "94eb34f412849ac700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightYellowDissolveInSequence.uasset",
+			"ChunkId": "b266034178e18e9100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightYellowDissolveOut.uasset",
+			"ChunkId": "d6f0568e3e1c971d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightYellowDissolveOutPlayer.uasset",
+			"ChunkId": "d3ee18b95fff113600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/transparent.uasset",
+			"ChunkId": "19d788f0758adae100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/turnOffSequence.uasset",
+			"ChunkId": "722b047f105c314700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/turnOnSequence.uasset",
+			"ChunkId": "9862e631630014ce00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/BreakingGlassSequence/GlassBreaking.uasset",
+			"ChunkId": "674f76740d37d8e500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/BreakingGlassSequence/GlassBreakingPlayer.uasset",
+			"ChunkId": "5f36b15fe58f0d9100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveBookshelf/BookshelfSequence.uasset",
+			"ChunkId": "73fd933102ac3cad00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveBookshelf/BookshelfSequencePlayer.uasset",
+			"ChunkId": "417bf9e5c669eb7f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequence.uasset",
+			"ChunkId": "1cfaa4c97c3d3cd700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequencePlayer.uasset",
+			"ChunkId": "55bf4ea7ffc521e500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSofa/SofaSequence.uasset",
+			"ChunkId": "3afa40b6c5afd76100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSofa/SofaSequencePlayer.uasset",
+			"ChunkId": "5fbddd5ef197edcd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWifeSofa/WifeSofaPlayer.uasset",
+			"ChunkId": "40c2bd00806fbac500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWifeSofa/WifeSofaSequence.uasset",
+			"ChunkId": "f1d68b47407b954a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWoman/DissolveWifePlayer.uasset",
+			"ChunkId": "397ad7b234d44feb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWoman/DissolveWifeSequence.uasset",
+			"ChunkId": "ff2393152563e02900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/IncreaseSpeedTransparent/speedSequence.uasset",
+			"ChunkId": "1be5be20bfaaffaf00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/IncreaseSpeedTransparent/speedSequencePlayer.uasset",
+			"ChunkId": "9076a6ddcb6b8fd200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/VideoWidget/NewMediaPlayer.uasset",
+			"ChunkId": "33c28a55016f9d9f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/background.uasset",
+			"ChunkId": "999b5a54f1e168aa00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/flower_paint.uasset",
+			"ChunkId": "99c128043efa772400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue4.uasset",
+			"ChunkId": "de64c54d8fb8ab4700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Skip.uasset",
+			"ChunkId": "3d3f7ec277f96c6c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Skip.ubulk",
+			"ChunkId": "3d3f7ec277f96c6c00000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_1.uasset",
+			"ChunkId": "4081b6b84077ba2a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_Normal.uasset",
+			"ChunkId": "e378eb8a0ae34c8900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/HUD/dissolveYellowLight0001.uasset",
+			"ChunkId": "e0c72b9da614d33000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/HUD/HUD_text.uasset",
+			"ChunkId": "fa128e84be60ab2a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Music/SW_Music.uasset",
+			"ChunkId": "9332dfaea0a4254500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Music/SW_Music.ubulk",
+			"ChunkId": "9332dfaea0a4254500000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_BG.uasset",
+			"ChunkId": "d1a2908b734adf9900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_BG.ubulk",
+			"ChunkId": "d1a2908b734adf9900000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Choices.uasset",
+			"ChunkId": "fab434990a0e3b0900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Choices.ubulk",
+			"ChunkId": "fab434990a0e3b0900000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_HighPitch.uasset",
+			"ChunkId": "d8f81dee29142e2100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_HighPitch.ubulk",
+			"ChunkId": "d8f81dee29142e2100000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_LowPitch.uasset",
+			"ChunkId": "844363dfec1171b400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_LowPitch.ubulk",
+			"ChunkId": "844363dfec1171b400000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/black.uasset",
+			"ChunkId": "a4956918afe0741800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/flower_line_art_paint.uasset",
+			"ChunkId": "902723976778ea9e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarFireLineArt/CarFirePlayer.uasset",
+			"ChunkId": "a1adbf9c978e007a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarFireLineArt/CarFireSequence.uasset",
+			"ChunkId": "ddf2058528586a7000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarMovingSequence/carmMoving.uasset",
+			"ChunkId": "301d2e51a87f593400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarMovingSequence/carmMovingPlayer.uasset",
+			"ChunkId": "a92f4c8d21ea36f200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-Bold.uasset",
+			"ChunkId": "4ad838d725b9ce1b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-Light.uasset",
+			"ChunkId": "c75b7618884a522500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/Robecha_Daniera-Regular.uasset",
+			"ChunkId": "a8b72da1b6c37bd500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_13.uasset",
+			"ChunkId": "d966df24d49f7ee800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key4.uasset",
+			"ChunkId": "2f7115b25496034300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key4.ubulk",
+			"ChunkId": "2f7115b25496034300000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key5.uasset",
+			"ChunkId": "803f67da4f60a82a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key5.ubulk",
+			"ChunkId": "803f67da4f60a82a00000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan9.uasset",
+			"ChunkId": "53e6e25a1003616900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/PEGI/bad-language-black-EN.uasset",
+			"ChunkId": "800a7e1e141a493500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/PEGI/pegi18.uasset",
+			"ChunkId": "fc7e4785e7f47dd100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/PEGI/violence-black-EN.uasset",
+			"ChunkId": "052eb271de8ce4a900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key1.uasset",
+			"ChunkId": "9ebe0bccc091423b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key1.ubulk",
+			"ChunkId": "9ebe0bccc091423b00000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key2.uasset",
+			"ChunkId": "7bcfbc6b06c2f64a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key2.ubulk",
+			"ChunkId": "7bcfbc6b06c2f64a00000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key3.uasset",
+			"ChunkId": "822ebad2fb94490400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SW_Key3.ubulk",
+			"ChunkId": "822ebad2fb94490400000002"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayI_2nd_paint.uasset",
+			"ChunkId": "42668089f155343a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayI_3rd_paint.uasset",
+			"ChunkId": "4b65619e3522eb5300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_zoom_in_lilium_paint.uasset",
+			"ChunkId": "387bcc5e2223fcdb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_zoom_in_paint.uasset",
+			"ChunkId": "a3fb7dee5444717300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_2.uasset",
+			"ChunkId": "61a815a7ca1e793a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_3.uasset",
+			"ChunkId": "a20d2a289f41ea9f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_4.uasset",
+			"ChunkId": "5954aa5f29a643ae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_5.uasset",
+			"ChunkId": "1a0323dfcdac99e800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_6.uasset",
+			"ChunkId": "b5755116b595e87100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_7.uasset",
+			"ChunkId": "2e3a06d1ae506b6100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_8.uasset",
+			"ChunkId": "c9f175cd8da9d9c100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_9.uasset",
+			"ChunkId": "b8647a70063bba4100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_10.uasset",
+			"ChunkId": "59c733b419ef30af00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_11.uasset",
+			"ChunkId": "e7d0dc12ab3beccd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_12.uasset",
+			"ChunkId": "0031f90686c78b7800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_14.uasset",
+			"ChunkId": "b360e95c6008208800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_15.uasset",
+			"ChunkId": "abdac3519e55c4f200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_16.uasset",
+			"ChunkId": "1df9f7e7b1bcf5c900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_17.uasset",
+			"ChunkId": "ac3b1a140ac2613900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_18.uasset",
+			"ChunkId": "d39de5024bdcb25600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_19.uasset",
+			"ChunkId": "5fef8dbd8705f42900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_20.uasset",
+			"ChunkId": "1a8570c409cb887000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_21.uasset",
+			"ChunkId": "328df3c36f4763d000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_22.uasset",
+			"ChunkId": "9c42382a7924179d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_23.uasset",
+			"ChunkId": "9ac59f9552b8a5c100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_24.uasset",
+			"ChunkId": "b8a47c11fefd80f100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_25.uasset",
+			"ChunkId": "0419f04cbfe2d83e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_26.uasset",
+			"ChunkId": "543bb7fa06ef8f8f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_27.uasset",
+			"ChunkId": "ebd46fc68bc4e1f600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_28.uasset",
+			"ChunkId": "362cd2f958ca033800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_30.uasset",
+			"ChunkId": "efa7dfdfe5ac30dd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_31.uasset",
+			"ChunkId": "64d52768fbdbd81500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_6.uasset",
+			"ChunkId": "4dfaa3a359ff7a4200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Flourist/Flourist_29.uasset",
+			"ChunkId": "e3cb59a8416a6eb100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Lass/Lass01.uasset",
+			"ChunkId": "038af583ce8cf8a100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/ManHood/ManHood_1.uasset",
+			"ChunkId": "1b2c9242df5fb59500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/ManHood/ManHood_2.uasset",
+			"ChunkId": "f6cd30210bec96d900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/ManHood/ManHood_3.uasset",
+			"ChunkId": "3f958eeb6cc23d3800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_1.uasset",
+			"ChunkId": "5b52db890771ac2c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_2.uasset",
+			"ChunkId": "b6225d6a1dc460b300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_3.uasset",
+			"ChunkId": "e6a85500615f80d200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_4.uasset",
+			"ChunkId": "cc70dd0c4237effe00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/oldMan_1.uasset",
+			"ChunkId": "95c4d524d8c3025f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_2.uasset",
+			"ChunkId": "9446864f2f269e5700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_3.uasset",
+			"ChunkId": "997dbb561e7bee0300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_4.uasset",
+			"ChunkId": "1a23682b87c0dc1000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_5.uasset",
+			"ChunkId": "81b832aed5c022a800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_8.uasset",
+			"ChunkId": "528e5decf29a2bb000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_9.uasset",
+			"ChunkId": "f1c55326e25179bd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_10.uasset",
+			"ChunkId": "3aecaca54d71424800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_11.uasset",
+			"ChunkId": "3ec6f665d325a68d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_13.uasset",
+			"ChunkId": "4c6ca1ff0988428d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_14.uasset",
+			"ChunkId": "e7f18b2ad05a0cec00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_15.uasset",
+			"ChunkId": "c5e6ee0e273f882a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_16.uasset",
+			"ChunkId": "323140e61ba0e75900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_17.uasset",
+			"ChunkId": "6f012d8c520f70b100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_18.uasset",
+			"ChunkId": "51c2cb352fa0baf400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_19.uasset",
+			"ChunkId": "eb0a02aa06b81d0500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldman_20.uasset",
+			"ChunkId": "9bc5c187b6738b2600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldman_21.uasset",
+			"ChunkId": "9cdf2721df89747300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_AngryYelling.uasset",
+			"ChunkId": "8fa7971a424fc8b600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_Sad.uasset",
+			"ChunkId": "3f5adce61112ed2900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_2.uasset",
+			"ChunkId": "a1e7081b0df61d9d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman5.uasset",
+			"ChunkId": "ca1743caccca0fac00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_LipFunnel.uasset",
+			"ChunkId": "0fd5cbb90a322ee500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_1.uasset",
+			"ChunkId": "348d5a63955266b000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_2.uasset",
+			"ChunkId": "f97569647b5161de00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_3.uasset",
+			"ChunkId": "1834dff6d804ff2c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_4.uasset",
+			"ChunkId": "0dd076394605543000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_5.uasset",
+			"ChunkId": "f15f02b91eb7da7700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_6.uasset",
+			"ChunkId": "0261e4559b729dbf00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_7.uasset",
+			"ChunkId": "7fac76225df533b900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_8.uasset",
+			"ChunkId": "6096b5d2aa9b571f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_9.uasset",
+			"ChunkId": "47f7c8a2a82de41400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_10.uasset",
+			"ChunkId": "3e54db99c171360900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_11.uasset",
+			"ChunkId": "8e5b6f3b38083dd300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_12.uasset",
+			"ChunkId": "bc5bfb6b3187298400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_13.uasset",
+			"ChunkId": "79cfc8d917d9c5bf00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_14.uasset",
+			"ChunkId": "ea35ab53c268935400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_15.uasset",
+			"ChunkId": "e33d65971343e1d400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_16.uasset",
+			"ChunkId": "fc1fbc71ff1bc3cd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_17.uasset",
+			"ChunkId": "7bd69e772420a50b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_18.uasset",
+			"ChunkId": "c41d92313584f2ff00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_19.uasset",
+			"ChunkId": "1be001c8361c780500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_20.uasset",
+			"ChunkId": "3d3a5b36aaec815800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_22.uasset",
+			"ChunkId": "24aab503dcf0777300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_23.uasset",
+			"ChunkId": "1e0cbaf4545445d700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_24.uasset",
+			"ChunkId": "2e7f94a433d0f9a300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_25.uasset",
+			"ChunkId": "c8fa3ea3fc015bc100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_26.uasset",
+			"ChunkId": "824552cffef2ea0100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman1.uasset",
+			"ChunkId": "0558f5ca936e2d3f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman10.uasset",
+			"ChunkId": "755a654d3ea8b6a700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman11.uasset",
+			"ChunkId": "ae58c80aef4d169700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman2.uasset",
+			"ChunkId": "0a96354b8bb64dde00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman3.uasset",
+			"ChunkId": "55832cbf768d496c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman4.uasset",
+			"ChunkId": "d1462decb4c3e13500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman6.uasset",
+			"ChunkId": "a7f2b3a3a4ebf0e600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman7.uasset",
+			"ChunkId": "52f1a33c6589a56a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman8.uasset",
+			"ChunkId": "bd859f71795471e900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Policeman/policeman9.uasset",
+			"ChunkId": "b10a1c3381b8834400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Teen/Teen1.uasset",
+			"ChunkId": "0b2baa6918bdce6000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Teen/Teen2.uasset",
+			"ChunkId": "cc014071503415e600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Teen/Teen3.uasset",
+			"ChunkId": "7567147ee7d38b1500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_1.uasset",
+			"ChunkId": "a2309ca128bbb82600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_4.uasset",
+			"ChunkId": "d1cf2d4960a246cd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_5.uasset",
+			"ChunkId": "c841fc8da91e85a900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_6.uasset",
+			"ChunkId": "a294d3adeb3cbcd300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_8.uasset",
+			"ChunkId": "a3632ec45dfb39fb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_9.uasset",
+			"ChunkId": "da13f62874731c4d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_2.uasset",
+			"ChunkId": "dbd43c3c6d2effb100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_5.uasset",
+			"ChunkId": "ff2cc8af55e408dd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_3.uasset",
+			"ChunkId": "84786dde131dd8ec00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_7.uasset",
+			"ChunkId": "5b723cb607f1986100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_10.uasset",
+			"ChunkId": "fc36cde78512e30800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_11.uasset",
+			"ChunkId": "a68104335ae7923600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_12.uasset",
+			"ChunkId": "e4a94ee22fe6496100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_13.uasset",
+			"ChunkId": "fd07e822a716fdd200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_14.uasset",
+			"ChunkId": "db6193186d131f7b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/triplets_15.uasset",
+			"ChunkId": "edfb14963ba2954c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Angry.uasset",
+			"ChunkId": "085868fe8bed29e900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/textures/Sprites/T_Girl01_Normal.uasset",
+			"ChunkId": "c8c746349755f9ab00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/textures/Sprites/T_Girl02_Shocked.uasset",
+			"ChunkId": "21f3100b84896f8900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_1st_paint.uasset",
+			"ChunkId": "6bebc27836ae14da00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_2nd_paint.uasset",
+			"ChunkId": "4d4ece02badfa74d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_3rd_paint.uasset",
+			"ChunkId": "813264bcd86d654000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_4th_paint.uasset",
+			"ChunkId": "0ab574649640bff900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_5th_paint.uasset",
+			"ChunkId": "c1dbda7d8ec67e1700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_7th_paint.uasset",
+			"ChunkId": "6220878a43bb907600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_flashback_paint.uasset",
+			"ChunkId": "eadbeaeba9dcfb7b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint.uasset",
+			"ChunkId": "bebe9250b5a78b3400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint.uasset",
+			"ChunkId": "b2e6e04e38f79ec900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint.uasset",
+			"ChunkId": "51e86b6f628220f400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayII_zoom_in_lighter_paint.uasset",
+			"ChunkId": "4a201453bb8bb42500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_1.uasset",
+			"ChunkId": "ccdfe2a7e878311300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_2.uasset",
+			"ChunkId": "03b22fa0b64c1dbc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_3.uasset",
+			"ChunkId": "37ea5ad44030e8d300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_4.uasset",
+			"ChunkId": "8ec95d02354b412800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_5.uasset",
+			"ChunkId": "6dfe489b61ebd0bc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_6.uasset",
+			"ChunkId": "c25a622bfe5abfaf00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldLady/oldLady_7.uasset",
+			"ChunkId": "3e3656efabbeaa8c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_1.uasset",
+			"ChunkId": "0b8057f0231260e400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_7.uasset",
+			"ChunkId": "45c98101e913f9a100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldMan/oldMan_12.uasset",
+			"ChunkId": "ca40f30a35fb3c0d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_21.uasset",
+			"ChunkId": "19d45f896caf69df00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_27.uasset",
+			"ChunkId": "fdf4e14d5a6c9f9700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_28.uasset",
+			"ChunkId": "22bdf99f3c4c51d400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_29.uasset",
+			"ChunkId": "e781fc8b82636d7f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_30.uasset",
+			"ChunkId": "eca756948f1e706400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_32.uasset",
+			"ChunkId": "116bd4099c6f092d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_33.uasset",
+			"ChunkId": "27ae0f347d00a4ef00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManDayI/oldMan_dayI_35.uasset",
+			"ChunkId": "b79d8274f542626a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_1.uasset",
+			"ChunkId": "a2bb90932d4aaa7500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_3.uasset",
+			"ChunkId": "ee7e8bb1eaa660dd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_4.uasset",
+			"ChunkId": "2ff9d759b9f5695600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_5.uasset",
+			"ChunkId": "7496be215b96f97800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_6.uasset",
+			"ChunkId": "c034eba169b31b9200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_7.uasset",
+			"ChunkId": "f8219c3e44dc23ee00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_8.uasset",
+			"ChunkId": "c7f79e3e1b7084ed00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_8.uasset",
+			"ChunkId": "40408e12c679abeb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_34.uasset",
+			"ChunkId": "41f507b6bf022acc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_9.uasset",
+			"ChunkId": "929512420304650700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Servant/Servant_11.uasset",
+			"ChunkId": "2cb1314ecf15c50300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Teacher/Teacher.uasset",
+			"ChunkId": "9d441f7d109e983e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Teacher/Teacher1.uasset",
+			"ChunkId": "3f335c00362a98c400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_1.uasset",
+			"ChunkId": "1e08fe41aa15a4d800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_4.uasset",
+			"ChunkId": "cb73fe6f18a250b000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_5.uasset",
+			"ChunkId": "a70af28dc6eaf9ae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_6.uasset",
+			"ChunkId": "8858af350a6565a500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_7.uasset",
+			"ChunkId": "71fa52102ae99ebd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_10.uasset",
+			"ChunkId": "372fd06be37e42fa00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung3.uasset",
+			"ChunkId": "f04ad818bf019be100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_26.uasset",
+			"ChunkId": "c40410203d0fa23a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_27.uasset",
+			"ChunkId": "b65fb06ae8ed505e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_28.uasset",
+			"ChunkId": "4a77393fca410ec400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_29.uasset",
+			"ChunkId": "ab5f35f306a877fe00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_30.uasset",
+			"ChunkId": "33688a3cf40b188300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_31.uasset",
+			"ChunkId": "b68117f674f8d4c500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_32.uasset",
+			"ChunkId": "a058b87e3830fbd100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_33.uasset",
+			"ChunkId": "b7c99bd9cdb2678b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_9.uasset",
+			"ChunkId": "2b9450a54323a7ba00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_11.uasset",
+			"ChunkId": "27dc8d38f6cdeea100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_12.uasset",
+			"ChunkId": "b12d97a1419b452300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_15.uasset",
+			"ChunkId": "c3b6f4d806f522da00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_16.uasset",
+			"ChunkId": "d6e0ca54451e989f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_17.uasset",
+			"ChunkId": "214004055f2e4d2d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_18.uasset",
+			"ChunkId": "605cbab72b1552dc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_19.uasset",
+			"ChunkId": "ff10d2ac1471a7c200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_20.uasset",
+			"ChunkId": "886c30a039ec8e8000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_21.uasset",
+			"ChunkId": "77ab1e02714c37d800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_22.uasset",
+			"ChunkId": "3fd53eb05da3744100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_23.uasset",
+			"ChunkId": "8ece83ebe73ab19200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_24.uasset",
+			"ChunkId": "2cf5811212d412b400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_25.uasset",
+			"ChunkId": "0a63f788155b15c900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_35.uasset",
+			"ChunkId": "6c53b11d4584a1aa00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_36.uasset",
+			"ChunkId": "7fdf6dedc8362ace00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_37.uasset",
+			"ChunkId": "6a799557568daa2a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_38.uasset",
+			"ChunkId": "6438b6fa906e894700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_39.uasset",
+			"ChunkId": "607cf8d9022f08b700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_40.uasset",
+			"ChunkId": "713f3968eef2bfb300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_41.uasset",
+			"ChunkId": "170cbcc96958017100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_42.uasset",
+			"ChunkId": "d02b2a8c330318ae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_43.uasset",
+			"ChunkId": "74140fccb9b5315c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_44.uasset",
+			"ChunkId": "b15630ae799b799e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_45.uasset",
+			"ChunkId": "aa31f71a9aad33d800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/TeenageGirl/TeenageGirl_46.uasset",
+			"ChunkId": "e288f70afc35cad000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/Triplets/characters_default.uasset",
+			"ChunkId": "8830f303bbaee88600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung1.uasset",
+			"ChunkId": "3a5b0fc4e43f310200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung2.uasset",
+			"ChunkId": "7dd035937f36909c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung5.uasset",
+			"ChunkId": "f17242e41fe44a7500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung6.uasset",
+			"ChunkId": "55a3f6f1e88812f500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung_flower_1.uasset",
+			"ChunkId": "a7f787ef06ac32c600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung_flower_5.uasset",
+			"ChunkId": "d9e5e1df6963798300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung_flower_6.uasset",
+			"ChunkId": "e17e4f8e6228854100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan1.uasset",
+			"ChunkId": "9bc5e95642f5053000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan2.uasset",
+			"ChunkId": "953d0a12d1ba274e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan4.uasset",
+			"ChunkId": "e6389e3ef8d3692800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan5.uasset",
+			"ChunkId": "94cf655a2da3a8da00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan6.uasset",
+			"ChunkId": "7594aa84abbdc88d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YoungOldMan/YoungOldMan7.uasset",
+			"ChunkId": "da83fa7d18f2b3f200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_16.uasset",
+			"ChunkId": "6dfa82059654728200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_Normal.uasset",
+			"ChunkId": "f2a6400c5df76c6c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_13.uasset",
+			"ChunkId": "f6e7419edcea643e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_3rd_paint.uasset",
+			"ChunkId": "11bbed1d6017a0b400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint.uasset",
+			"ChunkId": "2a2024a5d53ea4f100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/WifeYoung/wifeYoung4.uasset",
+			"ChunkId": "3e7766617a71176f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_1st_paint.uasset",
+			"ChunkId": "b1d449a223a4ea2f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_2nd_paint.uasset",
+			"ChunkId": "5cb9edbeed95ec1a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint.uasset",
+			"ChunkId": "0381da0e9ec192ef00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint.uasset",
+			"ChunkId": "1eb7ac9dad5bd7ae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayIII_zoon_in_paint.uasset",
+			"ChunkId": "463441f3c54bccca00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_1.uasset",
+			"ChunkId": "9350da4fd7c8b5ed00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_2.uasset",
+			"ChunkId": "331b344a931f131200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_3.uasset",
+			"ChunkId": "171797df8b173f7600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_4.uasset",
+			"ChunkId": "a81c3a91acfa379100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_5.uasset",
+			"ChunkId": "7f3416c2ce41bec900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_6.uasset",
+			"ChunkId": "c400ac9c361330d800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_7.uasset",
+			"ChunkId": "c32e52781972a6cb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_8.uasset",
+			"ChunkId": "355d800324d122b000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_9.uasset",
+			"ChunkId": "4428154cd8c6e40800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_10.uasset",
+			"ChunkId": "f35cacaf298c0c2400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_11.uasset",
+			"ChunkId": "2ec541f206f96aa600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_12.uasset",
+			"ChunkId": "f4cc051c3a81712500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_14.uasset",
+			"ChunkId": "cfca395738e3460100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_15.uasset",
+			"ChunkId": "fcdd86f49823d73000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_16.uasset",
+			"ChunkId": "8ca9f874446adfff00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_17.uasset",
+			"ChunkId": "0636010426446a9500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_18.uasset",
+			"ChunkId": "87577626f6843d3800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_19.uasset",
+			"ChunkId": "992694957c9f45df00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_20.uasset",
+			"ChunkId": "29f5ab67beb3953c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_21.uasset",
+			"ChunkId": "ad198c513eb6f57d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_22.uasset",
+			"ChunkId": "181041c921c2cf7a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_23.uasset",
+			"ChunkId": "6f8b0b9230776a0800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_24.uasset",
+			"ChunkId": "68a7741a53d715a400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_25.uasset",
+			"ChunkId": "128d358e261df6e200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_26.uasset",
+			"ChunkId": "d9f5b1de4a5d28a200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_27.uasset",
+			"ChunkId": "5d5890b9058749a500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/AthleticMan_28.uasset",
+			"ChunkId": "5548a234707a39d900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_1.uasset",
+			"ChunkId": "9eec711955cf7a3b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_2.uasset",
+			"ChunkId": "10911eddcecebb7300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_3.uasset",
+			"ChunkId": "9457ba9328273a5600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_4.uasset",
+			"ChunkId": "1a347d675336554000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_5.uasset",
+			"ChunkId": "7c071dfacaa9163400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_6.uasset",
+			"ChunkId": "d563e49653ab707700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_7.uasset",
+			"ChunkId": "dab1fb1264d4721500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_8.uasset",
+			"ChunkId": "d8fe1ac0aebb4d8400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_9.uasset",
+			"ChunkId": "4481c88e8ed153fc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_10.uasset",
+			"ChunkId": "e112f206797d8ab400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_11.uasset",
+			"ChunkId": "b860eeb50c61128200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_12.uasset",
+			"ChunkId": "b1e362ac99b4ca9c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_13.uasset",
+			"ChunkId": "22ce269f79cef7b400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_14.uasset",
+			"ChunkId": "cf5a1b69e6cc8c5d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_15.uasset",
+			"ChunkId": "37b11bd2923e27b700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_17.uasset",
+			"ChunkId": "5a37ccce4ea50ca200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_19.uasset",
+			"ChunkId": "6156a5adbf5776c700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_20.uasset",
+			"ChunkId": "b2d5bc6036db390300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/gym_dayVI_paint.uasset",
+			"ChunkId": "a70e611845b8baa300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_1.uasset",
+			"ChunkId": "e76e454cc02f659c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_35.uasset",
+			"ChunkId": "4b5c02bdb6d6255b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/ComicJensFreePro-Regular.uasset",
+			"ChunkId": "69fe64860342277b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-SemiBold.uasset",
+			"ChunkId": "8847bff5b9df7eff00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
+			"ChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+			"ChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/FlattenMaterial.uasset",
+			"ChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
+			"ChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset",
+			"ChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/M_MoviePipelineRenderPreview.uasset",
+			"ChunkId": "7eb3fe785bdbb00200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset",
+			"ChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
+			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
+			"ChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
+			"ChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
+			"ChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/DroidSansMono.uasset",
+			"ChunkId": "1a82e2e1070fe60800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_21.uasset",
+			"ChunkId": "08e02f1a66ba533d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_22.uasset",
+			"ChunkId": "8f4fad451520a99a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_23.uasset",
+			"ChunkId": "b3bcfbe2f6cd1c2f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_24.uasset",
+			"ChunkId": "59ad928b9b24c42100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_25.uasset",
+			"ChunkId": "ed79420a4002458200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_27.uasset",
+			"ChunkId": "e4d8b3e64b8577a100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_29.uasset",
+			"ChunkId": "e61106980aaa001e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_30.uasset",
+			"ChunkId": "f5d59ab5ce36fea600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_31.uasset",
+			"ChunkId": "13107739cb85e50700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_32.uasset",
+			"ChunkId": "b7e08ca9b2cc8d4900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_33.uasset",
+			"ChunkId": "73377495c9f562a900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_34.uasset",
+			"ChunkId": "59d95154b954453500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_36.uasset",
+			"ChunkId": "19a072dbd3e964a200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_37.uasset",
+			"ChunkId": "f84cfe9edd493ef500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_38.uasset",
+			"ChunkId": "5b3e9adbd325e85600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_39.uasset",
+			"ChunkId": "055060bd5c169b0900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_40.uasset",
+			"ChunkId": "29deb9a27a799dbc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_41.uasset",
+			"ChunkId": "d14ea44919fc856100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_42.uasset",
+			"ChunkId": "09fdf8c6a56bc8ab00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_43.uasset",
+			"ChunkId": "fc6ae7578f59afc500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_44.uasset",
+			"ChunkId": "51d8080abd7220cf00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_45.uasset",
+			"ChunkId": "127fd3ab24ef65a100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_46.uasset",
+			"ChunkId": "e603da95b6bdc45000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_47.uasset",
+			"ChunkId": "804895d5de2361ab00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_48.uasset",
+			"ChunkId": "363682060b4a771e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_49.uasset",
+			"ChunkId": "f7abc09a207862cd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/gym_experiment_paintv2.uasset",
+			"ChunkId": "4909cb8adb55f26600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_2.uasset",
+			"ChunkId": "376b1256af36ceee00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_3.uasset",
+			"ChunkId": "019e111a3c52fa1900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_4.uasset",
+			"ChunkId": "c785b4a1503c100200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_5.uasset",
+			"ChunkId": "a83148f049e027f400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/AthleticMan/BW/BWAthleticMan_6.uasset",
+			"ChunkId": "81d039be92a347af00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan1.uasset",
+			"ChunkId": "72cf54084b60f4f100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan2.uasset",
+			"ChunkId": "2c09b29f07e4a10900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan4.uasset",
+			"ChunkId": "7ca6109e740d0c4500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan5.uasset",
+			"ChunkId": "b54b535e5be8107100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan6.uasset",
+			"ChunkId": "48992f9b5cbb42f100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan8.uasset",
+			"ChunkId": "e5fecd090d13100a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/OldManBlackWhite/BWOldMan3.uasset",
+			"ChunkId": "a4dacac5f5e4ac5d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayVI_final_paint.uasset",
+			"ChunkId": "b35aade666b92b7f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayVI_flashback_accident_paint.uasset",
+			"ChunkId": "6fc667463d7ecaa300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/avenue_dayVI_flashback_paint.uasset",
+			"ChunkId": "aa97443bd4ee585900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/living_room_1_paint.uasset",
+			"ChunkId": "3f93edfa8d18e5f400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/living_room_colors_paint.uasset",
+			"ChunkId": "3593aaa6f235e73300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Backgrounds/living_room_colors_without_woman_paint.uasset",
+			"ChunkId": "77ed6ca6d949eda400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_0.uasset",
+			"ChunkId": "f0a6b4eba5fb702600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_1.uasset",
+			"ChunkId": "fb51afd2f68f140a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_2.uasset",
+			"ChunkId": "0f1bbb4a0054db6100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_3.uasset",
+			"ChunkId": "5c467c1b24640a6a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_4.uasset",
+			"ChunkId": "93f2377df2fc6f3f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineFonts/Roboto.uasset",
+			"ChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_WorldDepth.uasset",
+			"ChunkId": "2f33b04d94573b6f00000001"
+		},
+		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
+			"ChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
+			"ChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+			"ChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Materials/MovieRenderQueue_MotionVectors.uasset",
+			"ChunkId": "22df2134d94a27fa00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
+			"ChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
+			"ChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultMaterial.uasset",
+			"ChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
+			"ChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
+			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_13.uasset",
+			"ChunkId": "678ea27f95608f0500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_13.uasset",
+			"ChunkId": "603373408112952400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_6.uasset",
+			"ChunkId": "956935b51b7e053200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_7.uasset",
+			"ChunkId": "0ec59d202b5da4d900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_8.uasset",
+			"ChunkId": "2da76d55beb134ae00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_9.uasset",
+			"ChunkId": "a3313eee62b871de00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_10.uasset",
+			"ChunkId": "0b38a7c07808dc0d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_11.uasset",
+			"ChunkId": "bf37e2eb387f0e8900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_12.uasset",
+			"ChunkId": "16bf3b08321b164800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_14.uasset",
+			"ChunkId": "d460d3f535b8607300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_15.uasset",
+			"ChunkId": "3d93813197303b0000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAOldMan/YAOldMan_16.uasset",
+			"ChunkId": "128bfb37dae0a92d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_1.uasset",
+			"ChunkId": "ad83ba21fd0452c600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_2.uasset",
+			"ChunkId": "c300fe7ef8ea416c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_3.uasset",
+			"ChunkId": "14524767eaacb8f600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_4.uasset",
+			"ChunkId": "255cc8a5510bdade00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_5.uasset",
+			"ChunkId": "402c1a2e3467194000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_6.uasset",
+			"ChunkId": "16627c492c02040700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_7.uasset",
+			"ChunkId": "3867805235b1b81500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_8.uasset",
+			"ChunkId": "50045908f94e549f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_9.uasset",
+			"ChunkId": "a6b08ad574e90bb700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_10.uasset",
+			"ChunkId": "6d8868f0921168b600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_11.uasset",
+			"ChunkId": "3fb9411ef05b28d300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_12.uasset",
+			"ChunkId": "f204b03e8f64ba4f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Characters/YAWife/YAWife_14.uasset",
+			"ChunkId": "f8f895a5c2b3803800000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset",
+			"ChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+			"ChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Structs/S_DialogueInfo.uasset",
+			"ChunkId": "cf6275e5a079c5b300000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/cloudsSequencePlayer_Video.uasset",
+			"ChunkId": "618c0111c4061bb100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightBrownDissolveOutPlayer_Video.uasset",
+			"ChunkId": "15ce04340ad38a9000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightYellowDissolveOutPlayer_Video.uasset",
+			"ChunkId": "3bb02ee037a0240700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video.uasset",
+			"ChunkId": "348b48823ae1e88100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video.uasset",
+			"ChunkId": "04906d7b2093e4f000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequencePlayer_Video.uasset",
+			"ChunkId": "72eb9d6b2b730e4400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSofa/SofaSequencePlayer_Video.uasset",
+			"ChunkId": "a088d787a69903de00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWifeSofa/WifeSofaPlayer_Video.uasset",
+			"ChunkId": "4553f347d251a70800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWoman/DissolveWifePlayer_Video.uasset",
+			"ChunkId": "503a9ba999981d3c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/IncreaseSpeedTransparent/speedSequencePlayer_Video.uasset",
+			"ChunkId": "2ebaafd63862e5a700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/VideoWidget/NewMediaPlayer_Video.uasset",
+			"ChunkId": "1d9160cc8f109a0b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarFireLineArt/CarFirePlayer_Video.uasset",
+			"ChunkId": "d54b78772380f8de00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarMovingSequence/carmMovingPlayer_Video.uasset",
+			"ChunkId": "545dc0cbf517638900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-Bold_Font.uasset",
+			"ChunkId": "0cf71a23f3a61cdd00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-Light_Font.uasset",
+			"ChunkId": "23f726e8c02a8f7900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/Robecha_Daniera-Regular_Font.uasset",
+			"ChunkId": "33ad3c8f70e8f9a600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/SFX/SC_Keys.uasset",
+			"ChunkId": "7d1168b6b02c756200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/ComicJensFreePro-Regular_Font.uasset",
+			"ChunkId": "23f075443fc364b400000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/Fonts/CormorantUnicase-SemiBold_Font.uasset",
+			"ChunkId": "4dc62b74234202f300000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/UI_MovieRenderPipelineScreenOverlay.uasset",
+			"ChunkId": "15d912f6db8a3aa100000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
+			"ChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
+			"ChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Path": "Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
+			"ChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Path": "Engine/Plugins/MovieScene/MovieRenderPipeline/Content/Blueprints/DefaultBurnIn.uasset",
+			"ChunkId": "d893555aa5ae51bf00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset",
+			"ChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset",
+			"ChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
+			"ChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cone.uasset",
+			"ChunkId": "f23f619700918ac500000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cylinder.uasset",
+			"ChunkId": "7607d982d08b414700000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Sphere.uasset",
+			"ChunkId": "4a782f60fcb4c26e00000001"
+		},
+		{
+			"Path": "Engine/Content/Maps/Entry.umap",
+			"ChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset",
+			"ChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset",
+			"ChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset",
+			"ChunkId": "c66b43ec76bfc59100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset",
+			"ChunkId": "635920dd8e97e89c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset",
+			"ChunkId": "81e5ad0aacfbd7d600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset",
+			"ChunkId": "ee735f95c6fe420100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset",
+			"ChunkId": "299f33e3d422c87c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset",
+			"ChunkId": "6bcf318dbf32160d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset",
+			"ChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset",
+			"ChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset",
+			"ChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset",
+			"ChunkId": "d77ff1320cafb8eb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset",
+			"ChunkId": "3c8fe56dcc4c94e400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset",
+			"ChunkId": "021da6225c7f517f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset",
+			"ChunkId": "2f97b476b27e825100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset",
+			"ChunkId": "81539c5da11600ae00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset",
+			"ChunkId": "8a3d5c4c771cc2b800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset",
+			"ChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset",
+			"ChunkId": "e2e0e65221e757ff00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset",
+			"ChunkId": "7d129f2ecdbade0a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset",
+			"ChunkId": "a1157adbe06ab91600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset",
+			"ChunkId": "0f013d461d34e71f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset",
+			"ChunkId": "1380a38fb2d9d09b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset",
+			"ChunkId": "ccfbf6fb8c94d52600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset",
+			"ChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset",
+			"ChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset",
+			"ChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset",
+			"ChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset",
+			"ChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset",
+			"ChunkId": "1b6c8e2dd045aecf00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset",
+			"ChunkId": "d23a4e7d2f47187c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset",
+			"ChunkId": "1d747f2667a6cc3e00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset",
+			"ChunkId": "d1e559d0e2302cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset",
+			"ChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset",
+			"ChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset",
+			"ChunkId": "5f0bb60d5aa9cbe000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset",
+			"ChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset",
+			"ChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset",
+			"ChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset",
+			"ChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset",
+			"ChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset",
+			"ChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset",
+			"ChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset",
+			"ChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset",
+			"ChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset",
+			"ChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset",
+			"ChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset",
+			"ChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset",
+			"ChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset",
+			"ChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset",
+			"ChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset",
+			"ChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset",
+			"ChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset",
+			"ChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Plane.uasset",
+			"ChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Path": "Engine/Content/BasicShapes/Cube.uasset",
+			"ChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
+			"ChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Levels/L_VisualNovel.umap",
+			"ChunkId": "9ec9b395d43d4bd800000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Levels/L_DisplayDay.umap",
+			"ChunkId": "58b8a51a4810531300000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset",
+			"ChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
+			"ChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
+			"ChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfo.uasset",
+			"ChunkId": "8a65709ce860880900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayII.uasset",
+			"ChunkId": "72f33e7d1d706ba900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayIII.uasset",
+			"ChunkId": "ed21cdb81215afd100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayIV.uasset",
+			"ChunkId": "5d58cf4183aaf9d100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayV.uasset",
+			"ChunkId": "e519b86e44bf1f6b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayVI.uasset",
+			"ChunkId": "cdd37bd0d0e8e7e500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/DataTables/DT_DialogueInfoDayVII.uasset",
+			"ChunkId": "3febe1e203151b3b00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/cloudsSequencePlayer_Video_Mat.uasset",
+			"ChunkId": "a2041f3077c5f29500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightBrownDissolveOutPlayer_Video_Mat.uasset",
+			"ChunkId": "759f0e7a322868e500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/streetLightYellowDissolveOutPlayer_Video_Mat.uasset",
+			"ChunkId": "000985256776dfc000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video_Mat.uasset",
+			"ChunkId": "59c956626cd59a7000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat.uasset",
+			"ChunkId": "ae84533277a2028900000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSmallTable/smallTableSequencePlayer_Video_Mat.uasset",
+			"ChunkId": "df8ce10e4f263ea200000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveSofa/SofaSequencePlayer_Video_Mat.uasset",
+			"ChunkId": "f43d8cf98b92755700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWifeSofa/WifeSofaPlayer_Video_Mat.uasset",
+			"ChunkId": "9ddb5c94d5e6780100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/DissolveWoman/DissolveWifePlayer_Video_Mat.uasset",
+			"ChunkId": "524eb712865ecd1a00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/IncreaseSpeedTransparent/speedSequencePlayer_Video_Mat.uasset",
+			"ChunkId": "1286a15bcc2a911000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Assets/VideoWidget/NewMediaPlayer_Video_Mat.uasset",
+			"ChunkId": "8cd3974cf8d31e5d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarFireLineArt/CarFirePlayer_Video_Mat.uasset",
+			"ChunkId": "03d3dcbfeda7ac8000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/Movies/CarMovingSequence/carmMovingPlayer_Video_Mat.uasset",
+			"ChunkId": "931857ae0a507bf500000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_End.uasset",
+			"ChunkId": "87f8ddd5703eda5e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_Epilogue.uasset",
+			"ChunkId": "b7722609ba8a333f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_onegai.uasset",
+			"ChunkId": "9e65f8191303ce7f00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_Prologue.uasset",
+			"ChunkId": "2e80ee0cf1c89c8e00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_Warning.uasset",
+			"ChunkId": "6784c0ef2829946600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
+			"ChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
+			"ChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/HUD_DisplayDay.uasset",
+			"ChunkId": "2f2bf1ab701dfc1700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQSubmixDefault.uasset",
+			"ChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbSubmixDefault.uasset",
+			"ChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterSubmixDefault.uasset",
+			"ChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_VII/HUD_DialogueDayVII.uasset",
+			"ChunkId": "bd8d7e2b3544134700000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_VI/HUD_DialogueDayVI.uasset",
+			"ChunkId": "97f7fc8afb46b83c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_V/HUD_DialogueDayV.uasset",
+			"ChunkId": "59c35ca2e56c6ec000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_IV/HUD_DialogueDayIV.uasset",
+			"ChunkId": "c372c8981884e1eb00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_III/HUD_DialogueDayIII.uasset",
+			"ChunkId": "ed1bcacfe6d84c1600000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_II/HUD_DialogueDayII.uasset",
+			"ChunkId": "a5c03afe1af4cc5c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/Game/BP_GameMode.uasset",
+			"ChunkId": "b68598545ddddb5000000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/BPI/BPI_GameModeRef.uasset",
+			"ChunkId": "0442ec0e1477396c00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_I/HUD_Dialogue.uasset",
+			"ChunkId": "87d7328c38fe0f9d00000001"
+		},
+		{
+			"Path": "yameroUnreal/Content/BP/HUD/Day_I/HUD_ChoiceButton.uasset",
+			"ChunkId": "fb2dd8d6836adde500000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/ControlRig/Controls/ControlRigGizmoMaterial",
+			"PackageChunkId": "90442f10ca8d9eb700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BlueNoise",
+			"PackageChunkId": "1439d3a2f78315bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugEditorMaterial",
+			"PackageChunkId": "7045cf1b55a1317500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Master",
+			"PackageChunkId": "e670df8e769d382e00000001"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/CoreParameters",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/LightRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/MeshRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/RibbonRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Niagara/ParameterDefinitions/SpriteRenderer",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial",
+			"PackageChunkId": "f324387808549ca400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
+			"PackageChunkId": "86f514aa5cdc08e700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/GizmoMaterial",
+			"PackageChunkId": "4f766dcdfcc10abc00000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
+			"PackageChunkId": "d9ef76f15dcbda9d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
+			"PackageChunkId": "f0a7f83421ac425b00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components",
+			"PackageChunkId": "46086b4f1af4594b00000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Materials/MoviePipeline_StencilCutout",
+			"PackageChunkId": "ff4b2fc7896fb1f200000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/DroidSansMono",
+			"PackageChunkId": "e563b896e4821bdd00000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Blueprints/UI_MovieRenderPipelineInfoTableRow",
+			"PackageChunkId": "f8216d2ca1fbf67a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector",
+			"PackageChunkId": "5f510b7cd6e0bdc800000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard",
+			"PackageChunkId": "8fcb1cae0c92026900000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWind",
+			"PackageChunkId": "11e16642d5df4eca00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing",
+			"PackageChunkId": "a8a408dbac6bb61700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackInteger3",
+			"PackageChunkId": "7b967f8ff09764ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/UnpackDirection",
+			"PackageChunkId": "931f8593c76b1a3700000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion",
+			"PackageChunkId": "3bd77c49df92ee7b00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion",
+			"PackageChunkId": "bb0c9910913c4acc00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength",
+			"PackageChunkId": "3f4f90b51972562400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize",
+			"PackageChunkId": "b2e55f36209c19b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
+			"PackageChunkId": "8d4486caf50605b200000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset",
+			"PackageChunkId": "84ee12d7bc5f5a8000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/DefaultGizmoLibraryNormalized",
+			"PackageChunkId": "c1ceadea19a929af00000001"
+		},
+		{
+			"Name": "/Engine/Tutorial/ContentIntroCurve",
+			"PackageChunkId": "3cf25e9da31d4f2a00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairMeshesDefaultMaterial",
+			"PackageChunkId": "a325708448a8980800000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairCardsDefaultMaterial",
+			"PackageChunkId": "a257a4a1759b7c6d00000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDefaultMaterial",
+			"PackageChunkId": "7bae9d93c88ae44900000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoRegular",
+			"PackageChunkId": "5ba734afa75fb33c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoLight",
+			"PackageChunkId": "0668993fb5b5811c00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoItalic",
+			"PackageChunkId": "6ef7eb5c150af73a00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBoldItalic",
+			"PackageChunkId": "0fcbf7e6705a3afe00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/RobotoBold",
+			"PackageChunkId": "368e94bf2073b74d00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/game_wind_noise",
+			"PackageChunkId": "27d3dbbd9cb5875a00000001",
+			"BulkDataChunkIds": [
+				"27d3dbbd9cb5875a00000002"
+			]
+		},
+		{
+			"Name": "/Paper2D/PlaceholderTextures/DummySpriteTexture",
+			"PackageChunkId": "2cc5808063f890db00000001",
+			"BulkDataChunkIds": [
+				"2cc5808063f890db00000002"
+			]
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Textures/127grey",
+			"PackageChunkId": "572d1a645b023a8100000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/VolumeToRender",
+			"PackageChunkId": "7f8259be57e87dce00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture",
+			"PackageChunkId": "b60fa590a5fe4d6f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap",
+			"PackageChunkId": "c18dd883a0c55c8b00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000",
+			"PackageChunkId": "ad84bf334b97e1af00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBloomKernel",
+			"PackageChunkId": "cbab6b01dd8b7ffe00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid",
+			"PackageChunkId": "624f937426db20c500000001",
+			"BulkDataChunkIds": [
+				"624f937426db20c500000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
+			"PackageChunkId": "4077f21c1acd58d500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/MiniFont",
+			"PackageChunkId": "58ac407f95ae164b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
+			"PackageChunkId": "b60efe12572543e800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultBokeh",
+			"PackageChunkId": "65401b411493477b00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
+			"PackageChunkId": "1c3a80931d7381bf00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT",
+			"PackageChunkId": "4eefe050ec0582d800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenNormalMap_VT",
+			"PackageChunkId": "28ed83b8029dd22900000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor_VT",
+			"PackageChunkId": "c599b991259f3dc100000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT",
+			"PackageChunkId": "0219c3161c6d6eb200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT",
+			"PackageChunkId": "d77ca907bf9be46e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT",
+			"PackageChunkId": "adba4404ca6448ad00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenLinearColor",
+			"PackageChunkId": "768633666781f70600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenGrayscaleMap",
+			"PackageChunkId": "2563b8e7aff6d26e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenEmissiveMap",
+			"PackageChunkId": "7ba7b2b1aeafb4cc00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/BaseFlattenDiffuseMap",
+			"PackageChunkId": "641c8321450e97f400000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/InvalidLightmapSettings",
+			"PackageChunkId": "cdb6f2e8065df7c100000001",
+			"BulkDataChunkIds": [
+				"cdb6f2e8065df7c100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultWhiteGrid_Low",
+			"PackageChunkId": "8500a33b2fedbab800000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/EmptyNormal",
+			"PackageChunkId": "6f3a7c0fe1cf64ce00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/Empty",
+			"PackageChunkId": "efd3b99beb745ea100000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Faces/DroidSansFallback",
+			"PackageChunkId": "a9e44eb998f07d0800000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+			"PackageChunkId": "a06a91154845992200000001"
+		},
+		{
+			"Name": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
+			"PackageChunkId": "79688f0e793acea100000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4",
+			"PackageChunkId": "0ccdb42a00235ca400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3",
+			"PackageChunkId": "3f9ae4ae5e9a10b000000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components",
+			"PackageChunkId": "7276d40fd50dba5900000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairGroupColors",
+			"PackageChunkId": "55c5d73fec0135d200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairDebugColor",
+			"PackageChunkId": "8efe6173efa8192200000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/HairColorMap",
+			"PackageChunkId": "2c913f2705b478d900000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2",
+			"PackageChunkId": "a29fb34f83f7d31a00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
+			"PackageChunkId": "94d5e4cbc0f4380c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
+			"PackageChunkId": "0125e0852ce3d3e700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
+			"PackageChunkId": "6a3b7a697242e13400000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
+			"PackageChunkId": "6752d9e62e6e395700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
+			"PackageChunkId": "474711309ee6ba8900000001"
+		},
+		{
+			"Name": "/Engine/EngineMeshes/Sphere",
+			"PackageChunkId": "f421d8f857b9ed0300000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry_BuiltData",
+			"PackageChunkId": "f95ade32d57ba98c00000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue1",
+			"PackageChunkId": "75562fc863403bc100000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/RobotoDistanceField",
+			"PackageChunkId": "52a5c49a743a12b500000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture2D",
+			"PackageChunkId": "6c54e7f6d4ea912200000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseShape64",
+			"PackageChunkId": "a996adcfa357ed2d00000001",
+			"BulkDataChunkIds": [
+				"a996adcfa357ed2d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64",
+			"PackageChunkId": "730711032edb546300000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_NoiseErosion",
+			"PackageChunkId": "92d47df83dccf7d800000001",
+			"BulkDataChunkIds": [
+				"92d47df83dccf7d800000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32",
+			"PackageChunkId": "e21a9990b0ff22d600000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture",
+			"PackageChunkId": "b3b465c34fc83f8e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
+			"PackageChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDiffuse",
+			"PackageChunkId": "7539f12095a3f0d100000001",
+			"BulkDataChunkIds": [
+				"7539f12095a3f0d100000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
+			"PackageChunkId": "7a7173cfb4095b9f00000001",
+			"BulkDataChunkIds": [
+				"7a7173cfb4095b9f00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
+			"PackageChunkId": "b743bdd5e5df72a400000001",
+			"BulkDataChunkIds": [
+				"b743bdd5e5df72a400000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultVolumeTexture",
+			"PackageChunkId": "e6291a81a77661e900000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTextureCube",
+			"PackageChunkId": "3e6f2bc6739d380300000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/DefaultTexture",
+			"PackageChunkId": "6baf53cf79c0948b00000001",
+			"BulkDataChunkIds": [
+				"6baf53cf79c0948b00000002"
+			]
+		},
+		{
+			"Name": "/Engine/EngineResources/Black",
+			"PackageChunkId": "cda0cf6115260c9400000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/GradientTexture0",
+			"PackageChunkId": "f87a01e7b138538a00000001"
+		},
+		{
+			"Name": "/Engine/EngineResources/WhiteSquareTexture",
+			"PackageChunkId": "b85ee5fd59f4dd2000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_ChoicesGridPanel",
+			"PackageChunkId": "7d0674230c569e5e00000001"
+		},
+		{
+			"Name": "/Game/Enums/E_CharacterNames",
+			"PackageChunkId": "cd547f6fc65c2f2400000001"
+		},
+		{
+			"Name": "/Game/Enums/E_CharacterSettings",
+			"PackageChunkId": "53280a2d35a5a73f00000001"
+		},
+		{
+			"Name": "/Game/Enums/E_ChoicesAmount",
+			"PackageChunkId": "f19dc530d3c93bc700000001"
+		},
+		{
+			"Name": "/Game/Enums/E_DialogueState",
+			"PackageChunkId": "3092dd28d09278be00000001"
+		},
+		{
+			"Name": "/Game/Enums/E_VisualFX",
+			"PackageChunkId": "6168cd9c00f3ede000000001"
+		},
+		{
+			"Name": "/Game/Movies/cloudsSequence",
+			"PackageChunkId": "fcc4d334cd2139e900000001"
+		},
+		{
+			"Name": "/Game/Movies/cloudsSequencePlayer",
+			"PackageChunkId": "1d7c195c777f3bf300000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightBrownDissolveIn",
+			"PackageChunkId": "0f68a91d234fab4400000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightBrownDissolveOut",
+			"PackageChunkId": "46af002412351cb100000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightBrownDissolveOutPlayer",
+			"PackageChunkId": "94eb34f412849ac700000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightYellowDissolveInSequence",
+			"PackageChunkId": "b266034178e18e9100000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightYellowDissolveOut",
+			"PackageChunkId": "d6f0568e3e1c971d00000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightYellowDissolveOutPlayer",
+			"PackageChunkId": "d3ee18b95fff113600000001"
+		},
+		{
+			"Name": "/Game/Movies/transparent",
+			"PackageChunkId": "19d788f0758adae100000001"
+		},
+		{
+			"Name": "/Game/Movies/turnOffSequence",
+			"PackageChunkId": "722b047f105c314700000001"
+		},
+		{
+			"Name": "/Game/Movies/turnOnSequence",
+			"PackageChunkId": "9862e631630014ce00000001"
+		},
+		{
+			"Name": "/Game/Movies/BreakingGlassSequence/GlassBreaking",
+			"PackageChunkId": "674f76740d37d8e500000001"
+		},
+		{
+			"Name": "/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer",
+			"PackageChunkId": "5f36b15fe58f0d9100000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveBookshelf/BookshelfSequence",
+			"PackageChunkId": "73fd933102ac3cad00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveBookshelf/BookshelfSequencePlayer",
+			"PackageChunkId": "417bf9e5c669eb7f00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSmallTable/smallTableSequence",
+			"PackageChunkId": "1cfaa4c97c3d3cd700000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSmallTable/smallTableSequencePlayer",
+			"PackageChunkId": "55bf4ea7ffc521e500000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSofa/SofaSequence",
+			"PackageChunkId": "3afa40b6c5afd76100000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSofa/SofaSequencePlayer",
+			"PackageChunkId": "5fbddd5ef197edcd00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWifeSofa/WifeSofaPlayer",
+			"PackageChunkId": "40c2bd00806fbac500000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWifeSofa/WifeSofaSequence",
+			"PackageChunkId": "f1d68b47407b954a00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWoman/DissolveWifePlayer",
+			"PackageChunkId": "397ad7b234d44feb00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWoman/DissolveWifeSequence",
+			"PackageChunkId": "ff2393152563e02900000001"
+		},
+		{
+			"Name": "/Game/Movies/IncreaseSpeedTransparent/speedSequence",
+			"PackageChunkId": "1be5be20bfaaffaf00000001"
+		},
+		{
+			"Name": "/Game/Movies/IncreaseSpeedTransparent/speedSequencePlayer",
+			"PackageChunkId": "9076a6ddcb6b8fd200000001"
+		},
+		{
+			"Name": "/Game/Assets/VideoWidget/NewMediaPlayer",
+			"PackageChunkId": "33c28a55016f9d9f00000001"
+		},
+		{
+			"Name": "/Game/Movies/background",
+			"PackageChunkId": "999b5a54f1e168aa00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/flower_paint",
+			"PackageChunkId": "99c128043efa772400000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue4",
+			"PackageChunkId": "de64c54d8fb8ab4700000001"
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Skip",
+			"PackageChunkId": "3d3f7ec277f96c6c00000001",
+			"BulkDataChunkIds": [
+				"3d3f7ec277f96c6c00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_1",
+			"PackageChunkId": "4081b6b84077ba2a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_Normal",
+			"PackageChunkId": "e378eb8a0ae34c8900000001"
+		},
+		{
+			"Name": "/Game/Assets/HUD/dissolveYellowLight0001",
+			"PackageChunkId": "e0c72b9da614d33000000001"
+		},
+		{
+			"Name": "/Game/Assets/HUD/HUD_text",
+			"PackageChunkId": "fa128e84be60ab2a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Music/SW_Music",
+			"PackageChunkId": "9332dfaea0a4254500000001",
+			"BulkDataChunkIds": [
+				"9332dfaea0a4254500000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_BG",
+			"PackageChunkId": "d1a2908b734adf9900000001",
+			"BulkDataChunkIds": [
+				"d1a2908b734adf9900000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Choices",
+			"PackageChunkId": "fab434990a0e3b0900000001",
+			"BulkDataChunkIds": [
+				"fab434990a0e3b0900000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_HighPitch",
+			"PackageChunkId": "d8f81dee29142e2100000001",
+			"BulkDataChunkIds": [
+				"d8f81dee29142e2100000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_LowPitch",
+			"PackageChunkId": "844363dfec1171b400000001",
+			"BulkDataChunkIds": [
+				"844363dfec1171b400000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/black",
+			"PackageChunkId": "a4956918afe0741800000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/flower_line_art_paint",
+			"PackageChunkId": "902723976778ea9e00000001"
+		},
+		{
+			"Name": "/Game/Movies/CarFireLineArt/CarFirePlayer",
+			"PackageChunkId": "a1adbf9c978e007a00000001"
+		},
+		{
+			"Name": "/Game/Movies/CarFireLineArt/CarFireSequence",
+			"PackageChunkId": "ddf2058528586a7000000001"
+		},
+		{
+			"Name": "/Game/Movies/CarMovingSequence/carmMoving",
+			"PackageChunkId": "301d2e51a87f593400000001"
+		},
+		{
+			"Name": "/Game/Movies/CarMovingSequence/carmMovingPlayer",
+			"PackageChunkId": "a92f4c8d21ea36f200000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-Bold",
+			"PackageChunkId": "4ad838d725b9ce1b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-Light",
+			"PackageChunkId": "c75b7618884a522500000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/Robecha_Daniera-Regular",
+			"PackageChunkId": "a8b72da1b6c37bd500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_13",
+			"PackageChunkId": "d966df24d49f7ee800000001"
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Key4",
+			"PackageChunkId": "2f7115b25496034300000001",
+			"BulkDataChunkIds": [
+				"2f7115b25496034300000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Key5",
+			"PackageChunkId": "803f67da4f60a82a00000001",
+			"BulkDataChunkIds": [
+				"803f67da4f60a82a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan9",
+			"PackageChunkId": "53e6e25a1003616900000001"
+		},
+		{
+			"Name": "/Game/Assets/PEGI/bad-language-black-EN",
+			"PackageChunkId": "800a7e1e141a493500000001"
+		},
+		{
+			"Name": "/Game/Assets/PEGI/pegi18",
+			"PackageChunkId": "fc7e4785e7f47dd100000001"
+		},
+		{
+			"Name": "/Game/Assets/PEGI/violence-black-EN",
+			"PackageChunkId": "052eb271de8ce4a900000001"
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Key1",
+			"PackageChunkId": "9ebe0bccc091423b00000001",
+			"BulkDataChunkIds": [
+				"9ebe0bccc091423b00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Key2",
+			"PackageChunkId": "7bcfbc6b06c2f64a00000001",
+			"BulkDataChunkIds": [
+				"7bcfbc6b06c2f64a00000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/SFX/SW_Key3",
+			"PackageChunkId": "822ebad2fb94490400000001",
+			"BulkDataChunkIds": [
+				"822ebad2fb94490400000002"
+			]
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayI_2nd_paint",
+			"PackageChunkId": "42668089f155343a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayI_3rd_paint",
+			"PackageChunkId": "4b65619e3522eb5300000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_zoom_in_lilium_paint",
+			"PackageChunkId": "387bcc5e2223fcdb00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_zoom_in_paint",
+			"PackageChunkId": "a3fb7dee5444717300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_2",
+			"PackageChunkId": "61a815a7ca1e793a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_3",
+			"PackageChunkId": "a20d2a289f41ea9f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_4",
+			"PackageChunkId": "5954aa5f29a643ae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_5",
+			"PackageChunkId": "1a0323dfcdac99e800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_6",
+			"PackageChunkId": "b5755116b595e87100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_7",
+			"PackageChunkId": "2e3a06d1ae506b6100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_8",
+			"PackageChunkId": "c9f175cd8da9d9c100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_9",
+			"PackageChunkId": "b8647a70063bba4100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_10",
+			"PackageChunkId": "59c733b419ef30af00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_11",
+			"PackageChunkId": "e7d0dc12ab3beccd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_12",
+			"PackageChunkId": "0031f90686c78b7800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_14",
+			"PackageChunkId": "b360e95c6008208800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_15",
+			"PackageChunkId": "abdac3519e55c4f200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_16",
+			"PackageChunkId": "1df9f7e7b1bcf5c900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_17",
+			"PackageChunkId": "ac3b1a140ac2613900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_18",
+			"PackageChunkId": "d39de5024bdcb25600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_19",
+			"PackageChunkId": "5fef8dbd8705f42900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_20",
+			"PackageChunkId": "1a8570c409cb887000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_21",
+			"PackageChunkId": "328df3c36f4763d000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_22",
+			"PackageChunkId": "9c42382a7924179d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_23",
+			"PackageChunkId": "9ac59f9552b8a5c100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_24",
+			"PackageChunkId": "b8a47c11fefd80f100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_25",
+			"PackageChunkId": "0419f04cbfe2d83e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_26",
+			"PackageChunkId": "543bb7fa06ef8f8f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_27",
+			"PackageChunkId": "ebd46fc68bc4e1f600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_28",
+			"PackageChunkId": "362cd2f958ca033800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_30",
+			"PackageChunkId": "efa7dfdfe5ac30dd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_31",
+			"PackageChunkId": "64d52768fbdbd81500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_6",
+			"PackageChunkId": "4dfaa3a359ff7a4200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Flourist/Flourist_29",
+			"PackageChunkId": "e3cb59a8416a6eb100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Lass/Lass01",
+			"PackageChunkId": "038af583ce8cf8a100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/ManHood/ManHood_1",
+			"PackageChunkId": "1b2c9242df5fb59500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/ManHood/ManHood_2",
+			"PackageChunkId": "f6cd30210bec96d900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/ManHood/ManHood_3",
+			"PackageChunkId": "3f958eeb6cc23d3800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_1",
+			"PackageChunkId": "5b52db890771ac2c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_2",
+			"PackageChunkId": "b6225d6a1dc460b300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_3",
+			"PackageChunkId": "e6a85500615f80d200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_4",
+			"PackageChunkId": "cc70dd0c4237effe00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/oldMan_1",
+			"PackageChunkId": "95c4d524d8c3025f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_2",
+			"PackageChunkId": "9446864f2f269e5700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_3",
+			"PackageChunkId": "997dbb561e7bee0300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_4",
+			"PackageChunkId": "1a23682b87c0dc1000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_5",
+			"PackageChunkId": "81b832aed5c022a800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_8",
+			"PackageChunkId": "528e5decf29a2bb000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_9",
+			"PackageChunkId": "f1c55326e25179bd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_10",
+			"PackageChunkId": "3aecaca54d71424800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_11",
+			"PackageChunkId": "3ec6f665d325a68d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_13",
+			"PackageChunkId": "4c6ca1ff0988428d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_14",
+			"PackageChunkId": "e7f18b2ad05a0cec00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_15",
+			"PackageChunkId": "c5e6ee0e273f882a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_16",
+			"PackageChunkId": "323140e61ba0e75900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_17",
+			"PackageChunkId": "6f012d8c520f70b100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_18",
+			"PackageChunkId": "51c2cb352fa0baf400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_19",
+			"PackageChunkId": "eb0a02aa06b81d0500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldman_20",
+			"PackageChunkId": "9bc5c187b6738b2600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldman_21",
+			"PackageChunkId": "9cdf2721df89747300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_AngryYelling",
+			"PackageChunkId": "8fa7971a424fc8b600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_Sad",
+			"PackageChunkId": "3f5adce61112ed2900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_2",
+			"PackageChunkId": "a1e7081b0df61d9d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman5",
+			"PackageChunkId": "ca1743caccca0fac00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_LipFunnel",
+			"PackageChunkId": "0fd5cbb90a322ee500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_1",
+			"PackageChunkId": "348d5a63955266b000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_2",
+			"PackageChunkId": "f97569647b5161de00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_3",
+			"PackageChunkId": "1834dff6d804ff2c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_4",
+			"PackageChunkId": "0dd076394605543000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_5",
+			"PackageChunkId": "f15f02b91eb7da7700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_6",
+			"PackageChunkId": "0261e4559b729dbf00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_7",
+			"PackageChunkId": "7fac76225df533b900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_8",
+			"PackageChunkId": "6096b5d2aa9b571f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_9",
+			"PackageChunkId": "47f7c8a2a82de41400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_10",
+			"PackageChunkId": "3e54db99c171360900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_11",
+			"PackageChunkId": "8e5b6f3b38083dd300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_12",
+			"PackageChunkId": "bc5bfb6b3187298400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_13",
+			"PackageChunkId": "79cfc8d917d9c5bf00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_14",
+			"PackageChunkId": "ea35ab53c268935400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_15",
+			"PackageChunkId": "e33d65971343e1d400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_16",
+			"PackageChunkId": "fc1fbc71ff1bc3cd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_17",
+			"PackageChunkId": "7bd69e772420a50b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_18",
+			"PackageChunkId": "c41d92313584f2ff00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_19",
+			"PackageChunkId": "1be001c8361c780500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_20",
+			"PackageChunkId": "3d3a5b36aaec815800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_22",
+			"PackageChunkId": "24aab503dcf0777300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_23",
+			"PackageChunkId": "1e0cbaf4545445d700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_24",
+			"PackageChunkId": "2e7f94a433d0f9a300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_25",
+			"PackageChunkId": "c8fa3ea3fc015bc100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_26",
+			"PackageChunkId": "824552cffef2ea0100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman1",
+			"PackageChunkId": "0558f5ca936e2d3f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman10",
+			"PackageChunkId": "755a654d3ea8b6a700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman11",
+			"PackageChunkId": "ae58c80aef4d169700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman2",
+			"PackageChunkId": "0a96354b8bb64dde00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman3",
+			"PackageChunkId": "55832cbf768d496c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman4",
+			"PackageChunkId": "d1462decb4c3e13500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman6",
+			"PackageChunkId": "a7f2b3a3a4ebf0e600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman7",
+			"PackageChunkId": "52f1a33c6589a56a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman8",
+			"PackageChunkId": "bd859f71795471e900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Policeman/policeman9",
+			"PackageChunkId": "b10a1c3381b8834400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Teen/Teen1",
+			"PackageChunkId": "0b2baa6918bdce6000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Teen/Teen2",
+			"PackageChunkId": "cc014071503415e600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Teen/Teen3",
+			"PackageChunkId": "7567147ee7d38b1500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_1",
+			"PackageChunkId": "a2309ca128bbb82600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_4",
+			"PackageChunkId": "d1cf2d4960a246cd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_5",
+			"PackageChunkId": "c841fc8da91e85a900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_6",
+			"PackageChunkId": "a294d3adeb3cbcd300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_8",
+			"PackageChunkId": "a3632ec45dfb39fb00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_9",
+			"PackageChunkId": "da13f62874731c4d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_2",
+			"PackageChunkId": "dbd43c3c6d2effb100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_5",
+			"PackageChunkId": "ff2cc8af55e408dd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_3",
+			"PackageChunkId": "84786dde131dd8ec00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_7",
+			"PackageChunkId": "5b723cb607f1986100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_10",
+			"PackageChunkId": "fc36cde78512e30800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_11",
+			"PackageChunkId": "a68104335ae7923600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_12",
+			"PackageChunkId": "e4a94ee22fe6496100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_13",
+			"PackageChunkId": "fd07e822a716fdd200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_14",
+			"PackageChunkId": "db6193186d131f7b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/triplets_15",
+			"PackageChunkId": "edfb14963ba2954c00000001"
+		},
+		{
+			"Name": "/Game/Assets/textures/Sprites/T_Girl01_Angry",
+			"PackageChunkId": "085868fe8bed29e900000001"
+		},
+		{
+			"Name": "/Game/Assets/textures/Sprites/T_Girl01_Normal",
+			"PackageChunkId": "c8c746349755f9ab00000001"
+		},
+		{
+			"Name": "/Game/Assets/textures/Sprites/T_Girl02_Shocked",
+			"PackageChunkId": "21f3100b84896f8900000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_1st_paint",
+			"PackageChunkId": "6bebc27836ae14da00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_2nd_paint",
+			"PackageChunkId": "4d4ece02badfa74d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_3rd_paint",
+			"PackageChunkId": "813264bcd86d654000000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_4th_paint",
+			"PackageChunkId": "0ab574649640bff900000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_5th_paint",
+			"PackageChunkId": "c1dbda7d8ec67e1700000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_7th_paint",
+			"PackageChunkId": "6220878a43bb907600000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_flashback_paint",
+			"PackageChunkId": "eadbeaeba9dcfb7b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_treadmill_1st_paint",
+			"PackageChunkId": "bebe9250b5a78b3400000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_treadmill_2nd_paint",
+			"PackageChunkId": "b2e6e04e38f79ec900000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_treadmill_3rd_paint",
+			"PackageChunkId": "51e86b6f628220f400000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayII_zoom_in_lighter_paint",
+			"PackageChunkId": "4a201453bb8bb42500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_1",
+			"PackageChunkId": "ccdfe2a7e878311300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_2",
+			"PackageChunkId": "03b22fa0b64c1dbc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_3",
+			"PackageChunkId": "37ea5ad44030e8d300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayII/FlouristsSonDayII_4",
+			"PackageChunkId": "8ec95d02354b412800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_5",
+			"PackageChunkId": "6dfe489b61ebd0bc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_6",
+			"PackageChunkId": "c25a622bfe5abfaf00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldLady/oldLady_7",
+			"PackageChunkId": "3e3656efabbeaa8c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_1",
+			"PackageChunkId": "0b8057f0231260e400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_7",
+			"PackageChunkId": "45c98101e913f9a100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldMan/oldMan_12",
+			"PackageChunkId": "ca40f30a35fb3c0d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_21",
+			"PackageChunkId": "19d45f896caf69df00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_27",
+			"PackageChunkId": "fdf4e14d5a6c9f9700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_28",
+			"PackageChunkId": "22bdf99f3c4c51d400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_29",
+			"PackageChunkId": "e781fc8b82636d7f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_30",
+			"PackageChunkId": "eca756948f1e706400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_32",
+			"PackageChunkId": "116bd4099c6f092d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_33",
+			"PackageChunkId": "27ae0f347d00a4ef00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManDayI/oldMan_dayI_35",
+			"PackageChunkId": "b79d8274f542626a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_1",
+			"PackageChunkId": "a2bb90932d4aaa7500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_3",
+			"PackageChunkId": "ee7e8bb1eaa660dd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_4",
+			"PackageChunkId": "2ff9d759b9f5695600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_5",
+			"PackageChunkId": "7496be215b96f97800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_6",
+			"PackageChunkId": "c034eba169b31b9200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_7",
+			"PackageChunkId": "f8219c3e44dc23ee00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_8",
+			"PackageChunkId": "c7f79e3e1b7084ed00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_8",
+			"PackageChunkId": "40408e12c679abeb00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_34",
+			"PackageChunkId": "41f507b6bf022acc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_9",
+			"PackageChunkId": "929512420304650700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Servant/Servant_11",
+			"PackageChunkId": "2cb1314ecf15c50300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Teacher/Teacher",
+			"PackageChunkId": "9d441f7d109e983e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Teacher/Teacher1",
+			"PackageChunkId": "3f335c00362a98c400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_1",
+			"PackageChunkId": "1e08fe41aa15a4d800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_4",
+			"PackageChunkId": "cb73fe6f18a250b000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_5",
+			"PackageChunkId": "a70af28dc6eaf9ae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_6",
+			"PackageChunkId": "8858af350a6565a500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_7",
+			"PackageChunkId": "71fa52102ae99ebd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_10",
+			"PackageChunkId": "372fd06be37e42fa00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung3",
+			"PackageChunkId": "f04ad818bf019be100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_26",
+			"PackageChunkId": "c40410203d0fa23a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_27",
+			"PackageChunkId": "b65fb06ae8ed505e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_28",
+			"PackageChunkId": "4a77393fca410ec400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_29",
+			"PackageChunkId": "ab5f35f306a877fe00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_30",
+			"PackageChunkId": "33688a3cf40b188300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_31",
+			"PackageChunkId": "b68117f674f8d4c500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_32",
+			"PackageChunkId": "a058b87e3830fbd100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_33",
+			"PackageChunkId": "b7c99bd9cdb2678b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_9",
+			"PackageChunkId": "2b9450a54323a7ba00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_11",
+			"PackageChunkId": "27dc8d38f6cdeea100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_12",
+			"PackageChunkId": "b12d97a1419b452300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_15",
+			"PackageChunkId": "c3b6f4d806f522da00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_16",
+			"PackageChunkId": "d6e0ca54451e989f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_17",
+			"PackageChunkId": "214004055f2e4d2d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_18",
+			"PackageChunkId": "605cbab72b1552dc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_19",
+			"PackageChunkId": "ff10d2ac1471a7c200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_20",
+			"PackageChunkId": "886c30a039ec8e8000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_21",
+			"PackageChunkId": "77ab1e02714c37d800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_22",
+			"PackageChunkId": "3fd53eb05da3744100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_23",
+			"PackageChunkId": "8ece83ebe73ab19200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_24",
+			"PackageChunkId": "2cf5811212d412b400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_25",
+			"PackageChunkId": "0a63f788155b15c900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_35",
+			"PackageChunkId": "6c53b11d4584a1aa00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_36",
+			"PackageChunkId": "7fdf6dedc8362ace00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_37",
+			"PackageChunkId": "6a799557568daa2a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_38",
+			"PackageChunkId": "6438b6fa906e894700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_39",
+			"PackageChunkId": "607cf8d9022f08b700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_40",
+			"PackageChunkId": "713f3968eef2bfb300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_41",
+			"PackageChunkId": "170cbcc96958017100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_42",
+			"PackageChunkId": "d02b2a8c330318ae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_43",
+			"PackageChunkId": "74140fccb9b5315c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_44",
+			"PackageChunkId": "b15630ae799b799e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_45",
+			"PackageChunkId": "aa31f71a9aad33d800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/TeenageGirl/TeenageGirl_46",
+			"PackageChunkId": "e288f70afc35cad000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/Triplets/characters_default",
+			"PackageChunkId": "8830f303bbaee88600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung1",
+			"PackageChunkId": "3a5b0fc4e43f310200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung2",
+			"PackageChunkId": "7dd035937f36909c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung5",
+			"PackageChunkId": "f17242e41fe44a7500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung6",
+			"PackageChunkId": "55a3f6f1e88812f500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung_flower_1",
+			"PackageChunkId": "a7f787ef06ac32c600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung_flower_5",
+			"PackageChunkId": "d9e5e1df6963798300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung_flower_6",
+			"PackageChunkId": "e17e4f8e6228854100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan1",
+			"PackageChunkId": "9bc5e95642f5053000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan2",
+			"PackageChunkId": "953d0a12d1ba274e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan4",
+			"PackageChunkId": "e6389e3ef8d3692800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan5",
+			"PackageChunkId": "94cf655a2da3a8da00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan6",
+			"PackageChunkId": "7594aa84abbdc88d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YoungOldMan/YoungOldMan7",
+			"PackageChunkId": "da83fa7d18f2b3f200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_16",
+			"PackageChunkId": "6dfa82059654728200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_Normal",
+			"PackageChunkId": "f2a6400c5df76c6c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_13",
+			"PackageChunkId": "f6e7419edcea643e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_3rd_paint",
+			"PackageChunkId": "11bbed1d6017a0b400000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_treadmill_1st_paint",
+			"PackageChunkId": "2a2024a5d53ea4f100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/WifeYoung/wifeYoung4",
+			"PackageChunkId": "3e7766617a71176f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_1st_paint",
+			"PackageChunkId": "b1d449a223a4ea2f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_2nd_paint",
+			"PackageChunkId": "5cb9edbeed95ec1a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_treadmill_2nd_paint",
+			"PackageChunkId": "0381da0e9ec192ef00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_zoon_in_flower_paint",
+			"PackageChunkId": "1eb7ac9dad5bd7ae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayIII_zoon_in_paint",
+			"PackageChunkId": "463441f3c54bccca00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_1",
+			"PackageChunkId": "9350da4fd7c8b5ed00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_2",
+			"PackageChunkId": "331b344a931f131200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_3",
+			"PackageChunkId": "171797df8b173f7600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_4",
+			"PackageChunkId": "a81c3a91acfa379100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_5",
+			"PackageChunkId": "7f3416c2ce41bec900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_6",
+			"PackageChunkId": "c400ac9c361330d800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_7",
+			"PackageChunkId": "c32e52781972a6cb00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_8",
+			"PackageChunkId": "355d800324d122b000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_9",
+			"PackageChunkId": "4428154cd8c6e40800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_10",
+			"PackageChunkId": "f35cacaf298c0c2400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_11",
+			"PackageChunkId": "2ec541f206f96aa600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_12",
+			"PackageChunkId": "f4cc051c3a81712500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_14",
+			"PackageChunkId": "cfca395738e3460100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_15",
+			"PackageChunkId": "fcdd86f49823d73000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_16",
+			"PackageChunkId": "8ca9f874446adfff00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_17",
+			"PackageChunkId": "0636010426446a9500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_18",
+			"PackageChunkId": "87577626f6843d3800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_19",
+			"PackageChunkId": "992694957c9f45df00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_20",
+			"PackageChunkId": "29f5ab67beb3953c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_21",
+			"PackageChunkId": "ad198c513eb6f57d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_22",
+			"PackageChunkId": "181041c921c2cf7a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_23",
+			"PackageChunkId": "6f8b0b9230776a0800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_24",
+			"PackageChunkId": "68a7741a53d715a400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_25",
+			"PackageChunkId": "128d358e261df6e200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_26",
+			"PackageChunkId": "d9f5b1de4a5d28a200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_27",
+			"PackageChunkId": "5d5890b9058749a500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/AthleticMan_28",
+			"PackageChunkId": "5548a234707a39d900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_1",
+			"PackageChunkId": "9eec711955cf7a3b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_2",
+			"PackageChunkId": "10911eddcecebb7300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_3",
+			"PackageChunkId": "9457ba9328273a5600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_4",
+			"PackageChunkId": "1a347d675336554000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_5",
+			"PackageChunkId": "7c071dfacaa9163400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_6",
+			"PackageChunkId": "d563e49653ab707700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_7",
+			"PackageChunkId": "dab1fb1264d4721500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_8",
+			"PackageChunkId": "d8fe1ac0aebb4d8400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_9",
+			"PackageChunkId": "4481c88e8ed153fc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_10",
+			"PackageChunkId": "e112f206797d8ab400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_11",
+			"PackageChunkId": "b860eeb50c61128200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_12",
+			"PackageChunkId": "b1e362ac99b4ca9c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_13",
+			"PackageChunkId": "22ce269f79cef7b400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_14",
+			"PackageChunkId": "cf5a1b69e6cc8c5d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_15",
+			"PackageChunkId": "37b11bd2923e27b700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_17",
+			"PackageChunkId": "5a37ccce4ea50ca200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_19",
+			"PackageChunkId": "6156a5adbf5776c700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_20",
+			"PackageChunkId": "b2d5bc6036db390300000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/gym_dayVI_paint",
+			"PackageChunkId": "a70e611845b8baa300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_1",
+			"PackageChunkId": "e76e454cc02f659c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_35",
+			"PackageChunkId": "4b5c02bdb6d6255b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/ComicJensFreePro-Regular",
+			"PackageChunkId": "69fe64860342277b00000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-SemiBold",
+			"PackageChunkId": "8847bff5b9df7eff00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
+			"PackageChunkId": "da9ef9387e6c513600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
+			"PackageChunkId": "f38cb73e67825d9600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/FlattenMaterial",
+			"PackageChunkId": "2acd952336aab07f00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
+			"PackageChunkId": "3c018da41573213600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/EmissiveMeshMaterial",
+			"PackageChunkId": "6ebbe4a6ced841cc00000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview",
+			"PackageChunkId": "7eb3fe785bdbb00200000001"
+		},
+		{
+			"Name": "/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP",
+			"PackageChunkId": "3bf2df25e14476d700000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
+			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
+			"PackageChunkId": "305a1ec18dd5a4be00000001"
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
+		},
+		{
+			"Name": "/Paper2D/DummySprite",
+			"PackageChunkId": "7936cc24a0df034100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultSpriteMaterial",
+			"PackageChunkId": "12c2c1346a8453a600000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/DroidSansMono",
+			"PackageChunkId": "1a82e2e1070fe60800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_21",
+			"PackageChunkId": "08e02f1a66ba533d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_22",
+			"PackageChunkId": "8f4fad451520a99a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_23",
+			"PackageChunkId": "b3bcfbe2f6cd1c2f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_24",
+			"PackageChunkId": "59ad928b9b24c42100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_25",
+			"PackageChunkId": "ed79420a4002458200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_27",
+			"PackageChunkId": "e4d8b3e64b8577a100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_29",
+			"PackageChunkId": "e61106980aaa001e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_30",
+			"PackageChunkId": "f5d59ab5ce36fea600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_31",
+			"PackageChunkId": "13107739cb85e50700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_32",
+			"PackageChunkId": "b7e08ca9b2cc8d4900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_33",
+			"PackageChunkId": "73377495c9f562a900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_34",
+			"PackageChunkId": "59d95154b954453500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_36",
+			"PackageChunkId": "19a072dbd3e964a200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_37",
+			"PackageChunkId": "f84cfe9edd493ef500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_38",
+			"PackageChunkId": "5b3e9adbd325e85600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_39",
+			"PackageChunkId": "055060bd5c169b0900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_40",
+			"PackageChunkId": "29deb9a27a799dbc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_41",
+			"PackageChunkId": "d14ea44919fc856100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_42",
+			"PackageChunkId": "09fdf8c6a56bc8ab00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_43",
+			"PackageChunkId": "fc6ae7578f59afc500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_44",
+			"PackageChunkId": "51d8080abd7220cf00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_45",
+			"PackageChunkId": "127fd3ab24ef65a100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_46",
+			"PackageChunkId": "e603da95b6bdc45000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_47",
+			"PackageChunkId": "804895d5de2361ab00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_48",
+			"PackageChunkId": "363682060b4a771e00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/FlouristsSonDayIIAtWork/flouristsson_atwork_49",
+			"PackageChunkId": "f7abc09a207862cd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/gym_experiment_paintv2",
+			"PackageChunkId": "4909cb8adb55f26600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_2",
+			"PackageChunkId": "376b1256af36ceee00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_3",
+			"PackageChunkId": "019e111a3c52fa1900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_4",
+			"PackageChunkId": "c785b4a1503c100200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_5",
+			"PackageChunkId": "a83148f049e027f400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/AthleticMan/BW/BWAthleticMan_6",
+			"PackageChunkId": "81d039be92a347af00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan1",
+			"PackageChunkId": "72cf54084b60f4f100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan2",
+			"PackageChunkId": "2c09b29f07e4a10900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan4",
+			"PackageChunkId": "7ca6109e740d0c4500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan5",
+			"PackageChunkId": "b54b535e5be8107100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan6",
+			"PackageChunkId": "48992f9b5cbb42f100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan8",
+			"PackageChunkId": "e5fecd090d13100a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/OldManBlackWhite/BWOldMan3",
+			"PackageChunkId": "a4dacac5f5e4ac5d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayVI_final_paint",
+			"PackageChunkId": "b35aade666b92b7f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayVI_flashback_accident_paint",
+			"PackageChunkId": "6fc667463d7ecaa300000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/avenue_dayVI_flashback_paint",
+			"PackageChunkId": "aa97443bd4ee585900000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/living_room_1_paint",
+			"PackageChunkId": "3f93edfa8d18e5f400000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/living_room_colors_paint",
+			"PackageChunkId": "3593aaa6f235e73300000001"
+		},
+		{
+			"Name": "/Game/Assets/Backgrounds/living_room_colors_without_woman_paint",
+			"PackageChunkId": "77ed6ca6d949eda400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_0",
+			"PackageChunkId": "f0a6b4eba5fb702600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_1",
+			"PackageChunkId": "fb51afd2f68f140a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_2",
+			"PackageChunkId": "0f1bbb4a0054db6100000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_3",
+			"PackageChunkId": "5c467c1b24640a6a00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_4",
+			"PackageChunkId": "93f2377df2fc6f3f00000001"
+		},
+		{
+			"Name": "/Engine/EngineFonts/Roboto",
+			"PackageChunkId": "08578f8490e5c66d00000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Materials/MovieRenderQueue_WorldDepth",
+			"PackageChunkId": "2f33b04d94573b6f00000001"
+		},
+		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
+			"PackageChunkId": "c851afa144f311c000000001"
+		},
+		{
+			"Name": "/HairStrands/Materials/HairDebugMaterial",
+			"PackageChunkId": "3889933e64b3022c00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud",
+			"PackageChunkId": "497b4263fbd333c800000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Materials/MovieRenderQueue_MotionVectors",
+			"PackageChunkId": "22df2134d94a27fa00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
+			"PackageChunkId": "6c3a98c4aa151a5300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
+			"PackageChunkId": "ef400c1f3fd91f2a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultMaterial",
+			"PackageChunkId": "b4d3126ba7954ec000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/WorldGridMaterial",
+			"PackageChunkId": "eeb296b2a739309500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
+			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_13",
+			"PackageChunkId": "678ea27f95608f0500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_13",
+			"PackageChunkId": "603373408112952400000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_6",
+			"PackageChunkId": "956935b51b7e053200000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_7",
+			"PackageChunkId": "0ec59d202b5da4d900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_8",
+			"PackageChunkId": "2da76d55beb134ae00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_9",
+			"PackageChunkId": "a3313eee62b871de00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_10",
+			"PackageChunkId": "0b38a7c07808dc0d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_11",
+			"PackageChunkId": "bf37e2eb387f0e8900000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_12",
+			"PackageChunkId": "16bf3b08321b164800000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_14",
+			"PackageChunkId": "d460d3f535b8607300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_15",
+			"PackageChunkId": "3d93813197303b0000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAOldMan/YAOldMan_16",
+			"PackageChunkId": "128bfb37dae0a92d00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_1",
+			"PackageChunkId": "ad83ba21fd0452c600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_2",
+			"PackageChunkId": "c300fe7ef8ea416c00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_3",
+			"PackageChunkId": "14524767eaacb8f600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_4",
+			"PackageChunkId": "255cc8a5510bdade00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_5",
+			"PackageChunkId": "402c1a2e3467194000000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_6",
+			"PackageChunkId": "16627c492c02040700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_7",
+			"PackageChunkId": "3867805235b1b81500000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_8",
+			"PackageChunkId": "50045908f94e549f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_9",
+			"PackageChunkId": "a6b08ad574e90bb700000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_10",
+			"PackageChunkId": "6d8868f0921168b600000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_11",
+			"PackageChunkId": "3fb9411ef05b28d300000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_12",
+			"PackageChunkId": "f204b03e8f64ba4f00000001"
+		},
+		{
+			"Name": "/Game/Assets/Characters/YAWife/YAWife_14",
+			"PackageChunkId": "f8f895a5c2b3803800000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale",
+			"PackageChunkId": "14c0e68102482a4700000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/PPM_DefaultCalibrationColor",
+			"PackageChunkId": "a4739b1d475b4a3e00000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
+			"PackageChunkId": "37cdeb5ce1d3ccd800000001"
+		},
+		{
+			"Name": "/Game/Structs/S_DialogueInfo",
+			"PackageChunkId": "cf6275e5a079c5b300000001"
+		},
+		{
+			"Name": "/Game/Movies/cloudsSequencePlayer_Video",
+			"PackageChunkId": "618c0111c4061bb100000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightBrownDissolveOutPlayer_Video",
+			"PackageChunkId": "15ce04340ad38a9000000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightYellowDissolveOutPlayer_Video",
+			"PackageChunkId": "3bb02ee037a0240700000001"
+		},
+		{
+			"Name": "/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video",
+			"PackageChunkId": "348b48823ae1e88100000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video",
+			"PackageChunkId": "04906d7b2093e4f000000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSmallTable/smallTableSequencePlayer_Video",
+			"PackageChunkId": "72eb9d6b2b730e4400000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSofa/SofaSequencePlayer_Video",
+			"PackageChunkId": "a088d787a69903de00000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWifeSofa/WifeSofaPlayer_Video",
+			"PackageChunkId": "4553f347d251a70800000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWoman/DissolveWifePlayer_Video",
+			"PackageChunkId": "503a9ba999981d3c00000001"
+		},
+		{
+			"Name": "/Game/Movies/IncreaseSpeedTransparent/speedSequencePlayer_Video",
+			"PackageChunkId": "2ebaafd63862e5a700000001"
+		},
+		{
+			"Name": "/Game/Assets/VideoWidget/NewMediaPlayer_Video",
+			"PackageChunkId": "1d9160cc8f109a0b00000001"
+		},
+		{
+			"Name": "/Game/Movies/CarFireLineArt/CarFirePlayer_Video",
+			"PackageChunkId": "d54b78772380f8de00000001"
+		},
+		{
+			"Name": "/Game/Movies/CarMovingSequence/carmMovingPlayer_Video",
+			"PackageChunkId": "545dc0cbf517638900000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-Bold_Font",
+			"PackageChunkId": "0cf71a23f3a61cdd00000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-Light_Font",
+			"PackageChunkId": "23f726e8c02a8f7900000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/Robecha_Daniera-Regular_Font",
+			"PackageChunkId": "33ad3c8f70e8f9a600000001"
+		},
+		{
+			"Name": "/Game/Assets/SFX/SC_Keys",
+			"PackageChunkId": "7d1168b6b02c756200000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/ComicJensFreePro-Regular_Font",
+			"PackageChunkId": "23f075443fc364b400000001"
+		},
+		{
+			"Name": "/Game/Assets/Fonts/CormorantUnicase-SemiBold_Font",
+			"PackageChunkId": "4dc62b74234202f300000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Blueprints/UI_MovieRenderPipelineScreenOverlay",
+			"PackageChunkId": "15d912f6db8a3aa100000001"
+		},
+		{
+			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
+			"PackageChunkId": "1eb36adebf3e8d6900000001"
+		},
+		{
+			"Name": "/Paper2D/OpaqueUnlitSpriteMaterial",
+			"PackageChunkId": "b2e758c7adce0aa000000001"
+		},
+		{
+			"Name": "/Paper2D/MaskedUnlitSpriteMaterial",
+			"PackageChunkId": "603c62bd8092b35100000001"
+		},
+		{
+			"Name": "/MovieRenderPipeline/Blueprints/DefaultBurnIn",
+			"PackageChunkId": "d893555aa5ae51bf00000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster",
+			"PackageChunkId": "0ec7598e2050155600000001"
+		},
+		{
+			"Name": "/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster",
+			"PackageChunkId": "7bb897d6d85abe5e00000001"
+		},
+		{
+			"Name": "/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst",
+			"PackageChunkId": "4b7bf926a5212df600000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cone",
+			"PackageChunkId": "f23f619700918ac500000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cylinder",
+			"PackageChunkId": "7607d982d08b414700000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Sphere",
+			"PackageChunkId": "4a782f60fcb4c26e00000001"
+		},
+		{
+			"Name": "/Engine/Maps/Entry",
+			"PackageChunkId": "d31cf458faf4915200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_solid",
+			"PackageChunkId": "1595b610bf425b8d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_3mm",
+			"PackageChunkId": "0d2d768a1192b97000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Wedge_1mm",
+			"PackageChunkId": "c66b43ec76bfc59100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_solid",
+			"PackageChunkId": "635920dd8e97e89c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_3mm",
+			"PackageChunkId": "81e5ad0aacfbd7d600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Triangle_1mm",
+			"PackageChunkId": "ee735f95c6fe420100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_solid",
+			"PackageChunkId": "299f33e3d422c87c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_3mm",
+			"PackageChunkId": "6bcf318dbf32160d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Star4_1mm",
+			"PackageChunkId": "8ff50e13d07b6e9600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_solid",
+			"PackageChunkId": "282dd182b8a2782f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_3mm",
+			"PackageChunkId": "2c09f940b5d3cf5600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Square_1mm",
+			"PackageChunkId": "d77ff1320cafb8eb00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_3mm",
+			"PackageChunkId": "3c8fe56dcc4c94e400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_1mm",
+			"PackageChunkId": "021da6225c7f517f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_solid",
+			"PackageChunkId": "2f97b476b27e825100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_3mm",
+			"PackageChunkId": "81539c5da11600ae00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedTriangle_1mm",
+			"PackageChunkId": "8a3d5c4c771cc2b800000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_solid",
+			"PackageChunkId": "47760300c23f376100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_3mm",
+			"PackageChunkId": "e2e0e65221e757ff00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_RoundedSquare_1mm",
+			"PackageChunkId": "7d129f2ecdbade0a00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_solid",
+			"PackageChunkId": "a1157adbe06ab91600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_3mm",
+			"PackageChunkId": "0f013d461d34e71f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_QuarterCircle_1mm",
+			"PackageChunkId": "1380a38fb2d9d09b00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_solid",
+			"PackageChunkId": "ccfbf6fb8c94d52600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_3mm",
+			"PackageChunkId": "2feae67d1f28277b00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Pyramid_1mm",
+			"PackageChunkId": "e28775e15c9fefaa00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_solid",
+			"PackageChunkId": "c42798d4b7d7893a00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_3mm",
+			"PackageChunkId": "db28b8396928adf000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Octagon_1mm",
+			"PackageChunkId": "9936bd915052cb2200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_solid",
+			"PackageChunkId": "1b6c8e2dd045aecf00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_3mm",
+			"PackageChunkId": "d23a4e7d2f47187c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Hexagon_1mm",
+			"PackageChunkId": "1d747f2667a6cc3e00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_solid",
+			"PackageChunkId": "d1e559d0e2302cd200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_3mm",
+			"PackageChunkId": "41772863b6990e2300000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_HalfCircle_1mm",
+			"PackageChunkId": "88eaefb43659df9600000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_solid",
+			"PackageChunkId": "5f0bb60d5aa9cbe000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_3mm",
+			"PackageChunkId": "a91d103488503cd200000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Diamond_1mm",
+			"PackageChunkId": "b971d0721fc7bec800000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_solid",
+			"PackageChunkId": "032dd1d44e4fc35000000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_3mm",
+			"PackageChunkId": "26708189dce06d9c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Circle_1mm",
+			"PackageChunkId": "b0e6f22a1229f33400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_solid",
+			"PackageChunkId": "b6ecf8eaf9e325c400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_3mm",
+			"PackageChunkId": "1d2105a53b99f8b400000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Box_1mm",
+			"PackageChunkId": "0bd00fa41afbdaed00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_solid",
+			"PackageChunkId": "4bf1e0df3070bca100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_3mm",
+			"PackageChunkId": "6ff734fd30628e8c00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow_1mm",
+			"PackageChunkId": "c37eb6c5460e3abb00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_solid",
+			"PackageChunkId": "34f8d388913445db00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_3mm",
+			"PackageChunkId": "d623d5bc8818ccbe00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow4_1mm",
+			"PackageChunkId": "42cab4d3ee68987100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_solid",
+			"PackageChunkId": "dbdfc4bccd3d616d00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_3mm",
+			"PackageChunkId": "29ff7e5dd78cdef100000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Arrow2_1mm",
+			"PackageChunkId": "a9e8edb09171185f00000001"
+		},
+		{
+			"Name": "/ControlRig/Controls/ControlRig_Sphere_solid",
+			"PackageChunkId": "1b32f3f341cb246000000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Plane",
+			"PackageChunkId": "a44601bc68ca3f2400000001"
+		},
+		{
+			"Name": "/Engine/BasicShapes/Cube",
+			"PackageChunkId": "71fe0432abe4de2400000001"
+		},
+		{
+			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
+			"PackageChunkId": "7b9c08e592b6f57800000001"
+		},
+		{
+			"Name": "/Game/Levels/L_VisualNovel",
+			"PackageChunkId": "9ec9b395d43d4bd800000001"
+		},
+		{
+			"Name": "/Game/Levels/L_DisplayDay",
+			"PackageChunkId": "58b8a51a4810531300000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked",
+			"PackageChunkId": "85eb7ec9f6c8613a00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
+			"PackageChunkId": "dd353fe85598727e00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
+			"PackageChunkId": "34868b7f9c10838900000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfo",
+			"PackageChunkId": "8a65709ce860880900000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayII",
+			"PackageChunkId": "72f33e7d1d706ba900000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayIII",
+			"PackageChunkId": "ed21cdb81215afd100000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayIV",
+			"PackageChunkId": "5d58cf4183aaf9d100000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayV",
+			"PackageChunkId": "e519b86e44bf1f6b00000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayVI",
+			"PackageChunkId": "cdd37bd0d0e8e7e500000001"
+		},
+		{
+			"Name": "/Game/DataTables/DT_DialogueInfoDayVII",
+			"PackageChunkId": "3febe1e203151b3b00000001"
+		},
+		{
+			"Name": "/Game/Movies/cloudsSequencePlayer_Video_Mat",
+			"PackageChunkId": "a2041f3077c5f29500000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightBrownDissolveOutPlayer_Video_Mat",
+			"PackageChunkId": "759f0e7a322868e500000001"
+		},
+		{
+			"Name": "/Game/Movies/streetLightYellowDissolveOutPlayer_Video_Mat",
+			"PackageChunkId": "000985256776dfc000000001"
+		},
+		{
+			"Name": "/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video_Mat",
+			"PackageChunkId": "59c956626cd59a7000000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat",
+			"PackageChunkId": "ae84533277a2028900000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSmallTable/smallTableSequencePlayer_Video_Mat",
+			"PackageChunkId": "df8ce10e4f263ea200000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveSofa/SofaSequencePlayer_Video_Mat",
+			"PackageChunkId": "f43d8cf98b92755700000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWifeSofa/WifeSofaPlayer_Video_Mat",
+			"PackageChunkId": "9ddb5c94d5e6780100000001"
+		},
+		{
+			"Name": "/Game/Movies/DissolveWoman/DissolveWifePlayer_Video_Mat",
+			"PackageChunkId": "524eb712865ecd1a00000001"
+		},
+		{
+			"Name": "/Game/Movies/IncreaseSpeedTransparent/speedSequencePlayer_Video_Mat",
+			"PackageChunkId": "1286a15bcc2a911000000001"
+		},
+		{
+			"Name": "/Game/Assets/VideoWidget/NewMediaPlayer_Video_Mat",
+			"PackageChunkId": "8cd3974cf8d31e5d00000001"
+		},
+		{
+			"Name": "/Game/Movies/CarFireLineArt/CarFirePlayer_Video_Mat",
+			"PackageChunkId": "03d3dcbfeda7ac8000000001"
+		},
+		{
+			"Name": "/Game/Movies/CarMovingSequence/carmMovingPlayer_Video_Mat",
+			"PackageChunkId": "931857ae0a507bf500000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_End",
+			"PackageChunkId": "87f8ddd5703eda5e00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_Epilogue",
+			"PackageChunkId": "b7722609ba8a333f00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_onegai",
+			"PackageChunkId": "9e65f8191303ce7f00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_Prologue",
+			"PackageChunkId": "2e80ee0cf1c89c8e00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_Warning",
+			"PackageChunkId": "6784c0ef2829946600000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
+			"PackageChunkId": "3a0245e4904b10b500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
+			"PackageChunkId": "0e6a0028be3a2a6c00000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+			"PackageChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/HUD_DisplayDay",
+			"PackageChunkId": "2f2bf1ab701dfc1700000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
+			"PackageChunkId": "cadc4d0ec817b83400000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault",
+			"PackageChunkId": "cda0bce26734770500000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterSubmixDefault",
+			"PackageChunkId": "b059d54260cfd24100000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_VII/HUD_DialogueDayVII",
+			"PackageChunkId": "bd8d7e2b3544134700000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_VI/HUD_DialogueDayVI",
+			"PackageChunkId": "97f7fc8afb46b83c00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_V/HUD_DialogueDayV",
+			"PackageChunkId": "59c35ca2e56c6ec000000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_IV/HUD_DialogueDayIV",
+			"PackageChunkId": "c372c8981884e1eb00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_III/HUD_DialogueDayIII",
+			"PackageChunkId": "ed1bcacfe6d84c1600000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_II/HUD_DialogueDayII",
+			"PackageChunkId": "a5c03afe1af4cc5c00000001"
+		},
+		{
+			"Name": "/Game/BP/Game/BP_GameMode",
+			"PackageChunkId": "b68598545ddddb5000000001"
+		},
+		{
+			"Name": "/Game/BP/BPI/BPI_GameModeRef",
+			"PackageChunkId": "0442ec0e1477396c00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_I/HUD_Dialogue",
+			"PackageChunkId": "87d7328c38fe0f9d00000001"
+		},
+		{
+			"Name": "/Game/BP/HUD/Day_I/HUD_ChoiceButton",
+			"PackageChunkId": "fb2dd8d6836adde500000001"
+		}
+	],
+	"OptionalPackages": []
+}
