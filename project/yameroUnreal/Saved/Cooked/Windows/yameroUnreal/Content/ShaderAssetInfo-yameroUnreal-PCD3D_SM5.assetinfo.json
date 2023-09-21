@@ -229,23 +229,15 @@
 		{
 			"ShaderMapHash": "6D0710DF37095E70273A7093B3489A3392AE32AA",
 			"Assets": [
-				"/Game/Movies/cloudsSequencePlayer_Video_Mat",
-				"/Game/Movies/streetLightBrownDissolveOutPlayer_Video_Mat",
-				"/Game/Movies/streetLightYellowDissolveOutPlayer_Video_Mat",
-				"/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video_Mat",
-				"/Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat",
-				"/Game/Movies/DissolveSmallTable/smallTableSequencePlayer_Video_Mat",
-				"/Game/Movies/DissolveSofa/SofaSequencePlayer_Video_Mat",
 				"/Game/Movies/DissolveWifeSofa/WifeSofaPlayer_Video_Mat",
-				"/Game/Movies/DissolveWoman/DissolveWifePlayer_Video_Mat",
+				"/Game/Movies/DissolveSofa/SofaSequencePlayer_Video_Mat",
+				"/Game/Movies/DissolveBookshelf/BookshelfSequencePlayer_Video_Mat",
+				"/Game/Movies/CarMovingSequence/carmMovingPlayer_Video_Mat",
 				"/Game/Movies/CarFireLineArt/CarFirePlayer_Video_Mat",
-				"/Game/Movies/CarMovingSequence/carmMovingPlayer_Video_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "4A7CDB345C19F02A7542EC608720241FFFDF19A4",
-			"Assets": [
-				"/Game/Movies/IncreaseSpeedTransparent/speedSequencePlayer_Video_Mat"
+				"/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video_Mat",
+				"/Game/Movies/streetLightYellowDissolveOutPlayer_Video_Mat",
+				"/Game/Movies/streetLightBrownDissolveOutPlayer_Video_Mat",
+				"/Game/Movies/cloudsSequencePlayer_Video_Mat"
 			]
 		},
 		{
