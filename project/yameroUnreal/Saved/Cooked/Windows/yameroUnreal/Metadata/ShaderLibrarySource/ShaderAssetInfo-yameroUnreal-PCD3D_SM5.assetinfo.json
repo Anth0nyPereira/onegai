@@ -100,6 +100,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -109,12 +115,6 @@
 			"ShaderMapHash": "3B599E1E84C6BED8F66AF5A2D1125FB845FE4CAB",
 			"Assets": [
 				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
@@ -235,9 +235,9 @@
 				"/Game/Movies/CarMovingSequence/carmMovingPlayer_Video_Mat",
 				"/Game/Movies/CarFireLineArt/CarFirePlayer_Video_Mat",
 				"/Game/Movies/BreakingGlassSequence/GlassBreakingPlayer_Video_Mat",
-				"/Game/Movies/streetLightYellowDissolveOutPlayer_Video_Mat",
+				"/Game/Movies/cloudsSequencePlayer_Video_Mat",
 				"/Game/Movies/streetLightBrownDissolveOutPlayer_Video_Mat",
-				"/Game/Movies/cloudsSequencePlayer_Video_Mat"
+				"/Game/Movies/streetLightYellowDissolveOutPlayer_Video_Mat"
 			]
 		},
 		{
