@@ -1,11 +1,12 @@
-﻿*$Rev: 121017 $ complete 2.
+﻿* Encoding: UTF-8.
+*$Rev: 121017 $ complete 2.
 SET UNICODE=ON.
 SHOW LOCALE.
 PRESERVE LOCALE.
 SET LOCALE='en_UK'.
 GET DATA
  /TYPE=TXT
- /FILE='survey_564841_SPSS_data_file.dat'
+ /FILE='C:\Uni Things\Mestrado\Repos\dissertacao\onegai\sums\export_quest_spss\survey_564841_SPSS_data_file.dat'
  /DELCASE=LINE
  /DELIMITERS=","
  /QUALIFIER="'"
