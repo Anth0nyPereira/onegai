@@ -1,0 +1,178 @@
+<mxfile host="Electron" modified="2023-10-28T07:09:44.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="gL-Cn3-zfGuNPxaShUdh" version="22.0.0" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1480" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Personagem intervém no diálogo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry x="0.0086" y="19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="220" y="290" as="sourcePoint" />
+            <mxPoint x="220" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry x="0.1531" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="350" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;É a vez dela falar?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-1" value="Animação de &lt;b&gt;aparecimento &lt;/b&gt;da lâmpada &lt;b&gt;amarela&lt;/b&gt; (sistema de &lt;b&gt;partículas&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="490" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;O diálogo vem de começar?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-3" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="219.66" y="430" as="sourcePoint" />
+            <mxPoint x="219.66" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-4" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="280" y="379.65999999999997" as="sourcePoint" />
+            <mxPoint x="350" y="379.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;A mesma personagem falou no diálogo anterior?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-7" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="599.9999999999999" y="430" as="sourcePoint" />
+            <mxPoint x="599.9999999999999" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-8" value="Não ocorre animação" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-9" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="660.42" y="379.65999999999997" as="sourcePoint" />
+            <mxPoint x="730.42" y="379.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-10" value="Animação de &lt;b&gt;transição &lt;/b&gt;da lâmpada: &lt;b&gt;negro para amarelo&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730.42" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;É o último diálogo?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-12" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="379.65999999999997" as="sourcePoint" />
+            <mxPoint x="540" y="379.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;A mesma personagem falou no diálogo anterior?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="550" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-14" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="y0xk1Eg3YoeJpWb-Wuuz-13">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="409.65999999999997" y="430" as="sourcePoint" />
+            <mxPoint x="409.65999999999997" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-15" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="409.65999999999985" y="650" as="sourcePoint" />
+            <mxPoint x="409.65999999999985" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-16" value="Animação de &lt;b&gt;desvanecimento &lt;/b&gt;da lâmpada &lt;b&gt;amarela &lt;/b&gt;(sistema de &lt;b&gt;partículas&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="710" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-17" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="599.5799999999999" as="sourcePoint" />
+            <mxPoint x="540" y="599.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-18" value="Animação de &lt;b&gt;desvanecimento &lt;/b&gt;da lâmpada &lt;b&gt;negra &lt;/b&gt;(sistema de &lt;b&gt;partículas&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="555" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-19" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;A mesma personagem falou no diálogo anterior?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730.42" y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-20" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="0.0086" y="19" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="790" y="110" as="sourcePoint" />
+            <mxPoint x="790.42" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-21" value="Animação de &lt;b&gt;transição &lt;/b&gt;da lâmpada: &lt;b&gt;amarelo para negro&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="734.42" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-22" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="0.1531" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="850.42" y="59.5" as="sourcePoint" />
+            <mxPoint x="920.42" y="59.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;O diálogo vem de começar?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-24" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="470" y="59.49999999999994" as="sourcePoint" />
+            <mxPoint x="540" y="59.49999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;É o último diálogo?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-26" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="660" y="59.49999999999994" as="sourcePoint" />
+            <mxPoint x="730" y="59.49999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-27" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="409.5" y="110" as="sourcePoint" />
+            <mxPoint x="409.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-29" value="Animação de &lt;b&gt;aparecimento &lt;/b&gt;da lâmpada &lt;b&gt;negra&amp;nbsp;&lt;/b&gt;(sistema de &lt;b&gt;partículas&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-30" value="Sim" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="599.5" y="110" as="sourcePoint" />
+            <mxPoint x="599.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-31" value="Animação de &lt;b&gt;desvanecimento&amp;nbsp;&lt;/b&gt;da lâmpada &lt;b&gt;negra&amp;nbsp;&lt;/b&gt;(sistema de &lt;b&gt;partículas&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y0xk1Eg3YoeJpWb-Wuuz-32" value="Não ocorre animação" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
