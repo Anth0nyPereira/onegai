@@ -1,0 +1,13 @@
+- escrever frase do "reading sheet 1" no início do design - importância em fazer personagens com expressões faciais - para além de referir
+que é uma característica comum dos jogos VN, tal como explicado em 2.2 Jogo digital, o aparecimento de sprites das personagens estáticas no momento de interação de diálogo
+- escrever explicitamente de qual jogo foram retiradas as mecânicas de jogo usadas em 4.2 Mecânicas de jogo
+- relembrar o objetivo de promover a aptidão empática e da quebra do estigma perante a saúde mental na tomada de decisão em alargar
+o público-alvo o mais possível, mas dada a natureza do jogo que contém temática do suicídio e o uso de linguagem inapropriada foi
+necessário limitar para maiores de 18 anos
+- relacionar 2.5 depressão -  stress e depressão e 2.5 depressão - luto e depressão com a ideia final de jogo, além de relacionar a solidão 
+com depressão acima dos 50 anos com ideia final de jogo
+- relacionar o recurso à abstração com o englobar um maior numero de pessoas, permitindo um maior alcance do público-alvo
+- explicar que foi escolhida a terceira pessoa como perspetiva com a referência do estudo em questão, para além de se referir ser importante 
+a exposição de expressões faciais (novamente a reading sheet 1)
+- o facto de uma boa narrativa permitir uma maior transportação e flow - consequentemente uma imersão narrativa
+
