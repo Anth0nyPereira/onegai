@@ -1,1 +1,12 @@
-# YAMERO
+# Empathetic Character for Digital Games: the case of the digital game “Onegai”
+
+<p align="justify"> Modern society lacks empathy - the ability to understand behaviour and put yourself in someone else's shoes, sharing the same emotions. 
+These days are marked by a lack of face-to-face interactions, combined with the growth of new problems in the 21st century - such as the emergence of a pandemic, the beginning of a confrontation between Russia and Ukraine, and the rise of Islamic radicalism. 
+It is important to promote the development of this skill in citizens, a skill that helps them to deal with interpersonal conflicts and to live in society, contributing to happiness.
+Although there are studies related to empathy in the context of digital games, it is still unclear what characteristics a digital game must have in order to promote the development of empathy in an audience.
+Depression is considered to be the most common mental disorder in the general population (Stein et al., 2020), a worrying fact given that mental health is still stigmatised.
+That's why the idea was born to design and implement a digital game that addresses the issue of depression by portraying a protagonist with this condition, in order to discover which elements of the game could contribute to the emergence of empathic abilities.
+A narrative was developed around an elderly man suffering from depression; this narrative was divided into seven days, during which the old man visited an avenue every day, trying to pay tribute to an unknown entity and to dialogue with other people along the way. An implementation of the narrative into a digital game prototype was made using Unreal Engine as the game engine, so that the student could use the MetaHuman platform, which allows the design of childlike characters for the game. Other characters were created using an extension to the Blender modelling software. The objects in the game were created by the author in a low poly style.
+The game was then evaluated in terms of empathy for the playable character and usability using a questionnaire provided to specialists in digital game development, digital communication, and empathy. This survey used a scale to measure empathy for a playable character in a digital game and heuristics to assess usability.
+At the end of the research, it was concluded that a visual novel adventure game with a deep narrative, important contemporary issues such as mental health, and simple gameplay can foster the communication of empathy in an audience. </p>
+

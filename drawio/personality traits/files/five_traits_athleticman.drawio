@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-09-28T21:54:25.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="bpg8yegxevpvCOxsV_Lc" version="22.0.0" type="device">
+  <diagram name="Page-1" id="hrfuKWmgcLDxA6A8_S4z">
+    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-1" value="Centrismo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon" parent="1" vertex="1">
+          <mxGeometry x="320" y="190" width="177.78" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-2" value="Hospitaleiro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="379" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-3" value="Altruísta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="289" y="340" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-4" value="Gosta de se autocuidar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-6" value="Aberto aos Valores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MGS4_zHk_vSdASKoHBL2-7" value="Positivo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
