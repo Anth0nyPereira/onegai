@@ -1,6 +1,8 @@
 # Empathetic Character for Digital Games: the case of the digital game “Onegai”
 
-Modern society lacks empathy - the ability to understand behaviour and put yourself in someone else's shoes, sharing the same emotions. These days are marked by a lack of face-to-face interactions, combined with the growth of new problems in the 21st century - such as the emergence of a pandemic, the beginning of a confrontation between Russia and Ukraine, and the rise of Islamic radicalism. It is important to promote the development of this skill in citizens, a skill that helps them to deal with interpersonal conflicts and to live in society, contributing to happiness.
+Modern society lacks empathy - the ability to understand behaviour and put yourself in someone else's shoes, sharing the same emotions. 
+These days are marked by a lack of face-to-face interactions, combined with the growth of new problems in the 21st century - such as the emergence of a pandemic, the beginning of a confrontation between Russia and Ukraine, and the rise of Islamic radicalism. 
+It is important to promote the development of this skill in citizens, a skill that helps them to deal with interpersonal conflicts and to live in society, contributing to happiness.
 Although there are studies related to empathy in the context of digital games, it is still unclear what characteristics a digital game must have in order to promote the development of empathy in an audience.
 Depression is considered to be the most common mental disorder in the general population (Stein et al., 2020), a worrying fact given that mental health is still stigmatised.
 That's why the idea was born to design and implement a digital game that addresses the issue of depression by portraying a protagonist with this condition, in order to discover which elements of the game could contribute to the emergence of empathic abilities.
